@@ -1,0 +1,26 @@
+	<managedObject class="LNHOIF" version="" operation="update" distName="txtmolnhoif">
+		<p name="a3OffsetRsrpInterFreq">13.0</p>
+		<p name="a3ReportAmountRsrpInterFreq">infinity</p>
+		<p name="a3ReportAmountRsrqInterFreq">infinity</p>
+		<p name="a3ReportIntervalRsrpInterFreq">240ms</p>
+		<p name="a3TimeToTriggerRsrpInterFreq">320ms</p>
+		<p name="a5ReportAmountRsrpInterFreq">infinity</p>
+		<p name="a5ReportAmountRsrqInterFreq">infinity</p>
+		<p name="a5ReportIntervalInterFreq">240ms</p>
+		<p name="a5TimeToTriggerInterFreq">256ms</p>
+		<p name="eutraCarrierInfo">txteutracarrierinfo</p>
+		<p name="hysA3OffsetRsrpInterFreq">0.0</p>
+		<p name="hysThreshold3InterFreq">0.0</p>
+		<p name="interPresAntP">true</p>
+		<p name="measQuantInterFreq">rsrp</p>
+		<p name="measurementBandwidth">mbw50</p>
+		<p name="offsetFreqInter">0dB</p>
+		<p name="threshold3InterFreq">-112</p>
+		<p name="threshold3aInterFreq">-110</p>
+		<p name="thresholdRsrpIFLBFilter">-98</p>
+		<p name="thresholdRsrpIFSBFilter">-98</p>
+		<p name="thresholdRsrpServIFLBFilter">-98</p>
+		<p name="thresholdRsrqIFLBFilter">-12.0</p>
+		<p name="thresholdRsrqIFSBFilter">-12.0</p>
+		<p name="thresholdRsrqServIFLBFilter">-12.0</p>
+	</managedObject>

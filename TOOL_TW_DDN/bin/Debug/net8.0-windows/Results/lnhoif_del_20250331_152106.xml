@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE raml SYSTEM 'raml20.dtd'>
+<raml version="2.0" xmlns="raml20.xsd">
+<cmData type="plan">
+<header>
+ <log dateTime="" action="created" appInfo="PlanExporter">UIValues are used</log>
+</header>
+</cmData>
+</raml>

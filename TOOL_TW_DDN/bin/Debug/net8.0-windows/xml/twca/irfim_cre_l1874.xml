@@ -1,0 +1,29 @@
+	<managedObject class="IRFIM" version="" operation="create" distName="PLMN-PLMN/MRBTS-txtmrbts/LNBTS-txtmrbts/LNCEL-txtlncel/IRFIM-*">
+		<p name="dlCarFrqEut">txtdlcarfrqeut</p>
+		<p name="enableA4IMLB">enabled</p>
+		<p name="eutCelResPrio">5</p>
+		<p name="idleLBEutCelResPrio">5.0</p>
+		<p name="idleLBEutCelResPrio2CC">5.0</p>
+		<p name="idleLBEutCelResPrio3CC">5.0</p>
+		<p name="idleLBEutCelResPrio4CC">5.0</p>
+		<p name="idleLBEutCelResPrio5CC">5.0</p>
+		<p name="idleLBEutCelResWeight">100</p>
+		<p name="idleLBEutCelResWeight2CC">80</p>
+		<p name="idleLBEutCelResWeight3CC">80</p>
+		<p name="idleLBEutCelResWeight4CC">100</p>
+		<p name="idleLBEutCelResWeight5CC">100</p>
+		<p name="incMonExSel">R8ListPartPreferred</p>
+		<p name="interFrqThrH">16</p>
+		<p name="interFrqThrL">22</p>
+		<p name="interPresAntP">false</p>
+		<p name="interTResEut">1</p>
+		<p name="mbmsNeighCellConfigInterF">00</p>
+		<p name="measBdw">75mbw</p>
+		<p name="minDeltaRsrpIMLB">0</p>
+		<p name="minDeltaRsrqIMLB">0.0</p>
+		<p name="minRsrpIMLB">-114</p>
+		<p name="minRsrqIMLB">-16.0</p>
+		<p name="qOffFrq">0 dB</p>
+		<p name="qRxLevMinInterF">-130</p>
+		<p name="reducedMeasPerformance">false</p>
+    </managedObject>

@@ -1,0 +1,19 @@
+	<managedObject class="CAPR" version="" operation="create" distName="PLMN-PLMN/MRBTS-txtmrbts/LNBTS-txtmrbts/LNCEL-txtlncel/CAPR-*">
+		<p name="a3Offset">-3.0</p>
+		<p name="a3TimeToTrigger">ms320</p>
+		<p name="a3TriggerQuantity">RSRP</p>
+		<p name="a6Offset">3.0</p>
+		<p name="a6ReportInterval">640ms</p>
+		<p name="a6TimeToTrigger">320ms</p>
+		<p name="earfcnDL">txtfca</p>
+		<p name="enableA3Event">true</p>
+		<p name="enableA6Event">true</p>
+		<p name="enableFreqPrioSwap">disabled</p>
+		<p name="hysA3Offset">1.0</p>
+		<p name="hysA6Offset">0.0</p>
+		<p name="maxNumScellSwaps">0</p>
+		<p name="sFreqPrio">1</p>
+		<p name="scellMeasThreshRsrp">-114</p>
+		<p name="scellMeasThreshRsrq">-16.0</p>
+		<p name="scellPdcchOlLa">enabledPcellBased</p>
+	</managedObject>

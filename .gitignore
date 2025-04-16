@@ -1,0 +1,21 @@
+# .NET build outputs
+/bin/
+/obj/
+
+# Visual Studio user files
+*.csproj.user
+
+# IDE and editor files
+.vs/
+*.suo
+*.sln.docstates
+
+# NuGet packages
+packages/
+
+# Temporary files
+*.bak
+*.tmp
+
+# Windows-specific files
+Thumbs.db

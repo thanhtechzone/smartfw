@@ -1,0 +1,162 @@
+    <managedObject class="LNBTS" version="" distName="PLMN-PLMN/MRBTS-txtmrbts/LNBTS-txtmrbts" operation="update">
+      <p name="caSchedFairFact">0</p>
+      <p name="actDLCAggr">TRUE</p>
+	  <p name="actPcellSwap">TRUE</p>
+	  <p name="actRLFbasedRCR">TRUE</p>
+	  <p name="pcellSwapBlockTimer">10</p>
+      <p name="sCellActivationCyclePeriod">0.5s</p>
+      <p name="caMinUlAmbr">512</p>
+      <p name="actFlexCaMgmt">FALSE</p>
+      <p name="actFlexScellSelect">TRUE</p>
+      <p name="actIfHo">enabled</p>
+      <p name="actAmbrModCaTrigger">TRUE</p>
+      <p name="actIdleLBCaAware">TRUE</p>
+      <p name="actRLFbasedRCR">FALSE</p>
+      <p name="actSelMobPrf">TRUE</p>
+      <p name="actTempHoBlacklisting">TRUE</p>
+      <p name="actUeLevelMro">TRUE</p>
+      <p name="dynBlacklistingHoTimer">60s</p>
+      <p name="nConsecHOPrepTimeouts">4</p>
+      <p name="nCqiDtx">0</p>
+      <p name="rlfBasedRCRdefault">FALSE</p>
+      <p name="s1InducedCellDeactDelayTime">30</p>
+      <p name="blacklistS1HoEPCFailure">TRUE</p>
+      <p name="maxRetxThreshSrbDL">t32</p>
+      <p name="maxRetxThreshSrbUL">t32</p>
+      <p name="rrcGuardTimer">5000</p>
+      <p name="tHalfRrcCon">5000</p>
+      <p name="tX2RelocPrep">1000</p>
+      <p name="tx2RelODelta">300</p>
+    </managedObject>
+    <managedObject class="LNBTS_FDD" version="" distName="PLMN-PLMN/MRBTS-txtmrbts/LNBTS-txtmrbts/LNBTS_FDD-0" operation="update">
+      <p name="actFlexBbUsage">TRUE</p>
+    </managedObject>
+    <managedObject class="CADPR" version="" distName="PLMN-PLMN/MRBTS-txtmrbts/LNBTS-txtmrbts/CADPR-0" operation="update">
+      <p name="a3Offset">-3</p>
+      <p name="a3TimeToTrigger">ms320</p>
+      <p name="a3TriggerQuantity">RSRP</p>
+      <p name="a6Offset">3</p>
+      <p name="a6ReportInterval">640ms</p>
+      <p name="a6TimeToTrigger">320ms</p>
+      <p name="enableA3Event">TRUE</p>
+      <p name="enableA6Event">TRUE</p>
+      <p name="enableFreqPrioSwap">disabled</p>
+      <p name="hysA3Offset">1</p>
+      <p name="hysA6Offset">0</p>
+      <p name="maxNumMimoLayerFdd">10</p>
+      <p name="maxNumScellSwaps">0</p>
+      <p name="sFreqPrio">1</p>
+      <p name="scellMeasThreshRsrp">-114</p>
+      <p name="scellMeasThreshRsrq">-16</p>
+      <p name="maxNumMimoLayerTdd">10</p>
+      <p name="scellPdcchOlLa">enabledPcellBased</p>
+    </managedObject>
+    <managedObject class="CAGENB" version="" distName="PLMN-PLMN/MRBTS-txtmrbts/LNBTS-txtmrbts/CAGENB-0" operation="update">
+      <p name="nlcvDeltaX2C2">0.2</p>
+      <p name="maxDlCaConfigForUlCa">max_3CC_DL_CA</p>
+      <p name="pcellUlPathlossOffset">10</p>
+      <p name="pcellUlPathlossThresh">125</p>
+      <p name="actEnhCaBandCombSel"></p>
+      <p name="caScellSchedWtFactMinCqi"></p>
+    </managedObject>
+	<managedObject class="MODPR" version="" distName="PLMN-PLMN/MRBTS-txtmrbts/LNBTS-txtmrbts/MODPR-0" operation="update">
+      <p name="allowLBHoToUtran">false</p>
+      <p name="autoAdapt">true</p>
+      <p name="autoAdaptIMLB">false</p>
+      <p name="caBlockingAllowed">forbidden</p>
+      <p name="configUeCapEndcHoRetry">noRetries</p>
+      <p name="enDcBlockingAllowed">forbidden</p>
+      <p name="iFLBCandPrio">0</p>
+      <p name="idleLBPercCaUe">100</p>
+      <p name="idleLBPercUeTM9">0</p>
+      <p name="idleLBPercentageOfUes">100</p>
+      <p name="targetSelMethod">SIB_based</p>
+    </managedObject>
+    <managedObject class="MODIMP" version="" distName="PLMN-PLMN/MRBTS-txtmrbts/LNBTS-txtmrbts/MODPR-0/MODIMP-1" operation="update">
+      <list name="dlCarFrqEutL">
+        <item>
+          <p name="dlCarFrqEut">1501</p>
+          <p name="idleLBEutCelResPrio">5.0</p>
+          <p name="idleLBEutCelResPrio2CC">5.0</p>
+          <p name="idleLBEutCelResPrio3CC">5.0</p>
+          <p name="idleLBEutCelResPrio4CC">5.0</p>
+          <p name="idleLBEutCelResPrio5CC">5.0</p>
+          <p name="idleLBEutCelResPrio6CC">5.0</p>
+          <p name="idleLBEutCelResPrio7CC">5.0</p>
+          <p name="idleLBEutCelResPrioTM9">5.0</p>
+          <p name="idleLBEutCelResWeight">100</p>
+          <p name="idleLBEutCelResWeight2CC">100</p>
+          <p name="idleLBEutCelResWeight3CC">100</p>
+          <p name="idleLBEutCelResWeight4CC">100</p>
+          <p name="idleLBEutCelResWeight5CC">100</p>
+          <p name="idleLBEutCelResWeight6CC">100</p>
+          <p name="idleLBEutCelResWeight7CC">100</p>
+          <p name="idleLBEutCelResWeightTM9">100</p>
+        </item>
+        <item>
+          <p name="dlCarFrqEut">1874</p>
+          <p name="idleLBEutCelResPrio">5.0</p>
+          <p name="idleLBEutCelResPrio2CC">5.0</p>
+          <p name="idleLBEutCelResPrio3CC">5.0</p>
+          <p name="idleLBEutCelResPrio4CC">5.0</p>
+          <p name="idleLBEutCelResPrio5CC">5.0</p>
+          <p name="idleLBEutCelResPrio6CC">5.0</p>
+          <p name="idleLBEutCelResPrio7CC">5.0</p>
+          <p name="idleLBEutCelResPrioTM9">5.0</p>
+          <p name="idleLBEutCelResWeight">75</p>
+          <p name="idleLBEutCelResWeight2CC">75</p>
+          <p name="idleLBEutCelResWeight3CC">75</p>
+          <p name="idleLBEutCelResWeight4CC">75</p>
+          <p name="idleLBEutCelResWeight5CC">75</p>
+          <p name="idleLBEutCelResWeight6CC">75</p>
+          <p name="idleLBEutCelResWeight7CC">75</p>
+          <p name="idleLBEutCelResWeightTM9">75</p>
+        </item>
+        <item>
+          <p name="dlCarFrqEut">50</p>
+          <p name="idleLBEutCelResPrio">4.0</p>
+          <p name="idleLBEutCelResPrio2CC">4.0</p>
+          <p name="idleLBEutCelResPrio3CC">4.0</p>
+          <p name="idleLBEutCelResPrio4CC">4.0</p>
+          <p name="idleLBEutCelResPrio5CC">4.0</p>
+          <p name="idleLBEutCelResPrio6CC">4.0</p>
+          <p name="idleLBEutCelResPrio7CC">4.0</p>
+          <p name="idleLBEutCelResPrioTM9">4.0</p>
+          <p name="idleLBEutCelResWeight">50</p>
+          <p name="idleLBEutCelResWeight2CC">50</p>
+          <p name="idleLBEutCelResWeight3CC">50</p>
+          <p name="idleLBEutCelResWeight4CC">50</p>
+          <p name="idleLBEutCelResWeight5CC">50</p>
+          <p name="idleLBEutCelResWeight6CC">50</p>
+          <p name="idleLBEutCelResWeight7CC">50</p>
+          <p name="idleLBEutCelResWeightTM9">50</p>
+        </item>
+		<item>
+          <p name="dlCarFrqEut">3750</p>
+          <p name="idleLBEutCelResPrio">3.0</p>
+          <p name="idleLBEutCelResPrio2CC">3.0</p>
+          <p name="idleLBEutCelResPrio3CC">3.0</p>
+          <p name="idleLBEutCelResPrio4CC">3.0</p>
+          <p name="idleLBEutCelResPrio5CC">3.0</p>
+          <p name="idleLBEutCelResPrio6CC">3.0</p>
+          <p name="idleLBEutCelResPrio7CC">4.0</p>
+          <p name="idleLBEutCelResPrioTM9">3.0</p>
+          <p name="idleLBEutCelResWeight">50</p>
+          <p name="idleLBEutCelResWeight2CC">50</p>
+          <p name="idleLBEutCelResWeight3CC">50</p>
+          <p name="idleLBEutCelResWeight4CC">50</p>
+          <p name="idleLBEutCelResWeight5CC">50</p>
+          <p name="idleLBEutCelResWeight6CC">50</p>
+          <p name="idleLBEutCelResWeight7CC">50</p>
+          <p name="idleLBEutCelResWeightTM9">50</p>
+        </item>
+      </list>
+    </managedObject>
+    <managedObject class="MODRED" version="" distName="PLMN-PLMN/MRBTS-txtmrbts/LNBTS-txtmrbts/MODPR-0/MODRED-1" operation="update">
+      <p name="addUtranSIToRedirMsg">both</p>
+      <p name="csFallBPrio">1</p>
+      <p name="emerCallPrio">1</p>
+      <p name="redirFreqUtra">10612</p>
+      <p name="redirRAT">utraFDD</p>
+      <p name="redirectPrio">1</p>
+    </managedObject>

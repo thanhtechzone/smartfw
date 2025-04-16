@@ -1,0 +1,10 @@
+    <managedObject class="LNCEL" version="" distName="PLMN-PLMN/MRBTS-txtenbid/LNBTS-txtenbid/LNCEL-txtcell" operation="update">
+      <p name="operation">update</p>
+      <p name="actPeriodicB1NRMeas">enhanced</p>
+      <p name="eTputFilterConfig">51</p>
+      <p name="eTputInitMcs">20</p>
+    </managedObject>
+	    <managedObject class="SIB" version="" distName="PLMN-PLMN/MRBTS-txtenbid/LNBTS-txtenbid/LNCEL-txtcell/SIB-0" operation="update">
+      <p name="operation">update</p>
+      <p name="primPlmnUpperLayerIndicationR15">1</p>
+    </managedObject>

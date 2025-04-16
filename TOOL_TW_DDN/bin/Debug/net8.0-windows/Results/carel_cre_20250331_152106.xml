@@ -1,0 +1,2319 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE raml SYSTEM 'raml20.dtd'>
+<raml version="2.0" xmlns="raml20.xsd">
+<cmData type="plan">
+<header>
+ <log dateTime="" action="created" appInfo="PlanExporter">UIValues are used</log>
+</header>
+	<managedObject class="CAREL" operation="create" distName="PLMN-PLMN/MRBTS-521265/LNBTS-521265/LNCEL-11/CAREL-1">
+		<p name="lcrId">42</p>
+		<p name="lnBtsId">521265</p>
+		<p name="maxNumOfSuppMimoLayer">4-layer</p>
+		<p name="pcellSwapAllowed">allowed</p>
+		<p name="scellPrio">2</p>
+	</managedObject>
+	<managedObject class="CAREL" operation="create" distName="PLMN-PLMN/MRBTS-521265/LNBTS-521265/LNCEL-11/CAREL-2">
+		<p name="lcrId">43</p>
+		<p name="lnBtsId">521265</p>
+		<p name="maxNumOfSuppMimoLayer">4-layer</p>
+		<p name="pcellSwapAllowed">allowed</p>
+		<p name="scellPrio">2</p>
+	</managedObject>
+	<managedObject class="CAREL" operation="create" distName="PLMN-PLMN/MRBTS-521265/LNBTS-521265/LNCEL-12/CAREL-1">
+		<p name="lcrId">42</p>
+		<p name="lnBtsId">521265</p>
+		<p name="maxNumOfSuppMimoLayer">4-layer</p>
+		<p name="pcellSwapAllowed">allowed</p>
+		<p name="scellPrio">1</p>
+	</managedObject>
+	<managedObject class="CAREL" operation="create" distName="PLMN-PLMN/MRBTS-521265/LNBTS-521265/LNCEL-12/CAREL-2">
+		<p name="lcrId">43</p>
+		<p name="lnBtsId">521265</p>
+		<p name="maxNumOfSuppMimoLayer">4-layer</p>
+		<p name="pcellSwapAllowed">allowed</p>
+		<p name="scellPrio">2</p>
+	</managedObject>
+	<managedObject class="CAREL" operation="create" distName="PLMN-PLMN/MRBTS-521265/LNBTS-521265/LNCEL-13/CAREL-1">
+		<p name="lcrId">42</p>
+		<p name="lnBtsId">521265</p>
+		<p name="maxNumOfSuppMimoLayer">4-layer</p>
+		<p name="pcellSwapAllowed">allowed</p>
+		<p name="scellPrio">2</p>
+	</managedObject>
+	<managedObject class="CAREL" operation="create" distName="PLMN-PLMN/MRBTS-521265/LNBTS-521265/LNCEL-13/CAREL-2">
+		<p name="lcrId">43</p>
+		<p name="lnBtsId">521265</p>
+		<p name="maxNumOfSuppMimoLayer">4-layer</p>
+		<p name="pcellSwapAllowed">allowed</p>
+		<p name="scellPrio">1</p>
+	</managedObject>
+	<managedObject class="CAREL" operation="create" distName="PLMN-PLMN/MRBTS-521265/LNBTS-521265/LNCEL-42/CAREL-1">
+		<p name="lcrId">11</p>
+		<p name="lnBtsId">521265</p>
+		<p name="maxNumOfSuppMimoLayer">4-layer</p>
+		<p name="pcellSwapAllowed">allowed</p>
+		<p name="scellPrio">2</p>
+	</managedObject>
+	<managedObject class="CAREL" operation="create" distName="PLMN-PLMN/MRBTS-521265/LNBTS-521265/LNCEL-42/CAREL-2">
+		<p name="lcrId">12</p>
+		<p name="lnBtsId">521265</p>
+		<p name="maxNumOfSuppMimoLayer">4-layer</p>
+		<p name="pcellSwapAllowed">allowed</p>
+		<p name="scellPrio">1</p>
+	</managedObject>
+	<managedObject class="CAREL" operation="create" distName="PLMN-PLMN/MRBTS-521265/LNBTS-521265/LNCEL-42/CAREL-3">
+		<p name="lcrId">13</p>
+		<p name="lnBtsId">521265</p>
+		<p name="maxNumOfSuppMimoLayer">4-layer</p>
+		<p name="pcellSwapAllowed">allowed</p>
+		<p name="scellPrio">2</p>
+	</managedObject>
+	<managedObject class="CAREL" operation="create" distName="PLMN-PLMN/MRBTS-521265/LNBTS-521265/LNCEL-43/CAREL-1">
+		<p name="lcrId">11</p>
+		<p name="lnBtsId">521265</p>
+		<p name="maxNumOfSuppMimoLayer">4-layer</p>
+		<p name="pcellSwapAllowed">allowed</p>
+		<p name="scellPrio">2</p>
+	</managedObject>
+	<managedObject class="CAREL" operation="create" distName="PLMN-PLMN/MRBTS-521265/LNBTS-521265/LNCEL-43/CAREL-2">
+		<p name="lcrId">12</p>
+		<p name="lnBtsId">521265</p>
+		<p name="maxNumOfSuppMimoLayer">4-layer</p>
+		<p name="pcellSwapAllowed">allowed</p>
+		<p name="scellPrio">2</p>
+	</managedObject>
+	<managedObject class="CAREL" operation="create" distName="PLMN-PLMN/MRBTS-521265/LNBTS-521265/LNCEL-43/CAREL-3">
+		<p name="lcrId">13</p>
+		<p name="lnBtsId">521265</p>
+		<p name="maxNumOfSuppMimoLayer">4-layer</p>
+		<p name="pcellSwapAllowed">allowed</p>
+		<p name="scellPrio">1</p>
+	</managedObject>
+	<managedObject class="CAREL" operation="create" distName="PLMN-PLMN/MRBTS-521020/LNBTS-521020/LNCEL-11/CAREL-1">
+		<p name="lcrId">42</p>
+		<p name="lnBtsId">521020</p>
+		<p name="maxNumOfSuppMimoLayer">4-layer</p>
+		<p name="pcellSwapAllowed">allowed</p>
+		<p name="scellPrio">2</p>
+	</managedObject>
+	<managedObject class="CAREL" operation="create" distName="PLMN-PLMN/MRBTS-521020/LNBTS-521020/LNCEL-11/CAREL-2">
+		<p name="lcrId">43</p>
+		<p name="lnBtsId">521020</p>
+		<p name="maxNumOfSuppMimoLayer">4-layer</p>
+		<p name="pcellSwapAllowed">allowed</p>
+		<p name="scellPrio">2</p>
+	</managedObject>
+	<managedObject class="CAREL" operation="create" distName="PLMN-PLMN/MRBTS-521020/LNBTS-521020/LNCEL-12/CAREL-1">
+		<p name="lcrId">42</p>
+		<p name="lnBtsId">521020</p>
+		<p name="maxNumOfSuppMimoLayer">4-layer</p>
+		<p name="pcellSwapAllowed">allowed</p>
+		<p name="scellPrio">1</p>
+	</managedObject>
+	<managedObject class="CAREL" operation="create" distName="PLMN-PLMN/MRBTS-521020/LNBTS-521020/LNCEL-12/CAREL-2">
+		<p name="lcrId">43</p>
+		<p name="lnBtsId">521020</p>
+		<p name="maxNumOfSuppMimoLayer">4-layer</p>
+		<p name="pcellSwapAllowed">allowed</p>
+		<p name="scellPrio">2</p>
+	</managedObject>
+	<managedObject class="CAREL" operation="create" distName="PLMN-PLMN/MRBTS-521020/LNBTS-521020/LNCEL-13/CAREL-1">
+		<p name="lcrId">42</p>
+		<p name="lnBtsId">521020</p>
+		<p name="maxNumOfSuppMimoLayer">4-layer</p>
+		<p name="pcellSwapAllowed">allowed</p>
+		<p name="scellPrio">2</p>
+	</managedObject>
+	<managedObject class="CAREL" operation="create" distName="PLMN-PLMN/MRBTS-521020/LNBTS-521020/LNCEL-13/CAREL-2">
+		<p name="lcrId">43</p>
+		<p name="lnBtsId">521020</p>
+		<p name="maxNumOfSuppMimoLayer">4-layer</p>
+		<p name="pcellSwapAllowed">allowed</p>
+		<p name="scellPrio">1</p>
+	</managedObject>
+	<managedObject class="CAREL" operation="create" distName="PLMN-PLMN/MRBTS-521020/LNBTS-521020/LNCEL-42/CAREL-1">
+		<p name="lcrId">11</p>
+		<p name="lnBtsId">521020</p>
+		<p name="maxNumOfSuppMimoLayer">4-layer</p>
+		<p name="pcellSwapAllowed">allowed</p>
+		<p name="scellPrio">2</p>
+	</managedObject>
+	<managedObject class="CAREL" operation="create" distName="PLMN-PLMN/MRBTS-521020/LNBTS-521020/LNCEL-42/CAREL-2">
+		<p name="lcrId">12</p>
+		<p name="lnBtsId">521020</p>
+		<p name="maxNumOfSuppMimoLayer">4-layer</p>
+		<p name="pcellSwapAllowed">allowed</p>
+		<p name="scellPrio">1</p>
+	</managedObject>
+	<managedObject class="CAREL" operation="create" distName="PLMN-PLMN/MRBTS-521020/LNBTS-521020/LNCEL-42/CAREL-3">
+		<p name="lcrId">13</p>
+		<p name="lnBtsId">521020</p>
+		<p name="maxNumOfSuppMimoLayer">4-layer</p>
+		<p name="pcellSwapAllowed">allowed</p>
+		<p name="scellPrio">2</p>
+	</managedObject>
+	<managedObject class="CAREL" operation="create" distName="PLMN-PLMN/MRBTS-521020/LNBTS-521020/LNCEL-43/CAREL-1">
+		<p name="lcrId">11</p>
+		<p name="lnBtsId">521020</p>
+		<p name="maxNumOfSuppMimoLayer">4-layer</p>
+		<p name="pcellSwapAllowed">allowed</p>
+		<p name="scellPrio">2</p>
+	</managedObject>
+	<managedObject class="CAREL" operation="create" distName="PLMN-PLMN/MRBTS-521020/LNBTS-521020/LNCEL-43/CAREL-2">
+		<p name="lcrId">12</p>
+		<p name="lnBtsId">521020</p>
+		<p name="maxNumOfSuppMimoLayer">4-layer</p>
+		<p name="pcellSwapAllowed">allowed</p>
+		<p name="scellPrio">2</p>
+	</managedObject>
+	<managedObject class="CAREL" operation="create" distName="PLMN-PLMN/MRBTS-521020/LNBTS-521020/LNCEL-43/CAREL-3">
+		<p name="lcrId">13</p>
+		<p name="lnBtsId">521020</p>
+		<p name="maxNumOfSuppMimoLayer">4-layer</p>
+		<p name="pcellSwapAllowed">allowed</p>
+		<p name="scellPrio">1</p>
+	</managedObject>
+	<managedObject class="CAREL" operation="create" distName="PLMN-PLMN/MRBTS-563411/LNBTS-563411/LNCEL-11/CAREL-4">
+		<p name="lcrId">42</p>
+		<p name="lnBtsId">563411</p>
+		<p name="maxNumOfSuppMimoLayer">4-layer</p>
+		<p name="pcellSwapAllowed">allowed</p>
+		<p name="scellPrio">2</p>
+	</managedObject>
+	<managedObject class="CAREL" operation="create" distName="PLMN-PLMN/MRBTS-563411/LNBTS-563411/LNCEL-11/CAREL-5">
+		<p name="lcrId">43</p>
+		<p name="lnBtsId">563411</p>
+		<p name="maxNumOfSuppMimoLayer">4-layer</p>
+		<p name="pcellSwapAllowed">allowed</p>
+		<p name="scellPrio">2</p>
+	</managedObject>
+	<managedObject class="CAREL" operation="create" distName="PLMN-PLMN/MRBTS-563411/LNBTS-563411/LNCEL-12/CAREL-4">
+		<p name="lcrId">42</p>
+		<p name="lnBtsId">563411</p>
+		<p name="maxNumOfSuppMimoLayer">4-layer</p>
+		<p name="pcellSwapAllowed">allowed</p>
+		<p name="scellPrio">1</p>
+	</managedObject>
+	<managedObject class="CAREL" operation="create" distName="PLMN-PLMN/MRBTS-563411/LNBTS-563411/LNCEL-12/CAREL-5">
+		<p name="lcrId">43</p>
+		<p name="lnBtsId">563411</p>
+		<p name="maxNumOfSuppMimoLayer">4-layer</p>
+		<p name="pcellSwapAllowed">allowed</p>
+		<p name="scellPrio">2</p>
+	</managedObject>
+	<managedObject class="CAREL" operation="create" distName="PLMN-PLMN/MRBTS-563411/LNBTS-563411/LNCEL-13/CAREL-4">
+		<p name="lcrId">42</p>
+		<p name="lnBtsId">563411</p>
+		<p name="maxNumOfSuppMimoLayer">4-layer</p>
+		<p name="pcellSwapAllowed">allowed</p>
+		<p name="scellPrio">2</p>
+	</managedObject>
+	<managedObject class="CAREL" operation="create" distName="PLMN-PLMN/MRBTS-563411/LNBTS-563411/LNCEL-13/CAREL-5">
+		<p name="lcrId">43</p>
+		<p name="lnBtsId">563411</p>
+		<p name="maxNumOfSuppMimoLayer">4-layer</p>
+		<p name="pcellSwapAllowed">allowed</p>
+		<p name="scellPrio">1</p>
+	</managedObject>
+	<managedObject class="CAREL" operation="create" distName="PLMN-PLMN/MRBTS-563411/LNBTS-563411/LNCEL-42/CAREL-4">
+		<p name="lcrId">11</p>
+		<p name="lnBtsId">563411</p>
+		<p name="maxNumOfSuppMimoLayer">4-layer</p>
+		<p name="pcellSwapAllowed">allowed</p>
+		<p name="scellPrio">2</p>
+	</managedObject>
+	<managedObject class="CAREL" operation="create" distName="PLMN-PLMN/MRBTS-563411/LNBTS-563411/LNCEL-42/CAREL-5">
+		<p name="lcrId">12</p>
+		<p name="lnBtsId">563411</p>
+		<p name="maxNumOfSuppMimoLayer">4-layer</p>
+		<p name="pcellSwapAllowed">allowed</p>
+		<p name="scellPrio">1</p>
+	</managedObject>
+	<managedObject class="CAREL" operation="create" distName="PLMN-PLMN/MRBTS-563411/LNBTS-563411/LNCEL-42/CAREL-6">
+		<p name="lcrId">13</p>
+		<p name="lnBtsId">563411</p>
+		<p name="maxNumOfSuppMimoLayer">4-layer</p>
+		<p name="pcellSwapAllowed">allowed</p>
+		<p name="scellPrio">2</p>
+	</managedObject>
+	<managedObject class="CAREL" operation="create" distName="PLMN-PLMN/MRBTS-563411/LNBTS-563411/LNCEL-43/CAREL-4">
+		<p name="lcrId">11</p>
+		<p name="lnBtsId">563411</p>
+		<p name="maxNumOfSuppMimoLayer">4-layer</p>
+		<p name="pcellSwapAllowed">allowed</p>
+		<p name="scellPrio">2</p>
+	</managedObject>
+	<managedObject class="CAREL" operation="create" distName="PLMN-PLMN/MRBTS-563411/LNBTS-563411/LNCEL-43/CAREL-5">
+		<p name="lcrId">12</p>
+		<p name="lnBtsId">563411</p>
+		<p name="maxNumOfSuppMimoLayer">4-layer</p>
+		<p name="pcellSwapAllowed">allowed</p>
+		<p name="scellPrio">2</p>
+	</managedObject>
+	<managedObject class="CAREL" operation="create" distName="PLMN-PLMN/MRBTS-563411/LNBTS-563411/LNCEL-43/CAREL-6">
+		<p name="lcrId">13</p>
+		<p name="lnBtsId">563411</p>
+		<p name="maxNumOfSuppMimoLayer">4-layer</p>
+		<p name="pcellSwapAllowed">allowed</p>
+		<p name="scellPrio">1</p>
+	</managedObject>
+	<managedObject class="CAREL" operation="create" distName="PLMN-PLMN/MRBTS-560155/LNBTS-560155/LNCEL-11/CAREL-1">
+		<p name="lcrId">41</p>
+		<p name="lnBtsId">560155</p>
+		<p name="maxNumOfSuppMimoLayer">4-layer</p>
+		<p name="pcellSwapAllowed">allowed</p>
+		<p name="scellPrio">1</p>
+	</managedObject>
+	<managedObject class="CAREL" operation="create" distName="PLMN-PLMN/MRBTS-560155/LNBTS-560155/LNCEL-12/CAREL-1">
+		<p name="lcrId">41</p>
+		<p name="lnBtsId">560155</p>
+		<p name="maxNumOfSuppMimoLayer">4-layer</p>
+		<p name="pcellSwapAllowed">allowed</p>
+		<p name="scellPrio">2</p>
+	</managedObject>
+	<managedObject class="CAREL" operation="create" distName="PLMN-PLMN/MRBTS-560155/LNBTS-560155/LNCEL-13/CAREL-1">
+		<p name="lcrId">41</p>
+		<p name="lnBtsId">560155</p>
+		<p name="maxNumOfSuppMimoLayer">4-layer</p>
+		<p name="pcellSwapAllowed">allowed</p>
+		<p name="scellPrio">2</p>
+	</managedObject>
+	<managedObject class="CAREL" operation="create" distName="PLMN-PLMN/MRBTS-560155/LNBTS-560155/LNCEL-41/CAREL-1">
+		<p name="lcrId">11</p>
+		<p name="lnBtsId">560155</p>
+		<p name="maxNumOfSuppMimoLayer">4-layer</p>
+		<p name="pcellSwapAllowed">allowed</p>
+		<p name="scellPrio">1</p>
+	</managedObject>
+	<managedObject class="CAREL" operation="create" distName="PLMN-PLMN/MRBTS-560155/LNBTS-560155/LNCEL-41/CAREL-2">
+		<p name="lcrId">12</p>
+		<p name="lnBtsId">560155</p>
+		<p name="maxNumOfSuppMimoLayer">4-layer</p>
+		<p name="pcellSwapAllowed">allowed</p>
+		<p name="scellPrio">2</p>
+	</managedObject>
+	<managedObject class="CAREL" operation="create" distName="PLMN-PLMN/MRBTS-560155/LNBTS-560155/LNCEL-41/CAREL-3">
+		<p name="lcrId">13</p>
+		<p name="lnBtsId">560155</p>
+		<p name="maxNumOfSuppMimoLayer">4-layer</p>
+		<p name="pcellSwapAllowed">allowed</p>
+		<p name="scellPrio">2</p>
+	</managedObject>
+	<managedObject class="CAREL" operation="create" distName="PLMN-PLMN/MRBTS-520073/LNBTS-520073/LNCEL-11/CAREL-1">
+		<p name="lcrId">42</p>
+		<p name="lnBtsId">520073</p>
+		<p name="maxNumOfSuppMimoLayer">4-layer</p>
+		<p name="pcellSwapAllowed">allowed</p>
+		<p name="scellPrio">2</p>
+	</managedObject>
+	<managedObject class="CAREL" operation="create" distName="PLMN-PLMN/MRBTS-520073/LNBTS-520073/LNCEL-12/CAREL-1">
+		<p name="lcrId">42</p>
+		<p name="lnBtsId">520073</p>
+		<p name="maxNumOfSuppMimoLayer">4-layer</p>
+		<p name="pcellSwapAllowed">allowed</p>
+		<p name="scellPrio">1</p>
+	</managedObject>
+	<managedObject class="CAREL" operation="create" distName="PLMN-PLMN/MRBTS-520073/LNBTS-520073/LNCEL-13/CAREL-1">
+		<p name="lcrId">42</p>
+		<p name="lnBtsId">520073</p>
+		<p name="maxNumOfSuppMimoLayer">4-layer</p>
+		<p name="pcellSwapAllowed">allowed</p>
+		<p name="scellPrio">2</p>
+	</managedObject>
+	<managedObject class="CAREL" operation="create" distName="PLMN-PLMN/MRBTS-520073/LNBTS-520073/LNCEL-42/CAREL-1">
+		<p name="lcrId">11</p>
+		<p name="lnBtsId">520073</p>
+		<p name="maxNumOfSuppMimoLayer">4-layer</p>
+		<p name="pcellSwapAllowed">allowed</p>
+		<p name="scellPrio">2</p>
+	</managedObject>
+	<managedObject class="CAREL" operation="create" distName="PLMN-PLMN/MRBTS-520073/LNBTS-520073/LNCEL-42/CAREL-2">
+		<p name="lcrId">12</p>
+		<p name="lnBtsId">520073</p>
+		<p name="maxNumOfSuppMimoLayer">4-layer</p>
+		<p name="pcellSwapAllowed">allowed</p>
+		<p name="scellPrio">1</p>
+	</managedObject>
+	<managedObject class="CAREL" operation="create" distName="PLMN-PLMN/MRBTS-520073/LNBTS-520073/LNCEL-42/CAREL-3">
+		<p name="lcrId">13</p>
+		<p name="lnBtsId">520073</p>
+		<p name="maxNumOfSuppMimoLayer">4-layer</p>
+		<p name="pcellSwapAllowed">allowed</p>
+		<p name="scellPrio">2</p>
+	</managedObject>
+	<managedObject class="CAREL" operation="create" distName="PLMN-PLMN/MRBTS-522596/LNBTS-522596/LNCEL-11/CAREL-1">
+		<p name="lcrId">41</p>
+		<p name="lnBtsId">522596</p>
+		<p name="maxNumOfSuppMimoLayer">4-layer</p>
+		<p name="pcellSwapAllowed">allowed</p>
+		<p name="scellPrio">1</p>
+	</managedObject>
+	<managedObject class="CAREL" operation="create" distName="PLMN-PLMN/MRBTS-522596/LNBTS-522596/LNCEL-12/CAREL-1">
+		<p name="lcrId">41</p>
+		<p name="lnBtsId">522596</p>
+		<p name="maxNumOfSuppMimoLayer">4-layer</p>
+		<p name="pcellSwapAllowed">allowed</p>
+		<p name="scellPrio">2</p>
+	</managedObject>
+	<managedObject class="CAREL" operation="create" distName="PLMN-PLMN/MRBTS-522596/LNBTS-522596/LNCEL-13/CAREL-1">
+		<p name="lcrId">41</p>
+		<p name="lnBtsId">522596</p>
+		<p name="maxNumOfSuppMimoLayer">4-layer</p>
+		<p name="pcellSwapAllowed">allowed</p>
+		<p name="scellPrio">2</p>
+	</managedObject>
+	<managedObject class="CAREL" operation="create" distName="PLMN-PLMN/MRBTS-522596/LNBTS-522596/LNCEL-41/CAREL-1">
+		<p name="lcrId">11</p>
+		<p name="lnBtsId">522596</p>
+		<p name="maxNumOfSuppMimoLayer">4-layer</p>
+		<p name="pcellSwapAllowed">allowed</p>
+		<p name="scellPrio">1</p>
+	</managedObject>
+	<managedObject class="CAREL" operation="create" distName="PLMN-PLMN/MRBTS-522596/LNBTS-522596/LNCEL-41/CAREL-2">
+		<p name="lcrId">12</p>
+		<p name="lnBtsId">522596</p>
+		<p name="maxNumOfSuppMimoLayer">4-layer</p>
+		<p name="pcellSwapAllowed">allowed</p>
+		<p name="scellPrio">2</p>
+	</managedObject>
+	<managedObject class="CAREL" operation="create" distName="PLMN-PLMN/MRBTS-522596/LNBTS-522596/LNCEL-41/CAREL-3">
+		<p name="lcrId">13</p>
+		<p name="lnBtsId">522596</p>
+		<p name="maxNumOfSuppMimoLayer">4-layer</p>
+		<p name="pcellSwapAllowed">allowed</p>
+		<p name="scellPrio">2</p>
+	</managedObject>
+	<managedObject class="CAREL" operation="create" distName="PLMN-PLMN/MRBTS-520072/LNBTS-520072/LNCEL-11/CAREL-2">
+		<p name="lcrId">43</p>
+		<p name="lnBtsId">520072</p>
+		<p name="maxNumOfSuppMimoLayer">4-layer</p>
+		<p name="pcellSwapAllowed">allowed</p>
+		<p name="scellPrio">2</p>
+	</managedObject>
+	<managedObject class="CAREL" operation="create" distName="PLMN-PLMN/MRBTS-520072/LNBTS-520072/LNCEL-12/CAREL-2">
+		<p name="lcrId">43</p>
+		<p name="lnBtsId">520072</p>
+		<p name="maxNumOfSuppMimoLayer">4-layer</p>
+		<p name="pcellSwapAllowed">allowed</p>
+		<p name="scellPrio">2</p>
+	</managedObject>
+	<managedObject class="CAREL" operation="create" distName="PLMN-PLMN/MRBTS-520072/LNBTS-520072/LNCEL-13/CAREL-2">
+		<p name="lcrId">43</p>
+		<p name="lnBtsId">520072</p>
+		<p name="maxNumOfSuppMimoLayer">4-layer</p>
+		<p name="pcellSwapAllowed">allowed</p>
+		<p name="scellPrio">1</p>
+	</managedObject>
+	<managedObject class="CAREL" operation="create" distName="PLMN-PLMN/MRBTS-520072/LNBTS-520072/LNCEL-43/CAREL-1">
+		<p name="lcrId">11</p>
+		<p name="lnBtsId">520072</p>
+		<p name="maxNumOfSuppMimoLayer">4-layer</p>
+		<p name="pcellSwapAllowed">allowed</p>
+		<p name="scellPrio">2</p>
+	</managedObject>
+	<managedObject class="CAREL" operation="create" distName="PLMN-PLMN/MRBTS-520072/LNBTS-520072/LNCEL-43/CAREL-2">
+		<p name="lcrId">12</p>
+		<p name="lnBtsId">520072</p>
+		<p name="maxNumOfSuppMimoLayer">4-layer</p>
+		<p name="pcellSwapAllowed">allowed</p>
+		<p name="scellPrio">2</p>
+	</managedObject>
+	<managedObject class="CAREL" operation="create" distName="PLMN-PLMN/MRBTS-520072/LNBTS-520072/LNCEL-43/CAREL-3">
+		<p name="lcrId">13</p>
+		<p name="lnBtsId">520072</p>
+		<p name="maxNumOfSuppMimoLayer">4-layer</p>
+		<p name="pcellSwapAllowed">allowed</p>
+		<p name="scellPrio">1</p>
+	</managedObject>
+	<managedObject class="CAREL" operation="create" distName="PLMN-PLMN/MRBTS-560971/LNBTS-560971/LNCEL-11/CAREL-1">
+		<p name="lcrId">41</p>
+		<p name="lnBtsId">560971</p>
+		<p name="maxNumOfSuppMimoLayer">4-layer</p>
+		<p name="pcellSwapAllowed">allowed</p>
+		<p name="scellPrio">1</p>
+	</managedObject>
+	<managedObject class="CAREL" operation="create" distName="PLMN-PLMN/MRBTS-560971/LNBTS-560971/LNCEL-11/CAREL-2">
+		<p name="lcrId">43</p>
+		<p name="lnBtsId">560971</p>
+		<p name="maxNumOfSuppMimoLayer">4-layer</p>
+		<p name="pcellSwapAllowed">allowed</p>
+		<p name="scellPrio">2</p>
+	</managedObject>
+	<managedObject class="CAREL" operation="create" distName="PLMN-PLMN/MRBTS-560971/LNBTS-560971/LNCEL-12/CAREL-1">
+		<p name="lcrId">41</p>
+		<p name="lnBtsId">560971</p>
+		<p name="maxNumOfSuppMimoLayer">4-layer</p>
+		<p name="pcellSwapAllowed">allowed</p>
+		<p name="scellPrio">2</p>
+	</managedObject>
+	<managedObject class="CAREL" operation="create" distName="PLMN-PLMN/MRBTS-560971/LNBTS-560971/LNCEL-12/CAREL-2">
+		<p name="lcrId">43</p>
+		<p name="lnBtsId">560971</p>
+		<p name="maxNumOfSuppMimoLayer">4-layer</p>
+		<p name="pcellSwapAllowed">allowed</p>
+		<p name="scellPrio">2</p>
+	</managedObject>
+	<managedObject class="CAREL" operation="create" distName="PLMN-PLMN/MRBTS-560971/LNBTS-560971/LNCEL-13/CAREL-1">
+		<p name="lcrId">41</p>
+		<p name="lnBtsId">560971</p>
+		<p name="maxNumOfSuppMimoLayer">4-layer</p>
+		<p name="pcellSwapAllowed">allowed</p>
+		<p name="scellPrio">2</p>
+	</managedObject>
+	<managedObject class="CAREL" operation="create" distName="PLMN-PLMN/MRBTS-560971/LNBTS-560971/LNCEL-13/CAREL-2">
+		<p name="lcrId">43</p>
+		<p name="lnBtsId">560971</p>
+		<p name="maxNumOfSuppMimoLayer">4-layer</p>
+		<p name="pcellSwapAllowed">allowed</p>
+		<p name="scellPrio">1</p>
+	</managedObject>
+	<managedObject class="CAREL" operation="create" distName="PLMN-PLMN/MRBTS-560971/LNBTS-560971/LNCEL-41/CAREL-1">
+		<p name="lcrId">11</p>
+		<p name="lnBtsId">560971</p>
+		<p name="maxNumOfSuppMimoLayer">4-layer</p>
+		<p name="pcellSwapAllowed">allowed</p>
+		<p name="scellPrio">1</p>
+	</managedObject>
+	<managedObject class="CAREL" operation="create" distName="PLMN-PLMN/MRBTS-560971/LNBTS-560971/LNCEL-41/CAREL-2">
+		<p name="lcrId">12</p>
+		<p name="lnBtsId">560971</p>
+		<p name="maxNumOfSuppMimoLayer">4-layer</p>
+		<p name="pcellSwapAllowed">allowed</p>
+		<p name="scellPrio">2</p>
+	</managedObject>
+	<managedObject class="CAREL" operation="create" distName="PLMN-PLMN/MRBTS-560971/LNBTS-560971/LNCEL-41/CAREL-3">
+		<p name="lcrId">13</p>
+		<p name="lnBtsId">560971</p>
+		<p name="maxNumOfSuppMimoLayer">4-layer</p>
+		<p name="pcellSwapAllowed">allowed</p>
+		<p name="scellPrio">2</p>
+	</managedObject>
+	<managedObject class="CAREL" operation="create" distName="PLMN-PLMN/MRBTS-560971/LNBTS-560971/LNCEL-43/CAREL-1">
+		<p name="lcrId">11</p>
+		<p name="lnBtsId">560971</p>
+		<p name="maxNumOfSuppMimoLayer">4-layer</p>
+		<p name="pcellSwapAllowed">allowed</p>
+		<p name="scellPrio">2</p>
+	</managedObject>
+	<managedObject class="CAREL" operation="create" distName="PLMN-PLMN/MRBTS-560971/LNBTS-560971/LNCEL-43/CAREL-2">
+		<p name="lcrId">12</p>
+		<p name="lnBtsId">560971</p>
+		<p name="maxNumOfSuppMimoLayer">4-layer</p>
+		<p name="pcellSwapAllowed">allowed</p>
+		<p name="scellPrio">2</p>
+	</managedObject>
+	<managedObject class="CAREL" operation="create" distName="PLMN-PLMN/MRBTS-560971/LNBTS-560971/LNCEL-43/CAREL-3">
+		<p name="lcrId">13</p>
+		<p name="lnBtsId">560971</p>
+		<p name="maxNumOfSuppMimoLayer">4-layer</p>
+		<p name="pcellSwapAllowed">allowed</p>
+		<p name="scellPrio">1</p>
+	</managedObject>
+	<managedObject class="CAREL" operation="create" distName="PLMN-PLMN/MRBTS-521620/LNBTS-521620/LNCEL-11/CAREL-1">
+		<p name="lcrId">41</p>
+		<p name="lnBtsId">521620</p>
+		<p name="maxNumOfSuppMimoLayer">4-layer</p>
+		<p name="pcellSwapAllowed">allowed</p>
+		<p name="scellPrio">1</p>
+	</managedObject>
+	<managedObject class="CAREL" operation="create" distName="PLMN-PLMN/MRBTS-521620/LNBTS-521620/LNCEL-11/CAREL-2">
+		<p name="lcrId">42</p>
+		<p name="lnBtsId">521620</p>
+		<p name="maxNumOfSuppMimoLayer">4-layer</p>
+		<p name="pcellSwapAllowed">allowed</p>
+		<p name="scellPrio">2</p>
+	</managedObject>
+	<managedObject class="CAREL" operation="create" distName="PLMN-PLMN/MRBTS-521620/LNBTS-521620/LNCEL-12/CAREL-1">
+		<p name="lcrId">41</p>
+		<p name="lnBtsId">521620</p>
+		<p name="maxNumOfSuppMimoLayer">4-layer</p>
+		<p name="pcellSwapAllowed">allowed</p>
+		<p name="scellPrio">2</p>
+	</managedObject>
+	<managedObject class="CAREL" operation="create" distName="PLMN-PLMN/MRBTS-521620/LNBTS-521620/LNCEL-12/CAREL-2">
+		<p name="lcrId">42</p>
+		<p name="lnBtsId">521620</p>
+		<p name="maxNumOfSuppMimoLayer">4-layer</p>
+		<p name="pcellSwapAllowed">allowed</p>
+		<p name="scellPrio">1</p>
+	</managedObject>
+	<managedObject class="CAREL" operation="create" distName="PLMN-PLMN/MRBTS-521620/LNBTS-521620/LNCEL-13/CAREL-1">
+		<p name="lcrId">41</p>
+		<p name="lnBtsId">521620</p>
+		<p name="maxNumOfSuppMimoLayer">4-layer</p>
+		<p name="pcellSwapAllowed">allowed</p>
+		<p name="scellPrio">2</p>
+	</managedObject>
+	<managedObject class="CAREL" operation="create" distName="PLMN-PLMN/MRBTS-521620/LNBTS-521620/LNCEL-13/CAREL-2">
+		<p name="lcrId">42</p>
+		<p name="lnBtsId">521620</p>
+		<p name="maxNumOfSuppMimoLayer">4-layer</p>
+		<p name="pcellSwapAllowed">allowed</p>
+		<p name="scellPrio">2</p>
+	</managedObject>
+	<managedObject class="CAREL" operation="create" distName="PLMN-PLMN/MRBTS-521620/LNBTS-521620/LNCEL-41/CAREL-1">
+		<p name="lcrId">11</p>
+		<p name="lnBtsId">521620</p>
+		<p name="maxNumOfSuppMimoLayer">4-layer</p>
+		<p name="pcellSwapAllowed">allowed</p>
+		<p name="scellPrio">1</p>
+	</managedObject>
+	<managedObject class="CAREL" operation="create" distName="PLMN-PLMN/MRBTS-521620/LNBTS-521620/LNCEL-41/CAREL-2">
+		<p name="lcrId">12</p>
+		<p name="lnBtsId">521620</p>
+		<p name="maxNumOfSuppMimoLayer">4-layer</p>
+		<p name="pcellSwapAllowed">allowed</p>
+		<p name="scellPrio">2</p>
+	</managedObject>
+	<managedObject class="CAREL" operation="create" distName="PLMN-PLMN/MRBTS-521620/LNBTS-521620/LNCEL-41/CAREL-3">
+		<p name="lcrId">13</p>
+		<p name="lnBtsId">521620</p>
+		<p name="maxNumOfSuppMimoLayer">4-layer</p>
+		<p name="pcellSwapAllowed">allowed</p>
+		<p name="scellPrio">2</p>
+	</managedObject>
+	<managedObject class="CAREL" operation="create" distName="PLMN-PLMN/MRBTS-521620/LNBTS-521620/LNCEL-42/CAREL-1">
+		<p name="lcrId">11</p>
+		<p name="lnBtsId">521620</p>
+		<p name="maxNumOfSuppMimoLayer">4-layer</p>
+		<p name="pcellSwapAllowed">allowed</p>
+		<p name="scellPrio">2</p>
+	</managedObject>
+	<managedObject class="CAREL" operation="create" distName="PLMN-PLMN/MRBTS-521620/LNBTS-521620/LNCEL-42/CAREL-2">
+		<p name="lcrId">12</p>
+		<p name="lnBtsId">521620</p>
+		<p name="maxNumOfSuppMimoLayer">4-layer</p>
+		<p name="pcellSwapAllowed">allowed</p>
+		<p name="scellPrio">1</p>
+	</managedObject>
+	<managedObject class="CAREL" operation="create" distName="PLMN-PLMN/MRBTS-521620/LNBTS-521620/LNCEL-42/CAREL-3">
+		<p name="lcrId">13</p>
+		<p name="lnBtsId">521620</p>
+		<p name="maxNumOfSuppMimoLayer">4-layer</p>
+		<p name="pcellSwapAllowed">allowed</p>
+		<p name="scellPrio">2</p>
+	</managedObject>
+	<managedObject class="CAREL" operation="create" distName="PLMN-PLMN/MRBTS-521559/LNBTS-521559/LNCEL-11/CAREL-2">
+		<p name="lcrId">43</p>
+		<p name="lnBtsId">521559</p>
+		<p name="maxNumOfSuppMimoLayer">4-layer</p>
+		<p name="pcellSwapAllowed">allowed</p>
+		<p name="scellPrio">2</p>
+	</managedObject>
+	<managedObject class="CAREL" operation="create" distName="PLMN-PLMN/MRBTS-521559/LNBTS-521559/LNCEL-12/CAREL-2">
+		<p name="lcrId">43</p>
+		<p name="lnBtsId">521559</p>
+		<p name="maxNumOfSuppMimoLayer">4-layer</p>
+		<p name="pcellSwapAllowed">allowed</p>
+		<p name="scellPrio">2</p>
+	</managedObject>
+	<managedObject class="CAREL" operation="create" distName="PLMN-PLMN/MRBTS-521559/LNBTS-521559/LNCEL-13/CAREL-2">
+		<p name="lcrId">43</p>
+		<p name="lnBtsId">521559</p>
+		<p name="maxNumOfSuppMimoLayer">4-layer</p>
+		<p name="pcellSwapAllowed">allowed</p>
+		<p name="scellPrio">1</p>
+	</managedObject>
+	<managedObject class="CAREL" operation="create" distName="PLMN-PLMN/MRBTS-521559/LNBTS-521559/LNCEL-14/CAREL-2">
+		<p name="lcrId">43</p>
+		<p name="lnBtsId">521559</p>
+		<p name="maxNumOfSuppMimoLayer">4-layer</p>
+		<p name="pcellSwapAllowed">allowed</p>
+		<p name="scellPrio">2</p>
+	</managedObject>
+	<managedObject class="CAREL" operation="create" distName="PLMN-PLMN/MRBTS-521559/LNBTS-521559/LNCEL-43/CAREL-1">
+		<p name="lcrId">11</p>
+		<p name="lnBtsId">521559</p>
+		<p name="maxNumOfSuppMimoLayer">4-layer</p>
+		<p name="pcellSwapAllowed">allowed</p>
+		<p name="scellPrio">2</p>
+	</managedObject>
+	<managedObject class="CAREL" operation="create" distName="PLMN-PLMN/MRBTS-521559/LNBTS-521559/LNCEL-43/CAREL-2">
+		<p name="lcrId">12</p>
+		<p name="lnBtsId">521559</p>
+		<p name="maxNumOfSuppMimoLayer">4-layer</p>
+		<p name="pcellSwapAllowed">allowed</p>
+		<p name="scellPrio">2</p>
+	</managedObject>
+	<managedObject class="CAREL" operation="create" distName="PLMN-PLMN/MRBTS-521559/LNBTS-521559/LNCEL-43/CAREL-3">
+		<p name="lcrId">13</p>
+		<p name="lnBtsId">521559</p>
+		<p name="maxNumOfSuppMimoLayer">4-layer</p>
+		<p name="pcellSwapAllowed">allowed</p>
+		<p name="scellPrio">1</p>
+	</managedObject>
+	<managedObject class="CAREL" operation="create" distName="PLMN-PLMN/MRBTS-521559/LNBTS-521559/LNCEL-43/CAREL-4">
+		<p name="lcrId">14</p>
+		<p name="lnBtsId">521559</p>
+		<p name="maxNumOfSuppMimoLayer">4-layer</p>
+		<p name="pcellSwapAllowed">allowed</p>
+		<p name="scellPrio">2</p>
+	</managedObject>
+	<managedObject class="CAREL" operation="create" distName="PLMN-PLMN/MRBTS-521078/LNBTS-521078/LNCEL-11/CAREL-1">
+		<p name="lcrId">42</p>
+		<p name="lnBtsId">521078</p>
+		<p name="maxNumOfSuppMimoLayer">4-layer</p>
+		<p name="pcellSwapAllowed">allowed</p>
+		<p name="scellPrio">2</p>
+	</managedObject>
+	<managedObject class="CAREL" operation="create" distName="PLMN-PLMN/MRBTS-521078/LNBTS-521078/LNCEL-12/CAREL-1">
+		<p name="lcrId">42</p>
+		<p name="lnBtsId">521078</p>
+		<p name="maxNumOfSuppMimoLayer">4-layer</p>
+		<p name="pcellSwapAllowed">allowed</p>
+		<p name="scellPrio">1</p>
+	</managedObject>
+	<managedObject class="CAREL" operation="create" distName="PLMN-PLMN/MRBTS-521078/LNBTS-521078/LNCEL-13/CAREL-1">
+		<p name="lcrId">42</p>
+		<p name="lnBtsId">521078</p>
+		<p name="maxNumOfSuppMimoLayer">4-layer</p>
+		<p name="pcellSwapAllowed">allowed</p>
+		<p name="scellPrio">2</p>
+	</managedObject>
+	<managedObject class="CAREL" operation="create" distName="PLMN-PLMN/MRBTS-521078/LNBTS-521078/LNCEL-42/CAREL-1">
+		<p name="lcrId">11</p>
+		<p name="lnBtsId">521078</p>
+		<p name="maxNumOfSuppMimoLayer">4-layer</p>
+		<p name="pcellSwapAllowed">allowed</p>
+		<p name="scellPrio">2</p>
+	</managedObject>
+	<managedObject class="CAREL" operation="create" distName="PLMN-PLMN/MRBTS-521078/LNBTS-521078/LNCEL-42/CAREL-2">
+		<p name="lcrId">12</p>
+		<p name="lnBtsId">521078</p>
+		<p name="maxNumOfSuppMimoLayer">4-layer</p>
+		<p name="pcellSwapAllowed">allowed</p>
+		<p name="scellPrio">1</p>
+	</managedObject>
+	<managedObject class="CAREL" operation="create" distName="PLMN-PLMN/MRBTS-521078/LNBTS-521078/LNCEL-42/CAREL-3">
+		<p name="lcrId">13</p>
+		<p name="lnBtsId">521078</p>
+		<p name="maxNumOfSuppMimoLayer">4-layer</p>
+		<p name="pcellSwapAllowed">allowed</p>
+		<p name="scellPrio">2</p>
+	</managedObject>
+	<managedObject class="CAREL" operation="create" distName="PLMN-PLMN/MRBTS-520201/LNBTS-520201/LNCEL-11/CAREL-1">
+		<p name="lcrId">42</p>
+		<p name="lnBtsId">520201</p>
+		<p name="maxNumOfSuppMimoLayer">4-layer</p>
+		<p name="pcellSwapAllowed">allowed</p>
+		<p name="scellPrio">2</p>
+	</managedObject>
+	<managedObject class="CAREL" operation="create" distName="PLMN-PLMN/MRBTS-520201/LNBTS-520201/LNCEL-12/CAREL-1">
+		<p name="lcrId">42</p>
+		<p name="lnBtsId">520201</p>
+		<p name="maxNumOfSuppMimoLayer">4-layer</p>
+		<p name="pcellSwapAllowed">allowed</p>
+		<p name="scellPrio">1</p>
+	</managedObject>
+	<managedObject class="CAREL" operation="create" distName="PLMN-PLMN/MRBTS-520201/LNBTS-520201/LNCEL-13/CAREL-1">
+		<p name="lcrId">42</p>
+		<p name="lnBtsId">520201</p>
+		<p name="maxNumOfSuppMimoLayer">4-layer</p>
+		<p name="pcellSwapAllowed">allowed</p>
+		<p name="scellPrio">2</p>
+	</managedObject>
+	<managedObject class="CAREL" operation="create" distName="PLMN-PLMN/MRBTS-520201/LNBTS-520201/LNCEL-42/CAREL-1">
+		<p name="lcrId">11</p>
+		<p name="lnBtsId">520201</p>
+		<p name="maxNumOfSuppMimoLayer">4-layer</p>
+		<p name="pcellSwapAllowed">allowed</p>
+		<p name="scellPrio">2</p>
+	</managedObject>
+	<managedObject class="CAREL" operation="create" distName="PLMN-PLMN/MRBTS-520201/LNBTS-520201/LNCEL-42/CAREL-2">
+		<p name="lcrId">12</p>
+		<p name="lnBtsId">520201</p>
+		<p name="maxNumOfSuppMimoLayer">4-layer</p>
+		<p name="pcellSwapAllowed">allowed</p>
+		<p name="scellPrio">1</p>
+	</managedObject>
+	<managedObject class="CAREL" operation="create" distName="PLMN-PLMN/MRBTS-520201/LNBTS-520201/LNCEL-42/CAREL-3">
+		<p name="lcrId">13</p>
+		<p name="lnBtsId">520201</p>
+		<p name="maxNumOfSuppMimoLayer">4-layer</p>
+		<p name="pcellSwapAllowed">allowed</p>
+		<p name="scellPrio">2</p>
+	</managedObject>
+	<managedObject class="CAREL" operation="create" distName="PLMN-PLMN/MRBTS-521010/LNBTS-521010/LNCEL-11/CAREL-1">
+		<p name="lcrId">41</p>
+		<p name="lnBtsId">521010</p>
+		<p name="maxNumOfSuppMimoLayer">4-layer</p>
+		<p name="pcellSwapAllowed">allowed</p>
+		<p name="scellPrio">1</p>
+	</managedObject>
+	<managedObject class="CAREL" operation="create" distName="PLMN-PLMN/MRBTS-521010/LNBTS-521010/LNCEL-11/CAREL-2">
+		<p name="lcrId">42</p>
+		<p name="lnBtsId">521010</p>
+		<p name="maxNumOfSuppMimoLayer">4-layer</p>
+		<p name="pcellSwapAllowed">allowed</p>
+		<p name="scellPrio">2</p>
+	</managedObject>
+	<managedObject class="CAREL" operation="create" distName="PLMN-PLMN/MRBTS-521010/LNBTS-521010/LNCEL-12/CAREL-1">
+		<p name="lcrId">41</p>
+		<p name="lnBtsId">521010</p>
+		<p name="maxNumOfSuppMimoLayer">4-layer</p>
+		<p name="pcellSwapAllowed">allowed</p>
+		<p name="scellPrio">2</p>
+	</managedObject>
+	<managedObject class="CAREL" operation="create" distName="PLMN-PLMN/MRBTS-521010/LNBTS-521010/LNCEL-12/CAREL-2">
+		<p name="lcrId">42</p>
+		<p name="lnBtsId">521010</p>
+		<p name="maxNumOfSuppMimoLayer">4-layer</p>
+		<p name="pcellSwapAllowed">allowed</p>
+		<p name="scellPrio">1</p>
+	</managedObject>
+	<managedObject class="CAREL" operation="create" distName="PLMN-PLMN/MRBTS-521010/LNBTS-521010/LNCEL-13/CAREL-1">
+		<p name="lcrId">41</p>
+		<p name="lnBtsId">521010</p>
+		<p name="maxNumOfSuppMimoLayer">4-layer</p>
+		<p name="pcellSwapAllowed">allowed</p>
+		<p name="scellPrio">2</p>
+	</managedObject>
+	<managedObject class="CAREL" operation="create" distName="PLMN-PLMN/MRBTS-521010/LNBTS-521010/LNCEL-13/CAREL-2">
+		<p name="lcrId">42</p>
+		<p name="lnBtsId">521010</p>
+		<p name="maxNumOfSuppMimoLayer">4-layer</p>
+		<p name="pcellSwapAllowed">allowed</p>
+		<p name="scellPrio">2</p>
+	</managedObject>
+	<managedObject class="CAREL" operation="create" distName="PLMN-PLMN/MRBTS-521010/LNBTS-521010/LNCEL-41/CAREL-1">
+		<p name="lcrId">11</p>
+		<p name="lnBtsId">521010</p>
+		<p name="maxNumOfSuppMimoLayer">4-layer</p>
+		<p name="pcellSwapAllowed">allowed</p>
+		<p name="scellPrio">1</p>
+	</managedObject>
+	<managedObject class="CAREL" operation="create" distName="PLMN-PLMN/MRBTS-521010/LNBTS-521010/LNCEL-41/CAREL-2">
+		<p name="lcrId">12</p>
+		<p name="lnBtsId">521010</p>
+		<p name="maxNumOfSuppMimoLayer">4-layer</p>
+		<p name="pcellSwapAllowed">allowed</p>
+		<p name="scellPrio">2</p>
+	</managedObject>
+	<managedObject class="CAREL" operation="create" distName="PLMN-PLMN/MRBTS-521010/LNBTS-521010/LNCEL-41/CAREL-3">
+		<p name="lcrId">13</p>
+		<p name="lnBtsId">521010</p>
+		<p name="maxNumOfSuppMimoLayer">4-layer</p>
+		<p name="pcellSwapAllowed">allowed</p>
+		<p name="scellPrio">2</p>
+	</managedObject>
+	<managedObject class="CAREL" operation="create" distName="PLMN-PLMN/MRBTS-521010/LNBTS-521010/LNCEL-42/CAREL-1">
+		<p name="lcrId">11</p>
+		<p name="lnBtsId">521010</p>
+		<p name="maxNumOfSuppMimoLayer">4-layer</p>
+		<p name="pcellSwapAllowed">allowed</p>
+		<p name="scellPrio">2</p>
+	</managedObject>
+	<managedObject class="CAREL" operation="create" distName="PLMN-PLMN/MRBTS-521010/LNBTS-521010/LNCEL-42/CAREL-2">
+		<p name="lcrId">12</p>
+		<p name="lnBtsId">521010</p>
+		<p name="maxNumOfSuppMimoLayer">4-layer</p>
+		<p name="pcellSwapAllowed">allowed</p>
+		<p name="scellPrio">1</p>
+	</managedObject>
+	<managedObject class="CAREL" operation="create" distName="PLMN-PLMN/MRBTS-521010/LNBTS-521010/LNCEL-42/CAREL-3">
+		<p name="lcrId">13</p>
+		<p name="lnBtsId">521010</p>
+		<p name="maxNumOfSuppMimoLayer">4-layer</p>
+		<p name="pcellSwapAllowed">allowed</p>
+		<p name="scellPrio">2</p>
+	</managedObject>
+	<managedObject class="CAREL" operation="create" distName="PLMN-PLMN/MRBTS-563111/LNBTS-563111/LNCEL-21/CAREL-1">
+		<p name="lcrId">24</p>
+		<p name="lnBtsId">563111</p>
+		<p name="maxNumOfSuppMimoLayer">4-layer</p>
+		<p name="pcellSwapAllowed">allowed</p>
+		<p name="scellPrio">2</p>
+	</managedObject>
+	<managedObject class="CAREL" operation="create" distName="PLMN-PLMN/MRBTS-563111/LNBTS-563111/LNCEL-21/CAREL-2">
+		<p name="lcrId">26</p>
+		<p name="lnBtsId">563111</p>
+		<p name="maxNumOfSuppMimoLayer">4-layer</p>
+		<p name="pcellSwapAllowed">allowed</p>
+		<p name="scellPrio">2</p>
+	</managedObject>
+	<managedObject class="CAREL" operation="create" distName="PLMN-PLMN/MRBTS-563111/LNBTS-563111/LNCEL-23/CAREL-1">
+		<p name="lcrId">24</p>
+		<p name="lnBtsId">563111</p>
+		<p name="maxNumOfSuppMimoLayer">4-layer</p>
+		<p name="pcellSwapAllowed">allowed</p>
+		<p name="scellPrio">2</p>
+	</managedObject>
+	<managedObject class="CAREL" operation="create" distName="PLMN-PLMN/MRBTS-563111/LNBTS-563111/LNCEL-23/CAREL-2">
+		<p name="lcrId">26</p>
+		<p name="lnBtsId">563111</p>
+		<p name="maxNumOfSuppMimoLayer">4-layer</p>
+		<p name="pcellSwapAllowed">allowed</p>
+		<p name="scellPrio">2</p>
+	</managedObject>
+	<managedObject class="CAREL" operation="create" distName="PLMN-PLMN/MRBTS-563111/LNBTS-563111/LNCEL-24/CAREL-1">
+		<p name="lcrId">21</p>
+		<p name="lnBtsId">563111</p>
+		<p name="maxNumOfSuppMimoLayer">4-layer</p>
+		<p name="pcellSwapAllowed">allowed</p>
+		<p name="scellPrio">2</p>
+	</managedObject>
+	<managedObject class="CAREL" operation="create" distName="PLMN-PLMN/MRBTS-563111/LNBTS-563111/LNCEL-24/CAREL-2">
+		<p name="lcrId">23</p>
+		<p name="lnBtsId">563111</p>
+		<p name="maxNumOfSuppMimoLayer">4-layer</p>
+		<p name="pcellSwapAllowed">allowed</p>
+		<p name="scellPrio">2</p>
+	</managedObject>
+	<managedObject class="CAREL" operation="create" distName="PLMN-PLMN/MRBTS-563111/LNBTS-563111/LNCEL-26/CAREL-1">
+		<p name="lcrId">21</p>
+		<p name="lnBtsId">563111</p>
+		<p name="maxNumOfSuppMimoLayer">4-layer</p>
+		<p name="pcellSwapAllowed">allowed</p>
+		<p name="scellPrio">2</p>
+	</managedObject>
+	<managedObject class="CAREL" operation="create" distName="PLMN-PLMN/MRBTS-563111/LNBTS-563111/LNCEL-26/CAREL-2">
+		<p name="lcrId">23</p>
+		<p name="lnBtsId">563111</p>
+		<p name="maxNumOfSuppMimoLayer">4-layer</p>
+		<p name="pcellSwapAllowed">allowed</p>
+		<p name="scellPrio">2</p>
+	</managedObject>
+	<managedObject class="CAREL" operation="create" distName="PLMN-PLMN/MRBTS-521057/LNBTS-521057/LNCEL-11/CAREL-1">
+		<p name="lcrId">41</p>
+		<p name="lnBtsId">521057</p>
+		<p name="maxNumOfSuppMimoLayer">4-layer</p>
+		<p name="pcellSwapAllowed">allowed</p>
+		<p name="scellPrio">1</p>
+	</managedObject>
+	<managedObject class="CAREL" operation="create" distName="PLMN-PLMN/MRBTS-521057/LNBTS-521057/LNCEL-12/CAREL-3">
+		<p name="lcrId">41</p>
+		<p name="lnBtsId">521057</p>
+		<p name="maxNumOfSuppMimoLayer">4-layer</p>
+		<p name="pcellSwapAllowed">allowed</p>
+		<p name="scellPrio">2</p>
+	</managedObject>
+	<managedObject class="CAREL" operation="create" distName="PLMN-PLMN/MRBTS-521057/LNBTS-521057/LNCEL-41/CAREL-1">
+		<p name="lcrId">11</p>
+		<p name="lnBtsId">521057</p>
+		<p name="maxNumOfSuppMimoLayer">4-layer</p>
+		<p name="pcellSwapAllowed">allowed</p>
+		<p name="scellPrio">1</p>
+	</managedObject>
+	<managedObject class="CAREL" operation="create" distName="PLMN-PLMN/MRBTS-521057/LNBTS-521057/LNCEL-41/CAREL-2">
+		<p name="lcrId">12</p>
+		<p name="lnBtsId">521057</p>
+		<p name="maxNumOfSuppMimoLayer">4-layer</p>
+		<p name="pcellSwapAllowed">allowed</p>
+		<p name="scellPrio">2</p>
+	</managedObject>
+	<managedObject class="CAREL" operation="create" distName="PLMN-PLMN/MRBTS-521711/LNBTS-521711/LNCEL-11/CAREL-4">
+		<p name="lcrId">45</p>
+		<p name="lnBtsId">521711</p>
+		<p name="maxNumOfSuppMimoLayer">4-layer</p>
+		<p name="pcellSwapAllowed">allowed</p>
+		<p name="scellPrio">2</p>
+	</managedObject>
+	<managedObject class="CAREL" operation="create" distName="PLMN-PLMN/MRBTS-521711/LNBTS-521711/LNCEL-12/CAREL-4">
+		<p name="lcrId">45</p>
+		<p name="lnBtsId">521711</p>
+		<p name="maxNumOfSuppMimoLayer">4-layer</p>
+		<p name="pcellSwapAllowed">allowed</p>
+		<p name="scellPrio">2</p>
+	</managedObject>
+	<managedObject class="CAREL" operation="create" distName="PLMN-PLMN/MRBTS-521711/LNBTS-521711/LNCEL-13/CAREL-4">
+		<p name="lcrId">45</p>
+		<p name="lnBtsId">521711</p>
+		<p name="maxNumOfSuppMimoLayer">4-layer</p>
+		<p name="pcellSwapAllowed">allowed</p>
+		<p name="scellPrio">2</p>
+	</managedObject>
+	<managedObject class="CAREL" operation="create" distName="PLMN-PLMN/MRBTS-521711/LNBTS-521711/LNCEL-15/CAREL-4">
+		<p name="lcrId">45</p>
+		<p name="lnBtsId">521711</p>
+		<p name="maxNumOfSuppMimoLayer">4-layer</p>
+		<p name="pcellSwapAllowed">allowed</p>
+		<p name="scellPrio">1</p>
+	</managedObject>
+	<managedObject class="CAREL" operation="create" distName="PLMN-PLMN/MRBTS-521711/LNBTS-521711/LNCEL-45/CAREL-4">
+		<p name="lcrId">11</p>
+		<p name="lnBtsId">521711</p>
+		<p name="maxNumOfSuppMimoLayer">4-layer</p>
+		<p name="pcellSwapAllowed">allowed</p>
+		<p name="scellPrio">2</p>
+	</managedObject>
+	<managedObject class="CAREL" operation="create" distName="PLMN-PLMN/MRBTS-521711/LNBTS-521711/LNCEL-45/CAREL-5">
+		<p name="lcrId">12</p>
+		<p name="lnBtsId">521711</p>
+		<p name="maxNumOfSuppMimoLayer">4-layer</p>
+		<p name="pcellSwapAllowed">allowed</p>
+		<p name="scellPrio">2</p>
+	</managedObject>
+	<managedObject class="CAREL" operation="create" distName="PLMN-PLMN/MRBTS-521711/LNBTS-521711/LNCEL-45/CAREL-6">
+		<p name="lcrId">13</p>
+		<p name="lnBtsId">521711</p>
+		<p name="maxNumOfSuppMimoLayer">4-layer</p>
+		<p name="pcellSwapAllowed">allowed</p>
+		<p name="scellPrio">2</p>
+	</managedObject>
+	<managedObject class="CAREL" operation="create" distName="PLMN-PLMN/MRBTS-521711/LNBTS-521711/LNCEL-45/CAREL-7">
+		<p name="lcrId">15</p>
+		<p name="lnBtsId">521711</p>
+		<p name="maxNumOfSuppMimoLayer">4-layer</p>
+		<p name="pcellSwapAllowed">allowed</p>
+		<p name="scellPrio">1</p>
+	</managedObject>
+	<managedObject class="CAREL" operation="create" distName="PLMN-PLMN/MRBTS-520065/LNBTS-520065/LNCEL-11/CAREL-1">
+		<p name="lcrId">42</p>
+		<p name="lnBtsId">520065</p>
+		<p name="maxNumOfSuppMimoLayer">4-layer</p>
+		<p name="pcellSwapAllowed">allowed</p>
+		<p name="scellPrio">2</p>
+	</managedObject>
+	<managedObject class="CAREL" operation="create" distName="PLMN-PLMN/MRBTS-520065/LNBTS-520065/LNCEL-11/CAREL-2">
+		<p name="lcrId">43</p>
+		<p name="lnBtsId">520065</p>
+		<p name="maxNumOfSuppMimoLayer">4-layer</p>
+		<p name="pcellSwapAllowed">allowed</p>
+		<p name="scellPrio">2</p>
+	</managedObject>
+	<managedObject class="CAREL" operation="create" distName="PLMN-PLMN/MRBTS-520065/LNBTS-520065/LNCEL-12/CAREL-1">
+		<p name="lcrId">42</p>
+		<p name="lnBtsId">520065</p>
+		<p name="maxNumOfSuppMimoLayer">4-layer</p>
+		<p name="pcellSwapAllowed">allowed</p>
+		<p name="scellPrio">1</p>
+	</managedObject>
+	<managedObject class="CAREL" operation="create" distName="PLMN-PLMN/MRBTS-520065/LNBTS-520065/LNCEL-12/CAREL-2">
+		<p name="lcrId">43</p>
+		<p name="lnBtsId">520065</p>
+		<p name="maxNumOfSuppMimoLayer">4-layer</p>
+		<p name="pcellSwapAllowed">allowed</p>
+		<p name="scellPrio">2</p>
+	</managedObject>
+	<managedObject class="CAREL" operation="create" distName="PLMN-PLMN/MRBTS-520065/LNBTS-520065/LNCEL-13/CAREL-1">
+		<p name="lcrId">42</p>
+		<p name="lnBtsId">520065</p>
+		<p name="maxNumOfSuppMimoLayer">4-layer</p>
+		<p name="pcellSwapAllowed">allowed</p>
+		<p name="scellPrio">2</p>
+	</managedObject>
+	<managedObject class="CAREL" operation="create" distName="PLMN-PLMN/MRBTS-520065/LNBTS-520065/LNCEL-13/CAREL-2">
+		<p name="lcrId">43</p>
+		<p name="lnBtsId">520065</p>
+		<p name="maxNumOfSuppMimoLayer">4-layer</p>
+		<p name="pcellSwapAllowed">allowed</p>
+		<p name="scellPrio">1</p>
+	</managedObject>
+	<managedObject class="CAREL" operation="create" distName="PLMN-PLMN/MRBTS-520065/LNBTS-520065/LNCEL-42/CAREL-1">
+		<p name="lcrId">11</p>
+		<p name="lnBtsId">520065</p>
+		<p name="maxNumOfSuppMimoLayer">4-layer</p>
+		<p name="pcellSwapAllowed">allowed</p>
+		<p name="scellPrio">2</p>
+	</managedObject>
+	<managedObject class="CAREL" operation="create" distName="PLMN-PLMN/MRBTS-520065/LNBTS-520065/LNCEL-42/CAREL-2">
+		<p name="lcrId">12</p>
+		<p name="lnBtsId">520065</p>
+		<p name="maxNumOfSuppMimoLayer">4-layer</p>
+		<p name="pcellSwapAllowed">allowed</p>
+		<p name="scellPrio">1</p>
+	</managedObject>
+	<managedObject class="CAREL" operation="create" distName="PLMN-PLMN/MRBTS-520065/LNBTS-520065/LNCEL-42/CAREL-3">
+		<p name="lcrId">13</p>
+		<p name="lnBtsId">520065</p>
+		<p name="maxNumOfSuppMimoLayer">4-layer</p>
+		<p name="pcellSwapAllowed">allowed</p>
+		<p name="scellPrio">2</p>
+	</managedObject>
+	<managedObject class="CAREL" operation="create" distName="PLMN-PLMN/MRBTS-520065/LNBTS-520065/LNCEL-43/CAREL-1">
+		<p name="lcrId">11</p>
+		<p name="lnBtsId">520065</p>
+		<p name="maxNumOfSuppMimoLayer">4-layer</p>
+		<p name="pcellSwapAllowed">allowed</p>
+		<p name="scellPrio">2</p>
+	</managedObject>
+	<managedObject class="CAREL" operation="create" distName="PLMN-PLMN/MRBTS-520065/LNBTS-520065/LNCEL-43/CAREL-2">
+		<p name="lcrId">12</p>
+		<p name="lnBtsId">520065</p>
+		<p name="maxNumOfSuppMimoLayer">4-layer</p>
+		<p name="pcellSwapAllowed">allowed</p>
+		<p name="scellPrio">2</p>
+	</managedObject>
+	<managedObject class="CAREL" operation="create" distName="PLMN-PLMN/MRBTS-520065/LNBTS-520065/LNCEL-43/CAREL-3">
+		<p name="lcrId">13</p>
+		<p name="lnBtsId">520065</p>
+		<p name="maxNumOfSuppMimoLayer">4-layer</p>
+		<p name="pcellSwapAllowed">allowed</p>
+		<p name="scellPrio">1</p>
+	</managedObject>
+	<managedObject class="CAREL" operation="create" distName="PLMN-PLMN/MRBTS-520810/LNBTS-520810/LNCEL-11/CAREL-1">
+		<p name="lcrId">14</p>
+		<p name="lnBtsId">520810</p>
+		<p name="maxNumOfSuppMimoLayer">4-layer</p>
+		<p name="pcellSwapAllowed">allowed</p>
+		<p name="scellPrio">2</p>
+	</managedObject>
+	<managedObject class="CAREL" operation="create" distName="PLMN-PLMN/MRBTS-520810/LNBTS-520810/LNCEL-11/CAREL-2">
+		<p name="lcrId">15</p>
+		<p name="lnBtsId">520810</p>
+		<p name="maxNumOfSuppMimoLayer">4-layer</p>
+		<p name="pcellSwapAllowed">allowed</p>
+		<p name="scellPrio">2</p>
+	</managedObject>
+	<managedObject class="CAREL" operation="create" distName="PLMN-PLMN/MRBTS-520810/LNBTS-520810/LNCEL-11/CAREL-3">
+		<p name="lcrId">43</p>
+		<p name="lnBtsId">520810</p>
+		<p name="maxNumOfSuppMimoLayer">4-layer</p>
+		<p name="pcellSwapAllowed">allowed</p>
+		<p name="scellPrio">2</p>
+	</managedObject>
+	<managedObject class="CAREL" operation="create" distName="PLMN-PLMN/MRBTS-520810/LNBTS-520810/LNCEL-12/CAREL-1">
+		<p name="lcrId">14</p>
+		<p name="lnBtsId">520810</p>
+		<p name="maxNumOfSuppMimoLayer">4-layer</p>
+		<p name="pcellSwapAllowed">allowed</p>
+		<p name="scellPrio">2</p>
+	</managedObject>
+	<managedObject class="CAREL" operation="create" distName="PLMN-PLMN/MRBTS-520810/LNBTS-520810/LNCEL-12/CAREL-2">
+		<p name="lcrId">15</p>
+		<p name="lnBtsId">520810</p>
+		<p name="maxNumOfSuppMimoLayer">4-layer</p>
+		<p name="pcellSwapAllowed">allowed</p>
+		<p name="scellPrio">2</p>
+	</managedObject>
+	<managedObject class="CAREL" operation="create" distName="PLMN-PLMN/MRBTS-520810/LNBTS-520810/LNCEL-12/CAREL-3">
+		<p name="lcrId">43</p>
+		<p name="lnBtsId">520810</p>
+		<p name="maxNumOfSuppMimoLayer">4-layer</p>
+		<p name="pcellSwapAllowed">allowed</p>
+		<p name="scellPrio">2</p>
+	</managedObject>
+	<managedObject class="CAREL" operation="create" distName="PLMN-PLMN/MRBTS-520810/LNBTS-520810/LNCEL-13/CAREL-1">
+		<p name="lcrId">14</p>
+		<p name="lnBtsId">520810</p>
+		<p name="maxNumOfSuppMimoLayer">4-layer</p>
+		<p name="pcellSwapAllowed">allowed</p>
+		<p name="scellPrio">2</p>
+	</managedObject>
+	<managedObject class="CAREL" operation="create" distName="PLMN-PLMN/MRBTS-520810/LNBTS-520810/LNCEL-13/CAREL-2">
+		<p name="lcrId">15</p>
+		<p name="lnBtsId">520810</p>
+		<p name="maxNumOfSuppMimoLayer">4-layer</p>
+		<p name="pcellSwapAllowed">allowed</p>
+		<p name="scellPrio">2</p>
+	</managedObject>
+	<managedObject class="CAREL" operation="create" distName="PLMN-PLMN/MRBTS-520810/LNBTS-520810/LNCEL-13/CAREL-3">
+		<p name="lcrId">43</p>
+		<p name="lnBtsId">520810</p>
+		<p name="maxNumOfSuppMimoLayer">4-layer</p>
+		<p name="pcellSwapAllowed">allowed</p>
+		<p name="scellPrio">1</p>
+	</managedObject>
+	<managedObject class="CAREL" operation="create" distName="PLMN-PLMN/MRBTS-520810/LNBTS-520810/LNCEL-14/CAREL-1">
+		<p name="lcrId">11</p>
+		<p name="lnBtsId">520810</p>
+		<p name="maxNumOfSuppMimoLayer">4-layer</p>
+		<p name="pcellSwapAllowed">allowed</p>
+		<p name="scellPrio">2</p>
+	</managedObject>
+	<managedObject class="CAREL" operation="create" distName="PLMN-PLMN/MRBTS-520810/LNBTS-520810/LNCEL-14/CAREL-2">
+		<p name="lcrId">12</p>
+		<p name="lnBtsId">520810</p>
+		<p name="maxNumOfSuppMimoLayer">4-layer</p>
+		<p name="pcellSwapAllowed">allowed</p>
+		<p name="scellPrio">2</p>
+	</managedObject>
+	<managedObject class="CAREL" operation="create" distName="PLMN-PLMN/MRBTS-520810/LNBTS-520810/LNCEL-14/CAREL-3">
+		<p name="lcrId">13</p>
+		<p name="lnBtsId">520810</p>
+		<p name="maxNumOfSuppMimoLayer">4-layer</p>
+		<p name="pcellSwapAllowed">allowed</p>
+		<p name="scellPrio">2</p>
+	</managedObject>
+	<managedObject class="CAREL" operation="create" distName="PLMN-PLMN/MRBTS-520810/LNBTS-520810/LNCEL-15/CAREL-1">
+		<p name="lcrId">11</p>
+		<p name="lnBtsId">520810</p>
+		<p name="maxNumOfSuppMimoLayer">4-layer</p>
+		<p name="pcellSwapAllowed">allowed</p>
+		<p name="scellPrio">2</p>
+	</managedObject>
+	<managedObject class="CAREL" operation="create" distName="PLMN-PLMN/MRBTS-520810/LNBTS-520810/LNCEL-15/CAREL-2">
+		<p name="lcrId">12</p>
+		<p name="lnBtsId">520810</p>
+		<p name="maxNumOfSuppMimoLayer">4-layer</p>
+		<p name="pcellSwapAllowed">allowed</p>
+		<p name="scellPrio">2</p>
+	</managedObject>
+	<managedObject class="CAREL" operation="create" distName="PLMN-PLMN/MRBTS-520810/LNBTS-520810/LNCEL-15/CAREL-3">
+		<p name="lcrId">13</p>
+		<p name="lnBtsId">520810</p>
+		<p name="maxNumOfSuppMimoLayer">4-layer</p>
+		<p name="pcellSwapAllowed">allowed</p>
+		<p name="scellPrio">2</p>
+	</managedObject>
+	<managedObject class="CAREL" operation="create" distName="PLMN-PLMN/MRBTS-520810/LNBTS-520810/LNCEL-43/CAREL-1">
+		<p name="lcrId">11</p>
+		<p name="lnBtsId">520810</p>
+		<p name="maxNumOfSuppMimoLayer">4-layer</p>
+		<p name="pcellSwapAllowed">allowed</p>
+		<p name="scellPrio">2</p>
+	</managedObject>
+	<managedObject class="CAREL" operation="create" distName="PLMN-PLMN/MRBTS-520810/LNBTS-520810/LNCEL-43/CAREL-2">
+		<p name="lcrId">12</p>
+		<p name="lnBtsId">520810</p>
+		<p name="maxNumOfSuppMimoLayer">4-layer</p>
+		<p name="pcellSwapAllowed">allowed</p>
+		<p name="scellPrio">2</p>
+	</managedObject>
+	<managedObject class="CAREL" operation="create" distName="PLMN-PLMN/MRBTS-520810/LNBTS-520810/LNCEL-43/CAREL-3">
+		<p name="lcrId">13</p>
+		<p name="lnBtsId">520810</p>
+		<p name="maxNumOfSuppMimoLayer">4-layer</p>
+		<p name="pcellSwapAllowed">allowed</p>
+		<p name="scellPrio">1</p>
+	</managedObject>
+	<managedObject class="CAREL" operation="create" distName="PLMN-PLMN/MRBTS-521561/LNBTS-521561/LNCEL-11/CAREL-1">
+		<p name="lcrId">41</p>
+		<p name="lnBtsId">521561</p>
+		<p name="maxNumOfSuppMimoLayer">4-layer</p>
+		<p name="pcellSwapAllowed">allowed</p>
+		<p name="scellPrio">1</p>
+	</managedObject>
+	<managedObject class="CAREL" operation="create" distName="PLMN-PLMN/MRBTS-521561/LNBTS-521561/LNCEL-12/CAREL-1">
+		<p name="lcrId">41</p>
+		<p name="lnBtsId">521561</p>
+		<p name="maxNumOfSuppMimoLayer">4-layer</p>
+		<p name="pcellSwapAllowed">allowed</p>
+		<p name="scellPrio">2</p>
+	</managedObject>
+	<managedObject class="CAREL" operation="create" distName="PLMN-PLMN/MRBTS-521561/LNBTS-521561/LNCEL-13/CAREL-1">
+		<p name="lcrId">41</p>
+		<p name="lnBtsId">521561</p>
+		<p name="maxNumOfSuppMimoLayer">4-layer</p>
+		<p name="pcellSwapAllowed">allowed</p>
+		<p name="scellPrio">2</p>
+	</managedObject>
+	<managedObject class="CAREL" operation="create" distName="PLMN-PLMN/MRBTS-521561/LNBTS-521561/LNCEL-16/CAREL-1">
+		<p name="lcrId">41</p>
+		<p name="lnBtsId">521561</p>
+		<p name="maxNumOfSuppMimoLayer">4-layer</p>
+		<p name="pcellSwapAllowed">allowed</p>
+		<p name="scellPrio">2</p>
+	</managedObject>
+	<managedObject class="CAREL" operation="create" distName="PLMN-PLMN/MRBTS-521561/LNBTS-521561/LNCEL-41/CAREL-1">
+		<p name="lcrId">11</p>
+		<p name="lnBtsId">521561</p>
+		<p name="maxNumOfSuppMimoLayer">4-layer</p>
+		<p name="pcellSwapAllowed">allowed</p>
+		<p name="scellPrio">1</p>
+	</managedObject>
+	<managedObject class="CAREL" operation="create" distName="PLMN-PLMN/MRBTS-521561/LNBTS-521561/LNCEL-41/CAREL-2">
+		<p name="lcrId">12</p>
+		<p name="lnBtsId">521561</p>
+		<p name="maxNumOfSuppMimoLayer">4-layer</p>
+		<p name="pcellSwapAllowed">allowed</p>
+		<p name="scellPrio">2</p>
+	</managedObject>
+	<managedObject class="CAREL" operation="create" distName="PLMN-PLMN/MRBTS-521561/LNBTS-521561/LNCEL-41/CAREL-3">
+		<p name="lcrId">13</p>
+		<p name="lnBtsId">521561</p>
+		<p name="maxNumOfSuppMimoLayer">4-layer</p>
+		<p name="pcellSwapAllowed">allowed</p>
+		<p name="scellPrio">2</p>
+	</managedObject>
+	<managedObject class="CAREL" operation="create" distName="PLMN-PLMN/MRBTS-521561/LNBTS-521561/LNCEL-41/CAREL-4">
+		<p name="lcrId">16</p>
+		<p name="lnBtsId">521561</p>
+		<p name="maxNumOfSuppMimoLayer">4-layer</p>
+		<p name="pcellSwapAllowed">allowed</p>
+		<p name="scellPrio">2</p>
+	</managedObject>
+	<managedObject class="CAREL" operation="create" distName="PLMN-PLMN/MRBTS-521353/LNBTS-521353/LNCEL-11/CAREL-1">
+		<p name="lcrId">41</p>
+		<p name="lnBtsId">521353</p>
+		<p name="maxNumOfSuppMimoLayer">4-layer</p>
+		<p name="pcellSwapAllowed">allowed</p>
+		<p name="scellPrio">1</p>
+	</managedObject>
+	<managedObject class="CAREL" operation="create" distName="PLMN-PLMN/MRBTS-521353/LNBTS-521353/LNCEL-12/CAREL-1">
+		<p name="lcrId">41</p>
+		<p name="lnBtsId">521353</p>
+		<p name="maxNumOfSuppMimoLayer">4-layer</p>
+		<p name="pcellSwapAllowed">allowed</p>
+		<p name="scellPrio">2</p>
+	</managedObject>
+	<managedObject class="CAREL" operation="create" distName="PLMN-PLMN/MRBTS-521353/LNBTS-521353/LNCEL-13/CAREL-1">
+		<p name="lcrId">41</p>
+		<p name="lnBtsId">521353</p>
+		<p name="maxNumOfSuppMimoLayer">4-layer</p>
+		<p name="pcellSwapAllowed">allowed</p>
+		<p name="scellPrio">2</p>
+	</managedObject>
+	<managedObject class="CAREL" operation="create" distName="PLMN-PLMN/MRBTS-521353/LNBTS-521353/LNCEL-15/CAREL-1">
+		<p name="lcrId">41</p>
+		<p name="lnBtsId">521353</p>
+		<p name="maxNumOfSuppMimoLayer">4-layer</p>
+		<p name="pcellSwapAllowed">allowed</p>
+		<p name="scellPrio">2</p>
+	</managedObject>
+	<managedObject class="CAREL" operation="create" distName="PLMN-PLMN/MRBTS-521353/LNBTS-521353/LNCEL-16/CAREL-1">
+		<p name="lcrId">41</p>
+		<p name="lnBtsId">521353</p>
+		<p name="maxNumOfSuppMimoLayer">4-layer</p>
+		<p name="pcellSwapAllowed">allowed</p>
+		<p name="scellPrio">2</p>
+	</managedObject>
+	<managedObject class="CAREL" operation="create" distName="PLMN-PLMN/MRBTS-521353/LNBTS-521353/LNCEL-41/CAREL-1">
+		<p name="lcrId">11</p>
+		<p name="lnBtsId">521353</p>
+		<p name="maxNumOfSuppMimoLayer">4-layer</p>
+		<p name="pcellSwapAllowed">allowed</p>
+		<p name="scellPrio">1</p>
+	</managedObject>
+	<managedObject class="CAREL" operation="create" distName="PLMN-PLMN/MRBTS-521353/LNBTS-521353/LNCEL-41/CAREL-2">
+		<p name="lcrId">12</p>
+		<p name="lnBtsId">521353</p>
+		<p name="maxNumOfSuppMimoLayer">4-layer</p>
+		<p name="pcellSwapAllowed">allowed</p>
+		<p name="scellPrio">2</p>
+	</managedObject>
+	<managedObject class="CAREL" operation="create" distName="PLMN-PLMN/MRBTS-521353/LNBTS-521353/LNCEL-41/CAREL-3">
+		<p name="lcrId">13</p>
+		<p name="lnBtsId">521353</p>
+		<p name="maxNumOfSuppMimoLayer">4-layer</p>
+		<p name="pcellSwapAllowed">allowed</p>
+		<p name="scellPrio">2</p>
+	</managedObject>
+	<managedObject class="CAREL" operation="create" distName="PLMN-PLMN/MRBTS-521353/LNBTS-521353/LNCEL-41/CAREL-4">
+		<p name="lcrId">15</p>
+		<p name="lnBtsId">521353</p>
+		<p name="maxNumOfSuppMimoLayer">4-layer</p>
+		<p name="pcellSwapAllowed">allowed</p>
+		<p name="scellPrio">2</p>
+	</managedObject>
+	<managedObject class="CAREL" operation="create" distName="PLMN-PLMN/MRBTS-521353/LNBTS-521353/LNCEL-41/CAREL-5">
+		<p name="lcrId">16</p>
+		<p name="lnBtsId">521353</p>
+		<p name="maxNumOfSuppMimoLayer">4-layer</p>
+		<p name="pcellSwapAllowed">allowed</p>
+		<p name="scellPrio">2</p>
+	</managedObject>
+	<managedObject class="CAREL" operation="create" distName="PLMN-PLMN/MRBTS-521027/LNBTS-521027/LNCEL-11/CAREL-1">
+		<p name="lcrId">42</p>
+		<p name="lnBtsId">521027</p>
+		<p name="maxNumOfSuppMimoLayer">4-layer</p>
+		<p name="pcellSwapAllowed">allowed</p>
+		<p name="scellPrio">2</p>
+	</managedObject>
+	<managedObject class="CAREL" operation="create" distName="PLMN-PLMN/MRBTS-521027/LNBTS-521027/LNCEL-11/CAREL-2">
+		<p name="lcrId">43</p>
+		<p name="lnBtsId">521027</p>
+		<p name="maxNumOfSuppMimoLayer">4-layer</p>
+		<p name="pcellSwapAllowed">allowed</p>
+		<p name="scellPrio">2</p>
+	</managedObject>
+	<managedObject class="CAREL" operation="create" distName="PLMN-PLMN/MRBTS-521027/LNBTS-521027/LNCEL-12/CAREL-1">
+		<p name="lcrId">42</p>
+		<p name="lnBtsId">521027</p>
+		<p name="maxNumOfSuppMimoLayer">4-layer</p>
+		<p name="pcellSwapAllowed">allowed</p>
+		<p name="scellPrio">1</p>
+	</managedObject>
+	<managedObject class="CAREL" operation="create" distName="PLMN-PLMN/MRBTS-521027/LNBTS-521027/LNCEL-12/CAREL-2">
+		<p name="lcrId">43</p>
+		<p name="lnBtsId">521027</p>
+		<p name="maxNumOfSuppMimoLayer">4-layer</p>
+		<p name="pcellSwapAllowed">allowed</p>
+		<p name="scellPrio">2</p>
+	</managedObject>
+	<managedObject class="CAREL" operation="create" distName="PLMN-PLMN/MRBTS-521027/LNBTS-521027/LNCEL-13/CAREL-1">
+		<p name="lcrId">42</p>
+		<p name="lnBtsId">521027</p>
+		<p name="maxNumOfSuppMimoLayer">4-layer</p>
+		<p name="pcellSwapAllowed">allowed</p>
+		<p name="scellPrio">2</p>
+	</managedObject>
+	<managedObject class="CAREL" operation="create" distName="PLMN-PLMN/MRBTS-521027/LNBTS-521027/LNCEL-13/CAREL-2">
+		<p name="lcrId">43</p>
+		<p name="lnBtsId">521027</p>
+		<p name="maxNumOfSuppMimoLayer">4-layer</p>
+		<p name="pcellSwapAllowed">allowed</p>
+		<p name="scellPrio">1</p>
+	</managedObject>
+	<managedObject class="CAREL" operation="create" distName="PLMN-PLMN/MRBTS-521027/LNBTS-521027/LNCEL-42/CAREL-1">
+		<p name="lcrId">11</p>
+		<p name="lnBtsId">521027</p>
+		<p name="maxNumOfSuppMimoLayer">4-layer</p>
+		<p name="pcellSwapAllowed">allowed</p>
+		<p name="scellPrio">2</p>
+	</managedObject>
+	<managedObject class="CAREL" operation="create" distName="PLMN-PLMN/MRBTS-521027/LNBTS-521027/LNCEL-42/CAREL-2">
+		<p name="lcrId">12</p>
+		<p name="lnBtsId">521027</p>
+		<p name="maxNumOfSuppMimoLayer">4-layer</p>
+		<p name="pcellSwapAllowed">allowed</p>
+		<p name="scellPrio">1</p>
+	</managedObject>
+	<managedObject class="CAREL" operation="create" distName="PLMN-PLMN/MRBTS-521027/LNBTS-521027/LNCEL-42/CAREL-3">
+		<p name="lcrId">13</p>
+		<p name="lnBtsId">521027</p>
+		<p name="maxNumOfSuppMimoLayer">4-layer</p>
+		<p name="pcellSwapAllowed">allowed</p>
+		<p name="scellPrio">2</p>
+	</managedObject>
+	<managedObject class="CAREL" operation="create" distName="PLMN-PLMN/MRBTS-521027/LNBTS-521027/LNCEL-43/CAREL-1">
+		<p name="lcrId">11</p>
+		<p name="lnBtsId">521027</p>
+		<p name="maxNumOfSuppMimoLayer">4-layer</p>
+		<p name="pcellSwapAllowed">allowed</p>
+		<p name="scellPrio">2</p>
+	</managedObject>
+	<managedObject class="CAREL" operation="create" distName="PLMN-PLMN/MRBTS-521027/LNBTS-521027/LNCEL-43/CAREL-2">
+		<p name="lcrId">12</p>
+		<p name="lnBtsId">521027</p>
+		<p name="maxNumOfSuppMimoLayer">4-layer</p>
+		<p name="pcellSwapAllowed">allowed</p>
+		<p name="scellPrio">2</p>
+	</managedObject>
+	<managedObject class="CAREL" operation="create" distName="PLMN-PLMN/MRBTS-521027/LNBTS-521027/LNCEL-43/CAREL-3">
+		<p name="lcrId">13</p>
+		<p name="lnBtsId">521027</p>
+		<p name="maxNumOfSuppMimoLayer">4-layer</p>
+		<p name="pcellSwapAllowed">allowed</p>
+		<p name="scellPrio">1</p>
+	</managedObject>
+	<managedObject class="CAREL" operation="create" distName="PLMN-PLMN/MRBTS-521036/LNBTS-521036/LNCEL-11/CAREL-1">
+		<p name="lcrId">41</p>
+		<p name="lnBtsId">521036</p>
+		<p name="maxNumOfSuppMimoLayer">4-layer</p>
+		<p name="pcellSwapAllowed">allowed</p>
+		<p name="scellPrio">1</p>
+	</managedObject>
+	<managedObject class="CAREL" operation="create" distName="PLMN-PLMN/MRBTS-521036/LNBTS-521036/LNCEL-12/CAREL-1">
+		<p name="lcrId">41</p>
+		<p name="lnBtsId">521036</p>
+		<p name="maxNumOfSuppMimoLayer">4-layer</p>
+		<p name="pcellSwapAllowed">allowed</p>
+		<p name="scellPrio">2</p>
+	</managedObject>
+	<managedObject class="CAREL" operation="create" distName="PLMN-PLMN/MRBTS-521036/LNBTS-521036/LNCEL-13/CAREL-1">
+		<p name="lcrId">41</p>
+		<p name="lnBtsId">521036</p>
+		<p name="maxNumOfSuppMimoLayer">4-layer</p>
+		<p name="pcellSwapAllowed">allowed</p>
+		<p name="scellPrio">2</p>
+	</managedObject>
+	<managedObject class="CAREL" operation="create" distName="PLMN-PLMN/MRBTS-521036/LNBTS-521036/LNCEL-41/CAREL-1">
+		<p name="lcrId">11</p>
+		<p name="lnBtsId">521036</p>
+		<p name="maxNumOfSuppMimoLayer">4-layer</p>
+		<p name="pcellSwapAllowed">allowed</p>
+		<p name="scellPrio">1</p>
+	</managedObject>
+	<managedObject class="CAREL" operation="create" distName="PLMN-PLMN/MRBTS-521036/LNBTS-521036/LNCEL-41/CAREL-2">
+		<p name="lcrId">12</p>
+		<p name="lnBtsId">521036</p>
+		<p name="maxNumOfSuppMimoLayer">4-layer</p>
+		<p name="pcellSwapAllowed">allowed</p>
+		<p name="scellPrio">2</p>
+	</managedObject>
+	<managedObject class="CAREL" operation="create" distName="PLMN-PLMN/MRBTS-521036/LNBTS-521036/LNCEL-41/CAREL-3">
+		<p name="lcrId">13</p>
+		<p name="lnBtsId">521036</p>
+		<p name="maxNumOfSuppMimoLayer">4-layer</p>
+		<p name="pcellSwapAllowed">allowed</p>
+		<p name="scellPrio">2</p>
+	</managedObject>
+	<managedObject class="CAREL" operation="create" distName="PLMN-PLMN/MRBTS-521278/LNBTS-521278/LNCEL-11/CAREL-1">
+		<p name="lcrId">41</p>
+		<p name="lnBtsId">521278</p>
+		<p name="maxNumOfSuppMimoLayer">4-layer</p>
+		<p name="pcellSwapAllowed">allowed</p>
+		<p name="scellPrio">1</p>
+	</managedObject>
+	<managedObject class="CAREL" operation="create" distName="PLMN-PLMN/MRBTS-521278/LNBTS-521278/LNCEL-12/CAREL-1">
+		<p name="lcrId">41</p>
+		<p name="lnBtsId">521278</p>
+		<p name="maxNumOfSuppMimoLayer">4-layer</p>
+		<p name="pcellSwapAllowed">allowed</p>
+		<p name="scellPrio">2</p>
+	</managedObject>
+	<managedObject class="CAREL" operation="create" distName="PLMN-PLMN/MRBTS-521278/LNBTS-521278/LNCEL-13/CAREL-1">
+		<p name="lcrId">41</p>
+		<p name="lnBtsId">521278</p>
+		<p name="maxNumOfSuppMimoLayer">4-layer</p>
+		<p name="pcellSwapAllowed">allowed</p>
+		<p name="scellPrio">2</p>
+	</managedObject>
+	<managedObject class="CAREL" operation="create" distName="PLMN-PLMN/MRBTS-521278/LNBTS-521278/LNCEL-41/CAREL-1">
+		<p name="lcrId">11</p>
+		<p name="lnBtsId">521278</p>
+		<p name="maxNumOfSuppMimoLayer">4-layer</p>
+		<p name="pcellSwapAllowed">allowed</p>
+		<p name="scellPrio">1</p>
+	</managedObject>
+	<managedObject class="CAREL" operation="create" distName="PLMN-PLMN/MRBTS-521278/LNBTS-521278/LNCEL-41/CAREL-2">
+		<p name="lcrId">12</p>
+		<p name="lnBtsId">521278</p>
+		<p name="maxNumOfSuppMimoLayer">4-layer</p>
+		<p name="pcellSwapAllowed">allowed</p>
+		<p name="scellPrio">2</p>
+	</managedObject>
+	<managedObject class="CAREL" operation="create" distName="PLMN-PLMN/MRBTS-521278/LNBTS-521278/LNCEL-41/CAREL-3">
+		<p name="lcrId">13</p>
+		<p name="lnBtsId">521278</p>
+		<p name="maxNumOfSuppMimoLayer">4-layer</p>
+		<p name="pcellSwapAllowed">allowed</p>
+		<p name="scellPrio">2</p>
+	</managedObject>
+	<managedObject class="CAREL" operation="create" distName="PLMN-PLMN/MRBTS-521373/LNBTS-521373/LNCEL-11/CAREL-1">
+		<p name="lcrId">41</p>
+		<p name="lnBtsId">521373</p>
+		<p name="maxNumOfSuppMimoLayer">4-layer</p>
+		<p name="pcellSwapAllowed">allowed</p>
+		<p name="scellPrio">1</p>
+	</managedObject>
+	<managedObject class="CAREL" operation="create" distName="PLMN-PLMN/MRBTS-521373/LNBTS-521373/LNCEL-11/CAREL-2">
+		<p name="lcrId">43</p>
+		<p name="lnBtsId">521373</p>
+		<p name="maxNumOfSuppMimoLayer">4-layer</p>
+		<p name="pcellSwapAllowed">allowed</p>
+		<p name="scellPrio">2</p>
+	</managedObject>
+	<managedObject class="CAREL" operation="create" distName="PLMN-PLMN/MRBTS-521373/LNBTS-521373/LNCEL-12/CAREL-1">
+		<p name="lcrId">41</p>
+		<p name="lnBtsId">521373</p>
+		<p name="maxNumOfSuppMimoLayer">4-layer</p>
+		<p name="pcellSwapAllowed">allowed</p>
+		<p name="scellPrio">2</p>
+	</managedObject>
+	<managedObject class="CAREL" operation="create" distName="PLMN-PLMN/MRBTS-521373/LNBTS-521373/LNCEL-12/CAREL-2">
+		<p name="lcrId">43</p>
+		<p name="lnBtsId">521373</p>
+		<p name="maxNumOfSuppMimoLayer">4-layer</p>
+		<p name="pcellSwapAllowed">allowed</p>
+		<p name="scellPrio">2</p>
+	</managedObject>
+	<managedObject class="CAREL" operation="create" distName="PLMN-PLMN/MRBTS-521373/LNBTS-521373/LNCEL-13/CAREL-1">
+		<p name="lcrId">41</p>
+		<p name="lnBtsId">521373</p>
+		<p name="maxNumOfSuppMimoLayer">4-layer</p>
+		<p name="pcellSwapAllowed">allowed</p>
+		<p name="scellPrio">2</p>
+	</managedObject>
+	<managedObject class="CAREL" operation="create" distName="PLMN-PLMN/MRBTS-521373/LNBTS-521373/LNCEL-13/CAREL-2">
+		<p name="lcrId">43</p>
+		<p name="lnBtsId">521373</p>
+		<p name="maxNumOfSuppMimoLayer">4-layer</p>
+		<p name="pcellSwapAllowed">allowed</p>
+		<p name="scellPrio">1</p>
+	</managedObject>
+	<managedObject class="CAREL" operation="create" distName="PLMN-PLMN/MRBTS-521373/LNBTS-521373/LNCEL-41/CAREL-1">
+		<p name="lcrId">11</p>
+		<p name="lnBtsId">521373</p>
+		<p name="maxNumOfSuppMimoLayer">4-layer</p>
+		<p name="pcellSwapAllowed">allowed</p>
+		<p name="scellPrio">1</p>
+	</managedObject>
+	<managedObject class="CAREL" operation="create" distName="PLMN-PLMN/MRBTS-521373/LNBTS-521373/LNCEL-41/CAREL-2">
+		<p name="lcrId">12</p>
+		<p name="lnBtsId">521373</p>
+		<p name="maxNumOfSuppMimoLayer">4-layer</p>
+		<p name="pcellSwapAllowed">allowed</p>
+		<p name="scellPrio">2</p>
+	</managedObject>
+	<managedObject class="CAREL" operation="create" distName="PLMN-PLMN/MRBTS-521373/LNBTS-521373/LNCEL-41/CAREL-3">
+		<p name="lcrId">13</p>
+		<p name="lnBtsId">521373</p>
+		<p name="maxNumOfSuppMimoLayer">4-layer</p>
+		<p name="pcellSwapAllowed">allowed</p>
+		<p name="scellPrio">2</p>
+	</managedObject>
+	<managedObject class="CAREL" operation="create" distName="PLMN-PLMN/MRBTS-521373/LNBTS-521373/LNCEL-43/CAREL-1">
+		<p name="lcrId">11</p>
+		<p name="lnBtsId">521373</p>
+		<p name="maxNumOfSuppMimoLayer">4-layer</p>
+		<p name="pcellSwapAllowed">allowed</p>
+		<p name="scellPrio">2</p>
+	</managedObject>
+	<managedObject class="CAREL" operation="create" distName="PLMN-PLMN/MRBTS-521373/LNBTS-521373/LNCEL-43/CAREL-2">
+		<p name="lcrId">12</p>
+		<p name="lnBtsId">521373</p>
+		<p name="maxNumOfSuppMimoLayer">4-layer</p>
+		<p name="pcellSwapAllowed">allowed</p>
+		<p name="scellPrio">2</p>
+	</managedObject>
+	<managedObject class="CAREL" operation="create" distName="PLMN-PLMN/MRBTS-521373/LNBTS-521373/LNCEL-43/CAREL-3">
+		<p name="lcrId">13</p>
+		<p name="lnBtsId">521373</p>
+		<p name="maxNumOfSuppMimoLayer">4-layer</p>
+		<p name="pcellSwapAllowed">allowed</p>
+		<p name="scellPrio">1</p>
+	</managedObject>
+	<managedObject class="CAREL" operation="create" distName="PLMN-PLMN/MRBTS-551332/LNBTS-551332/LNCEL-11/CAREL-1">
+		<p name="lcrId">22</p>
+		<p name="lnBtsId">551332</p>
+		<p name="maxNumOfSuppMimoLayer">4-layer</p>
+		<p name="pcellSwapAllowed">allowed</p>
+		<p name="scellPrio">2</p>
+	</managedObject>
+	<managedObject class="CAREL" operation="create" distName="PLMN-PLMN/MRBTS-551332/LNBTS-551332/LNCEL-12/CAREL-1">
+		<p name="lcrId">22</p>
+		<p name="lnBtsId">551332</p>
+		<p name="maxNumOfSuppMimoLayer">4-layer</p>
+		<p name="pcellSwapAllowed">allowed</p>
+		<p name="scellPrio">2</p>
+	</managedObject>
+	<managedObject class="CAREL" operation="create" distName="PLMN-PLMN/MRBTS-551332/LNBTS-551332/LNCEL-13/CAREL-1">
+		<p name="lcrId">22</p>
+		<p name="lnBtsId">551332</p>
+		<p name="maxNumOfSuppMimoLayer">4-layer</p>
+		<p name="pcellSwapAllowed">allowed</p>
+		<p name="scellPrio">2</p>
+	</managedObject>
+	<managedObject class="CAREL" operation="create" distName="PLMN-PLMN/MRBTS-551332/LNBTS-551332/LNCEL-22/CAREL-1">
+		<p name="lcrId">11</p>
+		<p name="lnBtsId">551332</p>
+		<p name="maxNumOfSuppMimoLayer">4-layer</p>
+		<p name="pcellSwapAllowed">allowed</p>
+		<p name="scellPrio">2</p>
+	</managedObject>
+	<managedObject class="CAREL" operation="create" distName="PLMN-PLMN/MRBTS-551332/LNBTS-551332/LNCEL-22/CAREL-2">
+		<p name="lcrId">12</p>
+		<p name="lnBtsId">551332</p>
+		<p name="maxNumOfSuppMimoLayer">4-layer</p>
+		<p name="pcellSwapAllowed">allowed</p>
+		<p name="scellPrio">2</p>
+	</managedObject>
+	<managedObject class="CAREL" operation="create" distName="PLMN-PLMN/MRBTS-551332/LNBTS-551332/LNCEL-22/CAREL-3">
+		<p name="lcrId">13</p>
+		<p name="lnBtsId">551332</p>
+		<p name="maxNumOfSuppMimoLayer">4-layer</p>
+		<p name="pcellSwapAllowed">allowed</p>
+		<p name="scellPrio">2</p>
+	</managedObject>
+	<managedObject class="CAREL" operation="create" distName="PLMN-PLMN/MRBTS-551332/LNBTS-551332/LNCEL-22/CAREL-4">
+		<p name="lcrId">43</p>
+		<p name="lnBtsId">551332</p>
+		<p name="maxNumOfSuppMimoLayer">4-layer</p>
+		<p name="pcellSwapAllowed">allowed</p>
+		<p name="scellPrio">2</p>
+	</managedObject>
+	<managedObject class="CAREL" operation="create" distName="PLMN-PLMN/MRBTS-551332/LNBTS-551332/LNCEL-43/CAREL-4">
+		<p name="lcrId">22</p>
+		<p name="lnBtsId">551332</p>
+		<p name="maxNumOfSuppMimoLayer">4-layer</p>
+		<p name="pcellSwapAllowed">allowed</p>
+		<p name="scellPrio">2</p>
+	</managedObject>
+	<managedObject class="CAREL" operation="create" distName="PLMN-PLMN/MRBTS-521358/LNBTS-521358/LNCEL-11/CAREL-3">
+		<p name="lcrId">41</p>
+		<p name="lnBtsId">521358</p>
+		<p name="maxNumOfSuppMimoLayer">4-layer</p>
+		<p name="pcellSwapAllowed">allowed</p>
+		<p name="scellPrio">1</p>
+	</managedObject>
+	<managedObject class="CAREL" operation="create" distName="PLMN-PLMN/MRBTS-521358/LNBTS-521358/LNCEL-12/CAREL-3">
+		<p name="lcrId">41</p>
+		<p name="lnBtsId">521358</p>
+		<p name="maxNumOfSuppMimoLayer">4-layer</p>
+		<p name="pcellSwapAllowed">allowed</p>
+		<p name="scellPrio">2</p>
+	</managedObject>
+	<managedObject class="CAREL" operation="create" distName="PLMN-PLMN/MRBTS-521358/LNBTS-521358/LNCEL-13/CAREL-3">
+		<p name="lcrId">41</p>
+		<p name="lnBtsId">521358</p>
+		<p name="maxNumOfSuppMimoLayer">4-layer</p>
+		<p name="pcellSwapAllowed">allowed</p>
+		<p name="scellPrio">2</p>
+	</managedObject>
+	<managedObject class="CAREL" operation="create" distName="PLMN-PLMN/MRBTS-521358/LNBTS-521358/LNCEL-41/CAREL-1">
+		<p name="lcrId">11</p>
+		<p name="lnBtsId">521358</p>
+		<p name="maxNumOfSuppMimoLayer">4-layer</p>
+		<p name="pcellSwapAllowed">allowed</p>
+		<p name="scellPrio">1</p>
+	</managedObject>
+	<managedObject class="CAREL" operation="create" distName="PLMN-PLMN/MRBTS-521358/LNBTS-521358/LNCEL-41/CAREL-2">
+		<p name="lcrId">12</p>
+		<p name="lnBtsId">521358</p>
+		<p name="maxNumOfSuppMimoLayer">4-layer</p>
+		<p name="pcellSwapAllowed">allowed</p>
+		<p name="scellPrio">2</p>
+	</managedObject>
+	<managedObject class="CAREL" operation="create" distName="PLMN-PLMN/MRBTS-521358/LNBTS-521358/LNCEL-41/CAREL-3">
+		<p name="lcrId">13</p>
+		<p name="lnBtsId">521358</p>
+		<p name="maxNumOfSuppMimoLayer">4-layer</p>
+		<p name="pcellSwapAllowed">allowed</p>
+		<p name="scellPrio">2</p>
+	</managedObject>
+	<managedObject class="CAREL" operation="create" distName="PLMN-PLMN/MRBTS-563284/LNBTS-563284/LNCEL-11/CAREL-1">
+		<p name="lcrId">41</p>
+		<p name="lnBtsId">563284</p>
+		<p name="maxNumOfSuppMimoLayer">4-layer</p>
+		<p name="pcellSwapAllowed">allowed</p>
+		<p name="scellPrio">1</p>
+	</managedObject>
+	<managedObject class="CAREL" operation="create" distName="PLMN-PLMN/MRBTS-563284/LNBTS-563284/LNCEL-11/CAREL-2">
+		<p name="lcrId">43</p>
+		<p name="lnBtsId">563284</p>
+		<p name="maxNumOfSuppMimoLayer">4-layer</p>
+		<p name="pcellSwapAllowed">allowed</p>
+		<p name="scellPrio">2</p>
+	</managedObject>
+	<managedObject class="CAREL" operation="create" distName="PLMN-PLMN/MRBTS-563284/LNBTS-563284/LNCEL-11/CAREL-3">
+		<p name="lcrId">46</p>
+		<p name="lnBtsId">563284</p>
+		<p name="maxNumOfSuppMimoLayer">4-layer</p>
+		<p name="pcellSwapAllowed">allowed</p>
+		<p name="scellPrio">2</p>
+	</managedObject>
+	<managedObject class="CAREL" operation="create" distName="PLMN-PLMN/MRBTS-563284/LNBTS-563284/LNCEL-12/CAREL-1">
+		<p name="lcrId">41</p>
+		<p name="lnBtsId">563284</p>
+		<p name="maxNumOfSuppMimoLayer">4-layer</p>
+		<p name="pcellSwapAllowed">allowed</p>
+		<p name="scellPrio">2</p>
+	</managedObject>
+	<managedObject class="CAREL" operation="create" distName="PLMN-PLMN/MRBTS-563284/LNBTS-563284/LNCEL-12/CAREL-2">
+		<p name="lcrId">43</p>
+		<p name="lnBtsId">563284</p>
+		<p name="maxNumOfSuppMimoLayer">4-layer</p>
+		<p name="pcellSwapAllowed">allowed</p>
+		<p name="scellPrio">2</p>
+	</managedObject>
+	<managedObject class="CAREL" operation="create" distName="PLMN-PLMN/MRBTS-563284/LNBTS-563284/LNCEL-12/CAREL-3">
+		<p name="lcrId">46</p>
+		<p name="lnBtsId">563284</p>
+		<p name="maxNumOfSuppMimoLayer">4-layer</p>
+		<p name="pcellSwapAllowed">allowed</p>
+		<p name="scellPrio">2</p>
+	</managedObject>
+	<managedObject class="CAREL" operation="create" distName="PLMN-PLMN/MRBTS-563284/LNBTS-563284/LNCEL-13/CAREL-1">
+		<p name="lcrId">41</p>
+		<p name="lnBtsId">563284</p>
+		<p name="maxNumOfSuppMimoLayer">4-layer</p>
+		<p name="pcellSwapAllowed">allowed</p>
+		<p name="scellPrio">2</p>
+	</managedObject>
+	<managedObject class="CAREL" operation="create" distName="PLMN-PLMN/MRBTS-563284/LNBTS-563284/LNCEL-13/CAREL-2">
+		<p name="lcrId">43</p>
+		<p name="lnBtsId">563284</p>
+		<p name="maxNumOfSuppMimoLayer">4-layer</p>
+		<p name="pcellSwapAllowed">allowed</p>
+		<p name="scellPrio">1</p>
+	</managedObject>
+	<managedObject class="CAREL" operation="create" distName="PLMN-PLMN/MRBTS-563284/LNBTS-563284/LNCEL-13/CAREL-3">
+		<p name="lcrId">46</p>
+		<p name="lnBtsId">563284</p>
+		<p name="maxNumOfSuppMimoLayer">4-layer</p>
+		<p name="pcellSwapAllowed">allowed</p>
+		<p name="scellPrio">2</p>
+	</managedObject>
+	<managedObject class="CAREL" operation="create" distName="PLMN-PLMN/MRBTS-563284/LNBTS-563284/LNCEL-15/CAREL-1">
+		<p name="lcrId">41</p>
+		<p name="lnBtsId">563284</p>
+		<p name="maxNumOfSuppMimoLayer">4-layer</p>
+		<p name="pcellSwapAllowed">allowed</p>
+		<p name="scellPrio">2</p>
+	</managedObject>
+	<managedObject class="CAREL" operation="create" distName="PLMN-PLMN/MRBTS-563284/LNBTS-563284/LNCEL-15/CAREL-2">
+		<p name="lcrId">43</p>
+		<p name="lnBtsId">563284</p>
+		<p name="maxNumOfSuppMimoLayer">4-layer</p>
+		<p name="pcellSwapAllowed">allowed</p>
+		<p name="scellPrio">2</p>
+	</managedObject>
+	<managedObject class="CAREL" operation="create" distName="PLMN-PLMN/MRBTS-563284/LNBTS-563284/LNCEL-15/CAREL-3">
+		<p name="lcrId">46</p>
+		<p name="lnBtsId">563284</p>
+		<p name="maxNumOfSuppMimoLayer">4-layer</p>
+		<p name="pcellSwapAllowed">allowed</p>
+		<p name="scellPrio">2</p>
+	</managedObject>
+	<managedObject class="CAREL" operation="create" distName="PLMN-PLMN/MRBTS-563284/LNBTS-563284/LNCEL-16/CAREL-1">
+		<p name="lcrId">41</p>
+		<p name="lnBtsId">563284</p>
+		<p name="maxNumOfSuppMimoLayer">4-layer</p>
+		<p name="pcellSwapAllowed">allowed</p>
+		<p name="scellPrio">2</p>
+	</managedObject>
+	<managedObject class="CAREL" operation="create" distName="PLMN-PLMN/MRBTS-563284/LNBTS-563284/LNCEL-16/CAREL-2">
+		<p name="lcrId">43</p>
+		<p name="lnBtsId">563284</p>
+		<p name="maxNumOfSuppMimoLayer">4-layer</p>
+		<p name="pcellSwapAllowed">allowed</p>
+		<p name="scellPrio">2</p>
+	</managedObject>
+	<managedObject class="CAREL" operation="create" distName="PLMN-PLMN/MRBTS-563284/LNBTS-563284/LNCEL-16/CAREL-3">
+		<p name="lcrId">46</p>
+		<p name="lnBtsId">563284</p>
+		<p name="maxNumOfSuppMimoLayer">4-layer</p>
+		<p name="pcellSwapAllowed">allowed</p>
+		<p name="scellPrio">1</p>
+	</managedObject>
+	<managedObject class="CAREL" operation="create" distName="PLMN-PLMN/MRBTS-563284/LNBTS-563284/LNCEL-41/CAREL-1">
+		<p name="lcrId">11</p>
+		<p name="lnBtsId">563284</p>
+		<p name="maxNumOfSuppMimoLayer">4-layer</p>
+		<p name="pcellSwapAllowed">allowed</p>
+		<p name="scellPrio">1</p>
+	</managedObject>
+	<managedObject class="CAREL" operation="create" distName="PLMN-PLMN/MRBTS-563284/LNBTS-563284/LNCEL-41/CAREL-2">
+		<p name="lcrId">12</p>
+		<p name="lnBtsId">563284</p>
+		<p name="maxNumOfSuppMimoLayer">4-layer</p>
+		<p name="pcellSwapAllowed">allowed</p>
+		<p name="scellPrio">2</p>
+	</managedObject>
+	<managedObject class="CAREL" operation="create" distName="PLMN-PLMN/MRBTS-563284/LNBTS-563284/LNCEL-41/CAREL-3">
+		<p name="lcrId">13</p>
+		<p name="lnBtsId">563284</p>
+		<p name="maxNumOfSuppMimoLayer">4-layer</p>
+		<p name="pcellSwapAllowed">allowed</p>
+		<p name="scellPrio">2</p>
+	</managedObject>
+	<managedObject class="CAREL" operation="create" distName="PLMN-PLMN/MRBTS-563284/LNBTS-563284/LNCEL-41/CAREL-4">
+		<p name="lcrId">15</p>
+		<p name="lnBtsId">563284</p>
+		<p name="maxNumOfSuppMimoLayer">4-layer</p>
+		<p name="pcellSwapAllowed">allowed</p>
+		<p name="scellPrio">2</p>
+	</managedObject>
+	<managedObject class="CAREL" operation="create" distName="PLMN-PLMN/MRBTS-563284/LNBTS-563284/LNCEL-41/CAREL-5">
+		<p name="lcrId">16</p>
+		<p name="lnBtsId">563284</p>
+		<p name="maxNumOfSuppMimoLayer">4-layer</p>
+		<p name="pcellSwapAllowed">allowed</p>
+		<p name="scellPrio">2</p>
+	</managedObject>
+	<managedObject class="CAREL" operation="create" distName="PLMN-PLMN/MRBTS-563284/LNBTS-563284/LNCEL-43/CAREL-1">
+		<p name="lcrId">11</p>
+		<p name="lnBtsId">563284</p>
+		<p name="maxNumOfSuppMimoLayer">4-layer</p>
+		<p name="pcellSwapAllowed">allowed</p>
+		<p name="scellPrio">2</p>
+	</managedObject>
+	<managedObject class="CAREL" operation="create" distName="PLMN-PLMN/MRBTS-563284/LNBTS-563284/LNCEL-43/CAREL-2">
+		<p name="lcrId">12</p>
+		<p name="lnBtsId">563284</p>
+		<p name="maxNumOfSuppMimoLayer">4-layer</p>
+		<p name="pcellSwapAllowed">allowed</p>
+		<p name="scellPrio">2</p>
+	</managedObject>
+	<managedObject class="CAREL" operation="create" distName="PLMN-PLMN/MRBTS-563284/LNBTS-563284/LNCEL-43/CAREL-3">
+		<p name="lcrId">13</p>
+		<p name="lnBtsId">563284</p>
+		<p name="maxNumOfSuppMimoLayer">4-layer</p>
+		<p name="pcellSwapAllowed">allowed</p>
+		<p name="scellPrio">1</p>
+	</managedObject>
+	<managedObject class="CAREL" operation="create" distName="PLMN-PLMN/MRBTS-563284/LNBTS-563284/LNCEL-43/CAREL-4">
+		<p name="lcrId">15</p>
+		<p name="lnBtsId">563284</p>
+		<p name="maxNumOfSuppMimoLayer">4-layer</p>
+		<p name="pcellSwapAllowed">allowed</p>
+		<p name="scellPrio">2</p>
+	</managedObject>
+	<managedObject class="CAREL" operation="create" distName="PLMN-PLMN/MRBTS-563284/LNBTS-563284/LNCEL-43/CAREL-5">
+		<p name="lcrId">16</p>
+		<p name="lnBtsId">563284</p>
+		<p name="maxNumOfSuppMimoLayer">4-layer</p>
+		<p name="pcellSwapAllowed">allowed</p>
+		<p name="scellPrio">2</p>
+	</managedObject>
+	<managedObject class="CAREL" operation="create" distName="PLMN-PLMN/MRBTS-563284/LNBTS-563284/LNCEL-46/CAREL-1">
+		<p name="lcrId">11</p>
+		<p name="lnBtsId">563284</p>
+		<p name="maxNumOfSuppMimoLayer">4-layer</p>
+		<p name="pcellSwapAllowed">allowed</p>
+		<p name="scellPrio">2</p>
+	</managedObject>
+	<managedObject class="CAREL" operation="create" distName="PLMN-PLMN/MRBTS-563284/LNBTS-563284/LNCEL-46/CAREL-2">
+		<p name="lcrId">12</p>
+		<p name="lnBtsId">563284</p>
+		<p name="maxNumOfSuppMimoLayer">4-layer</p>
+		<p name="pcellSwapAllowed">allowed</p>
+		<p name="scellPrio">2</p>
+	</managedObject>
+	<managedObject class="CAREL" operation="create" distName="PLMN-PLMN/MRBTS-563284/LNBTS-563284/LNCEL-46/CAREL-3">
+		<p name="lcrId">13</p>
+		<p name="lnBtsId">563284</p>
+		<p name="maxNumOfSuppMimoLayer">4-layer</p>
+		<p name="pcellSwapAllowed">allowed</p>
+		<p name="scellPrio">2</p>
+	</managedObject>
+	<managedObject class="CAREL" operation="create" distName="PLMN-PLMN/MRBTS-563284/LNBTS-563284/LNCEL-46/CAREL-4">
+		<p name="lcrId">15</p>
+		<p name="lnBtsId">563284</p>
+		<p name="maxNumOfSuppMimoLayer">4-layer</p>
+		<p name="pcellSwapAllowed">allowed</p>
+		<p name="scellPrio">2</p>
+	</managedObject>
+	<managedObject class="CAREL" operation="create" distName="PLMN-PLMN/MRBTS-563284/LNBTS-563284/LNCEL-46/CAREL-5">
+		<p name="lcrId">16</p>
+		<p name="lnBtsId">563284</p>
+		<p name="maxNumOfSuppMimoLayer">4-layer</p>
+		<p name="pcellSwapAllowed">allowed</p>
+		<p name="scellPrio">1</p>
+	</managedObject>
+	<managedObject class="CAREL" operation="create" distName="PLMN-PLMN/MRBTS-520058/LNBTS-520058/LNCEL-11/CAREL-2">
+		<p name="lcrId">43</p>
+		<p name="lnBtsId">520058</p>
+		<p name="maxNumOfSuppMimoLayer">4-layer</p>
+		<p name="pcellSwapAllowed">allowed</p>
+		<p name="scellPrio">2</p>
+	</managedObject>
+	<managedObject class="CAREL" operation="create" distName="PLMN-PLMN/MRBTS-520058/LNBTS-520058/LNCEL-12/CAREL-2">
+		<p name="lcrId">43</p>
+		<p name="lnBtsId">520058</p>
+		<p name="maxNumOfSuppMimoLayer">4-layer</p>
+		<p name="pcellSwapAllowed">allowed</p>
+		<p name="scellPrio">2</p>
+	</managedObject>
+	<managedObject class="CAREL" operation="create" distName="PLMN-PLMN/MRBTS-520058/LNBTS-520058/LNCEL-13/CAREL-2">
+		<p name="lcrId">43</p>
+		<p name="lnBtsId">520058</p>
+		<p name="maxNumOfSuppMimoLayer">4-layer</p>
+		<p name="pcellSwapAllowed">allowed</p>
+		<p name="scellPrio">1</p>
+	</managedObject>
+	<managedObject class="CAREL" operation="create" distName="PLMN-PLMN/MRBTS-520058/LNBTS-520058/LNCEL-43/CAREL-1">
+		<p name="lcrId">11</p>
+		<p name="lnBtsId">520058</p>
+		<p name="maxNumOfSuppMimoLayer">4-layer</p>
+		<p name="pcellSwapAllowed">allowed</p>
+		<p name="scellPrio">2</p>
+	</managedObject>
+	<managedObject class="CAREL" operation="create" distName="PLMN-PLMN/MRBTS-520058/LNBTS-520058/LNCEL-43/CAREL-2">
+		<p name="lcrId">12</p>
+		<p name="lnBtsId">520058</p>
+		<p name="maxNumOfSuppMimoLayer">4-layer</p>
+		<p name="pcellSwapAllowed">allowed</p>
+		<p name="scellPrio">2</p>
+	</managedObject>
+	<managedObject class="CAREL" operation="create" distName="PLMN-PLMN/MRBTS-520058/LNBTS-520058/LNCEL-43/CAREL-3">
+		<p name="lcrId">13</p>
+		<p name="lnBtsId">520058</p>
+		<p name="maxNumOfSuppMimoLayer">4-layer</p>
+		<p name="pcellSwapAllowed">allowed</p>
+		<p name="scellPrio">1</p>
+	</managedObject>
+	<managedObject class="CAREL" operation="create" distName="PLMN-PLMN/MRBTS-520206/LNBTS-520206/LNCEL-11/CAREL-1">
+		<p name="lcrId">43</p>
+		<p name="lnBtsId">520206</p>
+		<p name="maxNumOfSuppMimoLayer">4-layer</p>
+		<p name="pcellSwapAllowed">allowed</p>
+		<p name="scellPrio">2</p>
+	</managedObject>
+	<managedObject class="CAREL" operation="create" distName="PLMN-PLMN/MRBTS-520206/LNBTS-520206/LNCEL-12/CAREL-1">
+		<p name="lcrId">43</p>
+		<p name="lnBtsId">520206</p>
+		<p name="maxNumOfSuppMimoLayer">4-layer</p>
+		<p name="pcellSwapAllowed">allowed</p>
+		<p name="scellPrio">2</p>
+	</managedObject>
+	<managedObject class="CAREL" operation="create" distName="PLMN-PLMN/MRBTS-520206/LNBTS-520206/LNCEL-13/CAREL-1">
+		<p name="lcrId">43</p>
+		<p name="lnBtsId">520206</p>
+		<p name="maxNumOfSuppMimoLayer">4-layer</p>
+		<p name="pcellSwapAllowed">allowed</p>
+		<p name="scellPrio">1</p>
+	</managedObject>
+	<managedObject class="CAREL" operation="create" distName="PLMN-PLMN/MRBTS-520206/LNBTS-520206/LNCEL-43/CAREL-1">
+		<p name="lcrId">11</p>
+		<p name="lnBtsId">520206</p>
+		<p name="maxNumOfSuppMimoLayer">4-layer</p>
+		<p name="pcellSwapAllowed">allowed</p>
+		<p name="scellPrio">2</p>
+	</managedObject>
+	<managedObject class="CAREL" operation="create" distName="PLMN-PLMN/MRBTS-520206/LNBTS-520206/LNCEL-43/CAREL-2">
+		<p name="lcrId">12</p>
+		<p name="lnBtsId">520206</p>
+		<p name="maxNumOfSuppMimoLayer">4-layer</p>
+		<p name="pcellSwapAllowed">allowed</p>
+		<p name="scellPrio">2</p>
+	</managedObject>
+	<managedObject class="CAREL" operation="create" distName="PLMN-PLMN/MRBTS-520206/LNBTS-520206/LNCEL-43/CAREL-3">
+		<p name="lcrId">13</p>
+		<p name="lnBtsId">520206</p>
+		<p name="maxNumOfSuppMimoLayer">4-layer</p>
+		<p name="pcellSwapAllowed">allowed</p>
+		<p name="scellPrio">1</p>
+	</managedObject>
+	<managedObject class="CAREL" operation="create" distName="PLMN-PLMN/MRBTS-521701/LNBTS-521701/LNCEL-11/CAREL-1">
+		<p name="lcrId">41</p>
+		<p name="lnBtsId">521701</p>
+		<p name="maxNumOfSuppMimoLayer">4-layer</p>
+		<p name="pcellSwapAllowed">allowed</p>
+		<p name="scellPrio">1</p>
+	</managedObject>
+	<managedObject class="CAREL" operation="create" distName="PLMN-PLMN/MRBTS-521701/LNBTS-521701/LNCEL-11/CAREL-2">
+		<p name="lcrId">44</p>
+		<p name="lnBtsId">521701</p>
+		<p name="maxNumOfSuppMimoLayer">4-layer</p>
+		<p name="pcellSwapAllowed">allowed</p>
+		<p name="scellPrio">2</p>
+	</managedObject>
+	<managedObject class="CAREL" operation="create" distName="PLMN-PLMN/MRBTS-521701/LNBTS-521701/LNCEL-11/CAREL-3">
+		<p name="lcrId">46</p>
+		<p name="lnBtsId">521701</p>
+		<p name="maxNumOfSuppMimoLayer">4-layer</p>
+		<p name="pcellSwapAllowed">allowed</p>
+		<p name="scellPrio">2</p>
+	</managedObject>
+	<managedObject class="CAREL" operation="create" distName="PLMN-PLMN/MRBTS-521701/LNBTS-521701/LNCEL-12/CAREL-2">
+		<p name="lcrId">41</p>
+		<p name="lnBtsId">521701</p>
+		<p name="maxNumOfSuppMimoLayer">4-layer</p>
+		<p name="pcellSwapAllowed">allowed</p>
+		<p name="scellPrio">2</p>
+	</managedObject>
+	<managedObject class="CAREL" operation="create" distName="PLMN-PLMN/MRBTS-521701/LNBTS-521701/LNCEL-12/CAREL-3">
+		<p name="lcrId">46</p>
+		<p name="lnBtsId">521701</p>
+		<p name="maxNumOfSuppMimoLayer">4-layer</p>
+		<p name="pcellSwapAllowed">allowed</p>
+		<p name="scellPrio">2</p>
+	</managedObject>
+	<managedObject class="CAREL" operation="create" distName="PLMN-PLMN/MRBTS-521701/LNBTS-521701/LNCEL-13/CAREL-2">
+		<p name="lcrId">41</p>
+		<p name="lnBtsId">521701</p>
+		<p name="maxNumOfSuppMimoLayer">4-layer</p>
+		<p name="pcellSwapAllowed">allowed</p>
+		<p name="scellPrio">2</p>
+	</managedObject>
+	<managedObject class="CAREL" operation="create" distName="PLMN-PLMN/MRBTS-521701/LNBTS-521701/LNCEL-13/CAREL-3">
+		<p name="lcrId">46</p>
+		<p name="lnBtsId">521701</p>
+		<p name="maxNumOfSuppMimoLayer">4-layer</p>
+		<p name="pcellSwapAllowed">allowed</p>
+		<p name="scellPrio">2</p>
+	</managedObject>
+	<managedObject class="CAREL" operation="create" distName="PLMN-PLMN/MRBTS-521701/LNBTS-521701/LNCEL-16/CAREL-2">
+		<p name="lcrId">41</p>
+		<p name="lnBtsId">521701</p>
+		<p name="maxNumOfSuppMimoLayer">4-layer</p>
+		<p name="pcellSwapAllowed">allowed</p>
+		<p name="scellPrio">2</p>
+	</managedObject>
+	<managedObject class="CAREL" operation="create" distName="PLMN-PLMN/MRBTS-521701/LNBTS-521701/LNCEL-16/CAREL-3">
+		<p name="lcrId">46</p>
+		<p name="lnBtsId">521701</p>
+		<p name="maxNumOfSuppMimoLayer">4-layer</p>
+		<p name="pcellSwapAllowed">allowed</p>
+		<p name="scellPrio">1</p>
+	</managedObject>
+	<managedObject class="CAREL" operation="create" distName="PLMN-PLMN/MRBTS-521701/LNBTS-521701/LNCEL-41/CAREL-2">
+		<p name="lcrId">11</p>
+		<p name="lnBtsId">521701</p>
+		<p name="maxNumOfSuppMimoLayer">4-layer</p>
+		<p name="pcellSwapAllowed">allowed</p>
+		<p name="scellPrio">1</p>
+	</managedObject>
+	<managedObject class="CAREL" operation="create" distName="PLMN-PLMN/MRBTS-521701/LNBTS-521701/LNCEL-41/CAREL-3">
+		<p name="lcrId">13</p>
+		<p name="lnBtsId">521701</p>
+		<p name="maxNumOfSuppMimoLayer">4-layer</p>
+		<p name="pcellSwapAllowed">allowed</p>
+		<p name="scellPrio">2</p>
+	</managedObject>
+	<managedObject class="CAREL" operation="create" distName="PLMN-PLMN/MRBTS-521701/LNBTS-521701/LNCEL-41/CAREL-4">
+		<p name="lcrId">16</p>
+		<p name="lnBtsId">521701</p>
+		<p name="maxNumOfSuppMimoLayer">4-layer</p>
+		<p name="pcellSwapAllowed">allowed</p>
+		<p name="scellPrio">2</p>
+	</managedObject>
+	<managedObject class="CAREL" operation="create" distName="PLMN-PLMN/MRBTS-521701/LNBTS-521701/LNCEL-44/CAREL-1">
+		<p name="lcrId">11</p>
+		<p name="lnBtsId">521701</p>
+		<p name="maxNumOfSuppMimoLayer">4-layer</p>
+		<p name="pcellSwapAllowed">allowed</p>
+		<p name="scellPrio">2</p>
+	</managedObject>
+	<managedObject class="CAREL" operation="create" distName="PLMN-PLMN/MRBTS-521701/LNBTS-521701/LNCEL-46/CAREL-2">
+		<p name="lcrId">11</p>
+		<p name="lnBtsId">521701</p>
+		<p name="maxNumOfSuppMimoLayer">4-layer</p>
+		<p name="pcellSwapAllowed">allowed</p>
+		<p name="scellPrio">2</p>
+	</managedObject>
+	<managedObject class="CAREL" operation="create" distName="PLMN-PLMN/MRBTS-521701/LNBTS-521701/LNCEL-46/CAREL-3">
+		<p name="lcrId">12</p>
+		<p name="lnBtsId">521701</p>
+		<p name="maxNumOfSuppMimoLayer">4-layer</p>
+		<p name="pcellSwapAllowed">allowed</p>
+		<p name="scellPrio">2</p>
+	</managedObject>
+	<managedObject class="CAREL" operation="create" distName="PLMN-PLMN/MRBTS-521701/LNBTS-521701/LNCEL-46/CAREL-4">
+		<p name="lcrId">13</p>
+		<p name="lnBtsId">521701</p>
+		<p name="maxNumOfSuppMimoLayer">4-layer</p>
+		<p name="pcellSwapAllowed">allowed</p>
+		<p name="scellPrio">2</p>
+	</managedObject>
+	<managedObject class="CAREL" operation="create" distName="PLMN-PLMN/MRBTS-520207/LNBTS-520207/LNCEL-11/CAREL-1">
+		<p name="lcrId">41</p>
+		<p name="lnBtsId">520207</p>
+		<p name="maxNumOfSuppMimoLayer">4-layer</p>
+		<p name="pcellSwapAllowed">allowed</p>
+		<p name="scellPrio">1</p>
+	</managedObject>
+	<managedObject class="CAREL" operation="create" distName="PLMN-PLMN/MRBTS-520207/LNBTS-520207/LNCEL-11/CAREL-2">
+		<p name="lcrId">43</p>
+		<p name="lnBtsId">520207</p>
+		<p name="maxNumOfSuppMimoLayer">4-layer</p>
+		<p name="pcellSwapAllowed">allowed</p>
+		<p name="scellPrio">2</p>
+	</managedObject>
+	<managedObject class="CAREL" operation="create" distName="PLMN-PLMN/MRBTS-520207/LNBTS-520207/LNCEL-22/CAREL-1">
+		<p name="lcrId">41</p>
+		<p name="lnBtsId">520207</p>
+		<p name="maxNumOfSuppMimoLayer">4-layer</p>
+		<p name="pcellSwapAllowed">allowed</p>
+		<p name="scellPrio">2</p>
+	</managedObject>
+	<managedObject class="CAREL" operation="create" distName="PLMN-PLMN/MRBTS-520207/LNBTS-520207/LNCEL-22/CAREL-2">
+		<p name="lcrId">43</p>
+		<p name="lnBtsId">520207</p>
+		<p name="maxNumOfSuppMimoLayer">4-layer</p>
+		<p name="pcellSwapAllowed">allowed</p>
+		<p name="scellPrio">2</p>
+	</managedObject>
+	<managedObject class="CAREL" operation="create" distName="PLMN-PLMN/MRBTS-520207/LNBTS-520207/LNCEL-41/CAREL-1">
+		<p name="lcrId">11</p>
+		<p name="lnBtsId">520207</p>
+		<p name="maxNumOfSuppMimoLayer">4-layer</p>
+		<p name="pcellSwapAllowed">allowed</p>
+		<p name="scellPrio">1</p>
+	</managedObject>
+	<managedObject class="CAREL" operation="create" distName="PLMN-PLMN/MRBTS-520207/LNBTS-520207/LNCEL-41/CAREL-2">
+		<p name="lcrId">22</p>
+		<p name="lnBtsId">520207</p>
+		<p name="maxNumOfSuppMimoLayer">4-layer</p>
+		<p name="pcellSwapAllowed">allowed</p>
+		<p name="scellPrio">2</p>
+	</managedObject>
+	<managedObject class="CAREL" operation="create" distName="PLMN-PLMN/MRBTS-520207/LNBTS-520207/LNCEL-43/CAREL-1">
+		<p name="lcrId">11</p>
+		<p name="lnBtsId">520207</p>
+		<p name="maxNumOfSuppMimoLayer">4-layer</p>
+		<p name="pcellSwapAllowed">allowed</p>
+		<p name="scellPrio">2</p>
+	</managedObject>
+	<managedObject class="CAREL" operation="create" distName="PLMN-PLMN/MRBTS-520207/LNBTS-520207/LNCEL-43/CAREL-2">
+		<p name="lcrId">22</p>
+		<p name="lnBtsId">520207</p>
+		<p name="maxNumOfSuppMimoLayer">4-layer</p>
+		<p name="pcellSwapAllowed">allowed</p>
+		<p name="scellPrio">2</p>
+	</managedObject>
+	<managedObject class="CAREL" operation="create" distName="PLMN-PLMN/MRBTS-573451/LNBTS-573451/LNCEL-11/CAREL-1">
+		<p name="lcrId">41</p>
+		<p name="lnBtsId">573451</p>
+		<p name="maxNumOfSuppMimoLayer">4-layer</p>
+		<p name="pcellSwapAllowed">allowed</p>
+		<p name="scellPrio">1</p>
+	</managedObject>
+	<managedObject class="CAREL" operation="create" distName="PLMN-PLMN/MRBTS-573451/LNBTS-573451/LNCEL-11/CAREL-2">
+		<p name="lcrId">42</p>
+		<p name="lnBtsId">573451</p>
+		<p name="maxNumOfSuppMimoLayer">4-layer</p>
+		<p name="pcellSwapAllowed">allowed</p>
+		<p name="scellPrio">2</p>
+	</managedObject>
+	<managedObject class="CAREL" operation="create" distName="PLMN-PLMN/MRBTS-573451/LNBTS-573451/LNCEL-11/CAREL-3">
+		<p name="lcrId">43</p>
+		<p name="lnBtsId">573451</p>
+		<p name="maxNumOfSuppMimoLayer">4-layer</p>
+		<p name="pcellSwapAllowed">allowed</p>
+		<p name="scellPrio">2</p>
+	</managedObject>
+	<managedObject class="CAREL" operation="create" distName="PLMN-PLMN/MRBTS-573451/LNBTS-573451/LNCEL-12/CAREL-1">
+		<p name="lcrId">41</p>
+		<p name="lnBtsId">573451</p>
+		<p name="maxNumOfSuppMimoLayer">4-layer</p>
+		<p name="pcellSwapAllowed">allowed</p>
+		<p name="scellPrio">2</p>
+	</managedObject>
+	<managedObject class="CAREL" operation="create" distName="PLMN-PLMN/MRBTS-573451/LNBTS-573451/LNCEL-12/CAREL-2">
+		<p name="lcrId">42</p>
+		<p name="lnBtsId">573451</p>
+		<p name="maxNumOfSuppMimoLayer">4-layer</p>
+		<p name="pcellSwapAllowed">allowed</p>
+		<p name="scellPrio">1</p>
+	</managedObject>
+	<managedObject class="CAREL" operation="create" distName="PLMN-PLMN/MRBTS-573451/LNBTS-573451/LNCEL-12/CAREL-3">
+		<p name="lcrId">43</p>
+		<p name="lnBtsId">573451</p>
+		<p name="maxNumOfSuppMimoLayer">4-layer</p>
+		<p name="pcellSwapAllowed">allowed</p>
+		<p name="scellPrio">2</p>
+	</managedObject>
+	<managedObject class="CAREL" operation="create" distName="PLMN-PLMN/MRBTS-573451/LNBTS-573451/LNCEL-13/CAREL-1">
+		<p name="lcrId">41</p>
+		<p name="lnBtsId">573451</p>
+		<p name="maxNumOfSuppMimoLayer">4-layer</p>
+		<p name="pcellSwapAllowed">allowed</p>
+		<p name="scellPrio">2</p>
+	</managedObject>
+	<managedObject class="CAREL" operation="create" distName="PLMN-PLMN/MRBTS-573451/LNBTS-573451/LNCEL-13/CAREL-2">
+		<p name="lcrId">42</p>
+		<p name="lnBtsId">573451</p>
+		<p name="maxNumOfSuppMimoLayer">4-layer</p>
+		<p name="pcellSwapAllowed">allowed</p>
+		<p name="scellPrio">2</p>
+	</managedObject>
+	<managedObject class="CAREL" operation="create" distName="PLMN-PLMN/MRBTS-573451/LNBTS-573451/LNCEL-13/CAREL-3">
+		<p name="lcrId">43</p>
+		<p name="lnBtsId">573451</p>
+		<p name="maxNumOfSuppMimoLayer">4-layer</p>
+		<p name="pcellSwapAllowed">allowed</p>
+		<p name="scellPrio">1</p>
+	</managedObject>
+	<managedObject class="CAREL" operation="create" distName="PLMN-PLMN/MRBTS-573451/LNBTS-573451/LNCEL-41/CAREL-1">
+		<p name="lcrId">11</p>
+		<p name="lnBtsId">573451</p>
+		<p name="maxNumOfSuppMimoLayer">4-layer</p>
+		<p name="pcellSwapAllowed">allowed</p>
+		<p name="scellPrio">1</p>
+	</managedObject>
+	<managedObject class="CAREL" operation="create" distName="PLMN-PLMN/MRBTS-573451/LNBTS-573451/LNCEL-41/CAREL-2">
+		<p name="lcrId">12</p>
+		<p name="lnBtsId">573451</p>
+		<p name="maxNumOfSuppMimoLayer">4-layer</p>
+		<p name="pcellSwapAllowed">allowed</p>
+		<p name="scellPrio">2</p>
+	</managedObject>
+	<managedObject class="CAREL" operation="create" distName="PLMN-PLMN/MRBTS-573451/LNBTS-573451/LNCEL-41/CAREL-3">
+		<p name="lcrId">13</p>
+		<p name="lnBtsId">573451</p>
+		<p name="maxNumOfSuppMimoLayer">4-layer</p>
+		<p name="pcellSwapAllowed">allowed</p>
+		<p name="scellPrio">2</p>
+	</managedObject>
+	<managedObject class="CAREL" operation="create" distName="PLMN-PLMN/MRBTS-573451/LNBTS-573451/LNCEL-42/CAREL-1">
+		<p name="lcrId">11</p>
+		<p name="lnBtsId">573451</p>
+		<p name="maxNumOfSuppMimoLayer">4-layer</p>
+		<p name="pcellSwapAllowed">allowed</p>
+		<p name="scellPrio">2</p>
+	</managedObject>
+	<managedObject class="CAREL" operation="create" distName="PLMN-PLMN/MRBTS-573451/LNBTS-573451/LNCEL-42/CAREL-2">
+		<p name="lcrId">12</p>
+		<p name="lnBtsId">573451</p>
+		<p name="maxNumOfSuppMimoLayer">4-layer</p>
+		<p name="pcellSwapAllowed">allowed</p>
+		<p name="scellPrio">1</p>
+	</managedObject>
+	<managedObject class="CAREL" operation="create" distName="PLMN-PLMN/MRBTS-573451/LNBTS-573451/LNCEL-42/CAREL-3">
+		<p name="lcrId">13</p>
+		<p name="lnBtsId">573451</p>
+		<p name="maxNumOfSuppMimoLayer">4-layer</p>
+		<p name="pcellSwapAllowed">allowed</p>
+		<p name="scellPrio">2</p>
+	</managedObject>
+	<managedObject class="CAREL" operation="create" distName="PLMN-PLMN/MRBTS-573451/LNBTS-573451/LNCEL-43/CAREL-1">
+		<p name="lcrId">11</p>
+		<p name="lnBtsId">573451</p>
+		<p name="maxNumOfSuppMimoLayer">4-layer</p>
+		<p name="pcellSwapAllowed">allowed</p>
+		<p name="scellPrio">2</p>
+	</managedObject>
+	<managedObject class="CAREL" operation="create" distName="PLMN-PLMN/MRBTS-573451/LNBTS-573451/LNCEL-43/CAREL-2">
+		<p name="lcrId">12</p>
+		<p name="lnBtsId">573451</p>
+		<p name="maxNumOfSuppMimoLayer">4-layer</p>
+		<p name="pcellSwapAllowed">allowed</p>
+		<p name="scellPrio">2</p>
+	</managedObject>
+	<managedObject class="CAREL" operation="create" distName="PLMN-PLMN/MRBTS-573451/LNBTS-573451/LNCEL-43/CAREL-3">
+		<p name="lcrId">13</p>
+		<p name="lnBtsId">573451</p>
+		<p name="maxNumOfSuppMimoLayer">4-layer</p>
+		<p name="pcellSwapAllowed">allowed</p>
+		<p name="scellPrio">1</p>
+	</managedObject>
+	<managedObject class="CAREL" operation="create" distName="PLMN-PLMN/MRBTS-574128/LNBTS-574128/LNCEL-11/CAREL-1">
+		<p name="lcrId">42</p>
+		<p name="lnBtsId">574128</p>
+		<p name="maxNumOfSuppMimoLayer">4-layer</p>
+		<p name="pcellSwapAllowed">allowed</p>
+		<p name="scellPrio">2</p>
+	</managedObject>
+	<managedObject class="CAREL" operation="create" distName="PLMN-PLMN/MRBTS-574128/LNBTS-574128/LNCEL-11/CAREL-2">
+		<p name="lcrId">43</p>
+		<p name="lnBtsId">574128</p>
+		<p name="maxNumOfSuppMimoLayer">4-layer</p>
+		<p name="pcellSwapAllowed">allowed</p>
+		<p name="scellPrio">2</p>
+	</managedObject>
+	<managedObject class="CAREL" operation="create" distName="PLMN-PLMN/MRBTS-574128/LNBTS-574128/LNCEL-12/CAREL-1">
+		<p name="lcrId">42</p>
+		<p name="lnBtsId">574128</p>
+		<p name="maxNumOfSuppMimoLayer">4-layer</p>
+		<p name="pcellSwapAllowed">allowed</p>
+		<p name="scellPrio">1</p>
+	</managedObject>
+	<managedObject class="CAREL" operation="create" distName="PLMN-PLMN/MRBTS-574128/LNBTS-574128/LNCEL-12/CAREL-2">
+		<p name="lcrId">43</p>
+		<p name="lnBtsId">574128</p>
+		<p name="maxNumOfSuppMimoLayer">4-layer</p>
+		<p name="pcellSwapAllowed">allowed</p>
+		<p name="scellPrio">2</p>
+	</managedObject>
+	<managedObject class="CAREL" operation="create" distName="PLMN-PLMN/MRBTS-574128/LNBTS-574128/LNCEL-13/CAREL-1">
+		<p name="lcrId">42</p>
+		<p name="lnBtsId">574128</p>
+		<p name="maxNumOfSuppMimoLayer">4-layer</p>
+		<p name="pcellSwapAllowed">allowed</p>
+		<p name="scellPrio">2</p>
+	</managedObject>
+	<managedObject class="CAREL" operation="create" distName="PLMN-PLMN/MRBTS-574128/LNBTS-574128/LNCEL-13/CAREL-2">
+		<p name="lcrId">43</p>
+		<p name="lnBtsId">574128</p>
+		<p name="maxNumOfSuppMimoLayer">4-layer</p>
+		<p name="pcellSwapAllowed">allowed</p>
+		<p name="scellPrio">1</p>
+	</managedObject>
+	<managedObject class="CAREL" operation="create" distName="PLMN-PLMN/MRBTS-574128/LNBTS-574128/LNCEL-42/CAREL-1">
+		<p name="lcrId">11</p>
+		<p name="lnBtsId">574128</p>
+		<p name="maxNumOfSuppMimoLayer">4-layer</p>
+		<p name="pcellSwapAllowed">allowed</p>
+		<p name="scellPrio">2</p>
+	</managedObject>
+	<managedObject class="CAREL" operation="create" distName="PLMN-PLMN/MRBTS-574128/LNBTS-574128/LNCEL-42/CAREL-2">
+		<p name="lcrId">12</p>
+		<p name="lnBtsId">574128</p>
+		<p name="maxNumOfSuppMimoLayer">4-layer</p>
+		<p name="pcellSwapAllowed">allowed</p>
+		<p name="scellPrio">1</p>
+	</managedObject>
+	<managedObject class="CAREL" operation="create" distName="PLMN-PLMN/MRBTS-574128/LNBTS-574128/LNCEL-42/CAREL-3">
+		<p name="lcrId">13</p>
+		<p name="lnBtsId">574128</p>
+		<p name="maxNumOfSuppMimoLayer">4-layer</p>
+		<p name="pcellSwapAllowed">allowed</p>
+		<p name="scellPrio">2</p>
+	</managedObject>
+	<managedObject class="CAREL" operation="create" distName="PLMN-PLMN/MRBTS-574128/LNBTS-574128/LNCEL-43/CAREL-1">
+		<p name="lcrId">11</p>
+		<p name="lnBtsId">574128</p>
+		<p name="maxNumOfSuppMimoLayer">4-layer</p>
+		<p name="pcellSwapAllowed">allowed</p>
+		<p name="scellPrio">2</p>
+	</managedObject>
+	<managedObject class="CAREL" operation="create" distName="PLMN-PLMN/MRBTS-574128/LNBTS-574128/LNCEL-43/CAREL-2">
+		<p name="lcrId">12</p>
+		<p name="lnBtsId">574128</p>
+		<p name="maxNumOfSuppMimoLayer">4-layer</p>
+		<p name="pcellSwapAllowed">allowed</p>
+		<p name="scellPrio">2</p>
+	</managedObject>
+	<managedObject class="CAREL" operation="create" distName="PLMN-PLMN/MRBTS-574128/LNBTS-574128/LNCEL-43/CAREL-3">
+		<p name="lcrId">13</p>
+		<p name="lnBtsId">574128</p>
+		<p name="maxNumOfSuppMimoLayer">4-layer</p>
+		<p name="pcellSwapAllowed">allowed</p>
+		<p name="scellPrio">1</p>
+	</managedObject>
+</cmData>
+</raml>

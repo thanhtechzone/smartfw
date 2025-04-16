@@ -1,0 +1,157 @@
+    <managedObject class="LNBTS" version="" distName="PLMN-PLMN/MRBTS-txtenbid/LNBTS-txtenbid" operation="update">
+      <p name="operation">update</p>
+      <p name="actDynTrigLteNrDualConnectivity">true</p>
+      <p name="actLteNrDualConnectivity">true</p>
+      <p name="tLteNrDualConnectPrep">500</p>
+      <p name="actCAggrLteNrDualConnectivity">disabled</p>
+      <p name="actEnhFlexCaWithEnDc">false</p>
+      <p name="pdcpProf1001pdcpProfileId">1001</p>
+      <p name="pdcpProf1001pi2Target">Infinity</p>
+      <p name="pdcpProf1001snSizeDl">18bit</p>
+      <p name="pdcpProf1001snSizeUl">18bit</p>
+      <p name="pdcpProf1001statusRepReq">3</p>
+      <p name="pdcpProf1001tDiscard">300ms</p>
+      <p name="qciTab6arpEnDcMask">65534</p>
+      <p name="qciTab7arpEnDcMask">65534</p>
+      <p name="qciTab8arpEnDcMask">65534</p>
+      <p name="qciTab9arpEnDcMask">65534</p>
+      <p name="qciTab6lteNrDualConnectSupport">EN-DC</p>
+      <p name="qciTab7lteNrDualConnectSupport">EN-DC</p>
+      <p name="qciTab8lteNrDualConnectSupport">EN-DC</p>
+      <p name="qciTab9lteNrDualConnectSupport">EN-DC</p>
+      <p name="qciTab6nrPdcpProfIdx">1001</p>
+      <p name="qciTab7nrPdcpProfIdx">1001</p>
+      <p name="qciTab8nrPdcpProfIdx">1001</p>
+      <p name="qciTab9nrPdcpProfIdx">1001</p>
+      <p name="actDrxCoordEnDc">basic DRX and SgNB initiated</p>
+      <p name="actEndcDropMonitor">true</p>
+      <p name="actEnDcLteDlMimoOptBcSel">false</p>
+      <p name="actEnDcLteDlTputBcSel">false</p>
+      <p name="actEnDcNrFeatSetIdBcSel">false</p>
+      <p name="actEndcSpidFwd">false</p>
+      <p name="actEnDcX2PartialReset">gNB triggered</p>
+      <p name="actHoWoSnChg">intraEnbAndX2HoEnabled</p>
+      <p name="actMeasGapCoordEnDc">eNB and SgNB initiated</p>
+      <p name="actMultiSCGSplit">true</p>
+      <p name="actMultiSCGSplitwoeLcId">true</p>
+      <p name="actRCREnDc">RCR-servingCell</p>
+      <p name="actSnChangeSnInit">true</p>
+      <p name="actUeTrigEnDcTakeBack">disabled</p>
+      <p name="actUL256QamForEnDc">disabled</p>
+      <p name="actVoLteNoEnDc">all QCI1 calls</p>
+      <p name="actSecRatRep">true</p>
+      <p name="endcSchedWeightBoostDl">1</p>
+      <p name="endcSchedWeightBoostUl">1</p>
+      <p name="nrRestrictionOverride">disabled</p>
+      <p name="actTransmittedBelowGap">false</p>
+      <p name="actStepAddBearENDC">true</p>
+      <p name="tS1eRABModInd">2000</p>
+      <p name="actLteNrFastNbrRelAdd">true</p>
+   
+    </managedObject>
+    <managedObject class="LNBTS_FDD" version="" distName="PLMN-PLMN/MRBTS-txtenbid/LNBTS-txtenbid/LNBTS_FDD-0" operation="update">
+      <p name="operation">update</p>
+      <p name="maxBtsTimeError">1000</p>
+    </managedObject>
+    <managedObject class="LNADJGNB" version="" distName="PLMN-PLMN/MRBTS-txtenbid/LNBTS-txtenbid/LNADJGNB-0" operation="update">
+      <p name="operation">create</p>
+      <p name="adjGnbId">txtgnbid</p>
+      <p name="adjGnbIdLength">24</p>
+      <p name="administrativeState">unlocked</p>
+      <p name="cPlaneIpAddr">txtip5g</p>
+      <p name="cPlaneIpAddrCtrl">oamControlled</p>
+      <p name="mcc">452</p>
+      <p name="mnc">1</p>
+      <p name="mncLength">2</p>
+      <p name="x2ToGnbLinkStatus">available</p>
+    </managedObject>
+    <managedObject class="ENDCDMEASCONF" version="" distName="PLMN-PLMN/MRBTS-txtenbid/LNBTS-txtenbid/NRDCDPR-0/ENDCDMEASCONF-0" operation="update">
+      <p name="operation">create</p>
+      <p name="b1NrReportAmount">r1</p>
+      <p name="b1NrReportInterval">60min</p>
+      <p name="b1ThresholdNrRsrp">-115</p>
+      <p name="b1TimeToTriggerRsrp">256ms</p>
+      <p name="b1TimeToTriggerRsrq">256ms</p>
+      <p name="b1TriggerQuantity">RSRP</p>
+      <p name="carrierFreqNrCell">656640</p>
+      <p name="endcNrDropThresh">5</p>
+      <p name="endcNrDropThreshTimer">20s</p>
+      <p name="endcNrDropWaitTimer">0</p>
+      <list name="freqBandIndicatorNrL">
+        <item>
+          <p name="freqBandIndicatorNr">77</p>
+          <p name="priority">1</p>
+        </item>
+      </list>
+      <p name="hysB1ThresholdRsrp">2</p>
+      <p name="hysB1ThresholdRsrq">2</p>
+      <p name="nrCarPrio">1</p>
+      <p name="nrPciNbrRelAddHyst">0.998</p>
+      <p name="nrPciNbrRelAddThresh">10</p>
+      <p name="nrPciNbrRelRemThresh">5</p>
+      <p name="quantityConfigId">0</p>
+      <p name="ssbDuration">sf2</p>
+      <p name="ssbOffset">0</p>
+      <p name="ssbPeriodicity">sf20-r15</p>
+      <p name="ssbSubcarrierSpacing">30kHz</p>
+    </managedObject>
+    <managedObject class="NRDCDPR" version="" distName="PLMN-PLMN/MRBTS-txtenbid/LNBTS-txtenbid/NRDCDPR-0" operation="update">
+      <p name="operation">create</p>
+      <p name="actSortBcListEnDc">false</p>
+      <p name="allowedBcSelectMethod">max MIMO layers</p>
+      <list name="cAggrLteNrDcCellList">
+        <p>all cells of the BTS</p>
+      </list>
+      <p name="dlPathlossChg">3 db</p>
+      <list name="dynTriggerLteNrDcConfList">
+        <item>
+          <p name="actB1NrBeamMeas">false</p>
+          <p name="lcrId">all cells of the BTS</p>
+          <p name="method">coverageBased</p>
+        </item>
+      </list>
+      <p name="enDCpMaxEUTRApowerOffset">0</p>
+      <p name="enDCpMaxNRpowerOffset">0</p>
+      <p name="tPeriodicPhr">20sf</p>
+      <p name="tProhibitPhr">0sf</p>
+    </managedObject>
+    <managedObject class="NRMEASDPR" version="" distName="PLMN-PLMN/MRBTS-txtenbid/LNBTS-txtenbid/NRMEASDPR-0" operation="update">
+      <p name="operation">create</p>
+      <p name="measGapEnabledNRMeas">FR1AndFR2</p>
+      <list name="nrQuantityConfig">
+        <item>
+          <p name="filterCoefficientRsrp">fc4</p>
+          <p name="filterCoefficientRsrq">fc4</p>
+          <p name="filterCoeffRsrpRSIndex">fc4</p>
+          <p name="filterCoeffRsrqRSIndex">fc4</p>
+          <p name="quantityConfigId">0</p>
+        </item>
+      </list>
+      <p name="retryTimerB1NR">30</p>
+      <p name="supervisionTimerB1NR">3</p>
+    </managedObject>
+    <managedObject class="SYNC" version="" distName="PLMN-PLMN/MRBTS-txtenbid/MNL-1/MNLENT-1/SYNC-1" operation="update">
+      <p name="operation">update</p>
+      <p name="actEcpriMasterClock">false</p>
+      <p name="btsSyncMode">PhaseSync</p>
+      <p name="manualFrameTimingAdjustment">0</p>
+      <p name="profileType">RAU</p>
+    </managedObject>
+    <managedObject class="CLOCK" version="" distName="PLMN-PLMN/MRBTS-txtenbid/MNL-1/MNLENT-1/SYNC-1/CLOCK-1" operation="update">
+      <p name="operation">update</p>
+      <p name="holdOverModeUsed">false</p>
+      <p name="outputConfiguration1Pps">Disabled</p>
+      <p name="outputConfiguration1PpsBackplane">EnabledWithoutBtsInputReference</p>
+      <p name="outputConfiguration1PpsFHS">Disabled</p>
+      <p name="outputConfiguration2M048">Disabled</p>
+      <p name="outputConfigurationFCLK">Disabled</p>
+      <p name="sModDN">MRBTS-txtenbid/EQM-1/APEQM-1/CABINET-1/SMOD-1</p>
+      <list name="syncInputList">
+        <item>
+          <p name="syncInputPrio">1</p>
+          <p name="syncInputType">1pps/ToD from Sync Hub Master</p>
+        </item>
+      </list>
+      <p name="syncMaster">true</p>
+      <p name="totalDelayFromSHM">46</p>
+    </managedObject>

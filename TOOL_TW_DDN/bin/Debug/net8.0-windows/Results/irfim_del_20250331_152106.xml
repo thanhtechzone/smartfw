@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE raml SYSTEM 'raml20.dtd'>
+<raml version="2.0" xmlns="raml20.xsd">
+<cmData type="plan">
+<header>
+ <log dateTime="" action="created" appInfo="PlanExporter">UIValues are used</log>
+</header>
+	<managedObject class="IRFIM" version="" operation="delete" distName="PLMN-PLMN/MRBTS-560971/LNBTS-560971/LNCEL-41/IRFIM-2"></managedObject>
+	<managedObject class="IRFIM" version="" operation="delete" distName="PLMN-PLMN/MRBTS-560971/LNBTS-560971/LNCEL-43/IRFIM-2"></managedObject>
+	<managedObject class="IRFIM" version="" operation="delete" distName="PLMN-PLMN/MRBTS-563120/LNBTS-563120/LNCEL-41/IRFIM-1"></managedObject>
+	<managedObject class="IRFIM" version="" operation="delete" distName="PLMN-PLMN/MRBTS-563120/LNBTS-563120/LNCEL-42/IRFIM-1"></managedObject>
+	<managedObject class="IRFIM" version="" operation="delete" distName="PLMN-PLMN/MRBTS-563120/LNBTS-563120/LNCEL-43/IRFIM-1"></managedObject>
+</cmData>
+</raml>

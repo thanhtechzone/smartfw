@@ -1,0 +1,7 @@
+	<managedObject class="CAREL" operation="create" distName="PLMN-PLMN/MRBTS-txtmrbts/LNBTS-txtmrbts/LNCEL-txtlncel/CAREL-*">
+		<p name="lcrId">txtlcrid</p>
+		<p name="lnBtsId">txtmrbts</p>
+		<p name="maxNumOfSuppMimoLayer">4-layer</p>
+		<p name="pcellSwapAllowed">allowed</p>
+		<p name="scellPrio">txtprio</p>
+	</managedObject>

@@ -1,0 +1,118 @@
+    <managedObject class="LNCEL" version="" distName="PLMN-PLMN/MRBTS-txtmrbts/LNBTS-txtmrbts/LNCEL-txtlncel" operation="update">
+      <p name="a2TimeToTriggerActInterFreqMeas">480ms</p>
+	  <p name="actAmle">true</p>
+      <p name="actCaArchEnhImp">off</p>
+      <p name="actFlowCtrlEnh">false</p>
+      <p name="actInterFreqLB">true</p>
+      <p name="actIntraFreqLoadBal">false</p>
+      <p name="actMicroDtx">true</p>
+      <p name="actScellConfigForHiDemand">false</p>
+      <p name="actServRlqInterFreqLB">true</p>
+      <p name="actTtiBundling">false</p>
+      <p name="actUlDynamicTargetBler">true</p>
+      <p name="actUlpcMethod">PuschIAwPucchCL</p>
+      <p name="dlCaMinPcellCqi">0</p>
+      <p name="dlCaMinPcellCqiQci1">0</p>
+      <p name="eTputFilterConfig">51</p>
+      <p name="eTputInitMcs">20</p>
+      <p name="harqMaxTrSignalingDl">8</p>
+      <p name="harqMaxTrVoLteDl">8</p>
+      <p name="hysThreshold2Wcdma">1.0</p>
+      <p name="hysThreshold2a">2.0</p>
+      <p name="iFLBA4ActLim">20</p>
+      <p name="idleLBCapThreshCaUe">100</p>
+      <p name="idleLBCelResWeight">100</p>
+      <p name="idleLBCelResWeight2CC">80</p>
+      <p name="idleLBCelResWeight3CC">90</p>
+      <p name="idleLBCelResWeight4CC">90</p>
+      <p name="idleLBCelResWeight5CC">90</p>
+      <p name="idleLBCellReSelPrio">5.0</p>
+      <p name="idleLBCellReSelPrio2CC">5.0</p>
+      <p name="idleLBCellReSelPrio3CC">5.0</p>
+      <p name="idleLBCellReSelPrio4CC">5.0</p>
+      <p name="idleLBCellReSelPrio5CC">5.0</p>
+      <p name="idleLBPercentageOfUes">100</p>
+	  <p name="idleLBPercCaUe">100</p> 
+      <p name="cellCapClass">100</p>
+      <p name="targetLoadGbrDl">50</p>
+      <p name="targetLoadNonGbrDl">75</p>
+      <p name="targetLoadPdcch">90</p>
+      <p name="redBwMaxRbDl">100</p>
+      <p name="redBwMaxRbUl">100</p>
+      <p name="scellFastSchedulingSelect">fast</p>
+      <p name="threshold2GERAN">-114</p>
+      <p name="threshold2GERANQci1">-115</p>
+      <p name="threshold2InterFreq">-110</p>
+      <p name="threshold2Wcdma">-112</p>
+      <p name="threshold2WcdmaQci1">-113</p>
+      <p name="threshold2a">-110</p>
+      <p name="threshold2aQci1">-94</p>
+      <p name="threshold3">-113</p>
+      <p name="threshold3a">-111</p>
+      <p name="threshold4">-121</p>
+      <p name="ttiBundlingBlerThreshold">20</p>
+      <p name="ulCaMinPcellSinr">0</p>
+      <p name="ulCaMinPcellSinrQci1">0</p>
+      <p name="ulpcAlpha">alpha 1</p>
+	  <p name="p0NomPuschIAw">-100</p>
+      <p name="ulpcCEBalanceIAw">1.0</p>
+      <p name="ulpcMinQualIAw">2.0</p>
+      <p name="ulpcMinWaitForPc">25</p>
+      <p name="ulpcRefPwrIAw">-104.0</p>
+      <p name="ulsNumSchedAreaUl">6</p>
+      <p name="ulsSchedMethod">channel aware</p>
+	  <p name="enableVoLteUePcellSwap">UesWithoutVoLte</p>
+      <p name="numCaUeThreshold">40</p>
+      <p name="pcellSwapMaxHoRate">5</p>
+      <p name="pFreqPrio">1</p>
+      <p name="puschLoadHysteresis">10</p>
+      <p name="puschLoadIndexThr">0.05</p>
+      <p name="scellChQualThreshold">12</p>
+      <p name="scellStateForPcellSwap">activated</p>
+      <p name="ulSinrLowThreshold">13.0</p>
+    </managedObject>
+	<managedObject class="LNCEL_FDD" version="" distName="PLMN-PLMN/MRBTS-txtmrbts/LNBTS-txtmrbts/LNCEL-txtlncel/LNCEL_FDD-0" operation="update">
+      <p name="addNumDrbRadioReasHo">100</p>
+      <p name="addNumDrbTimeCriticalHo">100</p>
+      <p name="maxNumActDrb">1200</p>
+      <p name="maxNumActUE">400</p>
+      <p name="maxNumCaConfUe">200</p>
+      <p name="maxNumCaConfUeDc">200</p>
+      <p name="maxNumQci1Drb">100</p>
+      <p name="maxNumUeDl">20</p>
+      <p name="maxNumUeUl">20</p>
+      <p name="prachFreqOff">2</p>
+      <p name="srsActivation">true</p>
+    </managedObject>
+    <managedObject class="SIB" version="" distName="PLMN-PLMN/MRBTS-txtmrbts/LNBTS-txtmrbts/LNCEL-txtlncel/SIB-0" operation="update">
+      <p name="cellReSelPrio">5</p>
+      <p name="qrxlevmin">-126</p>
+      <p name="qrxlevminintraF">-126</p>
+      <p name="sIntrasearch">62</p>
+      <p name="sNonIntrsearch">14</p>
+      <p name="threshSrvLow">8</p>
+    </managedObject>
+    <managedObject class="MPUCCH_FDD" version="" distName="PLMN-PLMN/MRBTS-txtmrbts/LNBTS-txtmrbts/LNCEL-txtlncel/LNCEL_FDD-0/MPUCCH_FDD-0" operation="update">
+      <p name="addAUeRrHo">40</p>
+      <p name="addAUeTcHo">40</p>
+      <p name="addEmergencySessions">70</p>
+      <p name="deltaPucchShift">1</p>
+      <p name="maxNumRrc">440</p>
+      <p name="maxNumRrcEmergency">480</p>
+      <p name="n1PucchAn">72</p>
+      <p name="nCqiRb">2</p>
+      <p name="riPerM">1</p>
+      <p name="riPerOffset">-1</p>
+    </managedObject>
+	<managedObject class="AMLEPR" version="" distName="PLMN-PLMN/MRBTS-txtmrbts/LNBTS-txtmrbts/LNCEL-txtlncel/AMLEPR-0">
+      <p name="cacHeadroom">10</p>
+      <p name="deltaCac">10</p>
+      <p name="maxCacThreshold">70</p>
+      <p name="targetCarrierFreq">1874</p>
+    </managedObject>
+	<managedObject class="AMLEPR" version="" distName="PLMN-PLMN/MRBTS-txtmrbts/LNBTS-txtmrbts/LNCEL-txtlncel/AMLEPR-1">
+      <p name="cacHeadroom">10</p>
+      <p name="deltaCac">10</p>
+      <p name="maxCacThreshold">70</p>
+      <p name="targetCarrierFreq">50</p>
+    </managedObject>

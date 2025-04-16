@@ -1,0 +1,17 @@
+D:\C++\TOOL_TW_DDN\TOOL_TW_DDN\TOOL_TW_DDN\obj\Debug\net8.0-windows\TOOL_TW_DDN.csproj.GenerateResource.cache
+D:\C++\TOOL_TW_DDN\TOOL_TW_DDN\TOOL_TW_DDN\obj\Debug\net8.0-windows\TOOL_TW_DDN.GeneratedMSBuildEditorConfig.editorconfig
+D:\C++\TOOL_TW_DDN\TOOL_TW_DDN\TOOL_TW_DDN\obj\Debug\net8.0-windows\TOOL_TW_DDN.AssemblyInfoInputs.cache
+D:\C++\TOOL_TW_DDN\TOOL_TW_DDN\TOOL_TW_DDN\obj\Debug\net8.0-windows\TOOL_TW_DDN.AssemblyInfo.cs
+D:\C++\TOOL_TW_DDN\TOOL_TW_DDN\TOOL_TW_DDN\obj\Debug\net8.0-windows\TOOL_TW_DDN.csproj.CoreCompileInputs.cache
+D:\C++\TOOL_TW_DDN\TOOL_TW_DDN\TOOL_TW_DDN\bin\Debug\net8.0-windows\TOOL_TW_DDN.exe
+D:\C++\TOOL_TW_DDN\TOOL_TW_DDN\TOOL_TW_DDN\bin\Debug\net8.0-windows\TOOL_TW_DDN.deps.json
+D:\C++\TOOL_TW_DDN\TOOL_TW_DDN\TOOL_TW_DDN\bin\Debug\net8.0-windows\TOOL_TW_DDN.runtimeconfig.json
+D:\C++\TOOL_TW_DDN\TOOL_TW_DDN\TOOL_TW_DDN\bin\Debug\net8.0-windows\TOOL_TW_DDN.dll
+D:\C++\TOOL_TW_DDN\TOOL_TW_DDN\TOOL_TW_DDN\bin\Debug\net8.0-windows\TOOL_TW_DDN.pdb
+D:\C++\TOOL_TW_DDN\TOOL_TW_DDN\TOOL_TW_DDN\obj\Debug\net8.0-windows\TOOL_TW_DDN.dll
+D:\C++\TOOL_TW_DDN\TOOL_TW_DDN\TOOL_TW_DDN\obj\Debug\net8.0-windows\refint\TOOL_TW_DDN.dll
+D:\C++\TOOL_TW_DDN\TOOL_TW_DDN\TOOL_TW_DDN\obj\Debug\net8.0-windows\TOOL_TW_DDN.pdb
+D:\C++\TOOL_TW_DDN\TOOL_TW_DDN\TOOL_TW_DDN\obj\Debug\net8.0-windows\TOOL_TW_DDN.genruntimeconfig.cache
+D:\C++\TOOL_TW_DDN\TOOL_TW_DDN\TOOL_TW_DDN\obj\Debug\net8.0-windows\ref\TOOL_TW_DDN.dll
+D:\C++\TOOL_TW_DDN\TOOL_TW_DDN\TOOL_TW_DDN\obj\Debug\net8.0-windows\TOOL_TW_DDN.Form1.resources
+D:\C++\TOOL_TW_DDN\TOOL_TW_DDN\TOOL_TW_DDN\obj\Debug\net8.0-windows\TOOL_TW_DDN.TwcaGenerator.resources

@@ -1,0 +1,3106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE raml SYSTEM 'raml20.dtd'>
+<raml version="2.0" xmlns="raml20.xsd">
+<cmData type="plan">
+<header>
+ <log dateTime="" action="created" appInfo="PlanExporter">UIValues are used</log>
+</header>
+	<managedObject class="CAPR" version="" operation="create" distName="PLMN-PLMN/MRBTS-563371/LNBTS-563371/LNCEL-43/CAPR-1">
+		<p name="a3Offset">-3.0</p>
+		<p name="a3TimeToTrigger">ms320</p>
+		<p name="a3TriggerQuantity">RSRP</p>
+		<p name="a6Offset">3.0</p>
+		<p name="a6ReportInterval">640ms</p>
+		<p name="a6TimeToTrigger">320ms</p>
+		<p name="earfcnDL">1501</p>
+		<p name="enableA3Event">true</p>
+		<p name="enableA6Event">true</p>
+		<p name="enableFreqPrioSwap">disabled</p>
+		<p name="hysA3Offset">1.0</p>
+		<p name="hysA6Offset">0.0</p>
+		<p name="maxNumScellSwaps">0</p>
+		<p name="sFreqPrio">1</p>
+		<p name="scellMeasThreshRsrp">-114</p>
+		<p name="scellMeasThreshRsrq">-16.0</p>
+		<p name="scellPdcchOlLa">enabledPcellBased</p>
+	</managedObject>
+	<managedObject class="CAPR" version="" operation="create" distName="PLMN-PLMN/MRBTS-560718/LNBTS-560718/LNCEL-11/CAPR-1">
+		<p name="a3Offset">-3.0</p>
+		<p name="a3TimeToTrigger">ms320</p>
+		<p name="a3TriggerQuantity">RSRP</p>
+		<p name="a6Offset">3.0</p>
+		<p name="a6ReportInterval">640ms</p>
+		<p name="a6TimeToTrigger">320ms</p>
+		<p name="earfcnDL">1874</p>
+		<p name="enableA3Event">true</p>
+		<p name="enableA6Event">true</p>
+		<p name="enableFreqPrioSwap">disabled</p>
+		<p name="hysA3Offset">1.0</p>
+		<p name="hysA6Offset">0.0</p>
+		<p name="maxNumScellSwaps">0</p>
+		<p name="sFreqPrio">1</p>
+		<p name="scellMeasThreshRsrp">-114</p>
+		<p name="scellMeasThreshRsrq">-16.0</p>
+		<p name="scellPdcchOlLa">enabledPcellBased</p>
+	</managedObject>
+	<managedObject class="CAPR" version="" operation="create" distName="PLMN-PLMN/MRBTS-560718/LNBTS-560718/LNCEL-12/CAPR-1">
+		<p name="a3Offset">-3.0</p>
+		<p name="a3TimeToTrigger">ms320</p>
+		<p name="a3TriggerQuantity">RSRP</p>
+		<p name="a6Offset">3.0</p>
+		<p name="a6ReportInterval">640ms</p>
+		<p name="a6TimeToTrigger">320ms</p>
+		<p name="earfcnDL">1874</p>
+		<p name="enableA3Event">true</p>
+		<p name="enableA6Event">true</p>
+		<p name="enableFreqPrioSwap">disabled</p>
+		<p name="hysA3Offset">1.0</p>
+		<p name="hysA6Offset">0.0</p>
+		<p name="maxNumScellSwaps">0</p>
+		<p name="sFreqPrio">1</p>
+		<p name="scellMeasThreshRsrp">-114</p>
+		<p name="scellMeasThreshRsrq">-16.0</p>
+		<p name="scellPdcchOlLa">enabledPcellBased</p>
+	</managedObject>
+	<managedObject class="CAPR" version="" operation="create" distName="PLMN-PLMN/MRBTS-560718/LNBTS-560718/LNCEL-13/CAPR-1">
+		<p name="a3Offset">-3.0</p>
+		<p name="a3TimeToTrigger">ms320</p>
+		<p name="a3TriggerQuantity">RSRP</p>
+		<p name="a6Offset">3.0</p>
+		<p name="a6ReportInterval">640ms</p>
+		<p name="a6TimeToTrigger">320ms</p>
+		<p name="earfcnDL">1874</p>
+		<p name="enableA3Event">true</p>
+		<p name="enableA6Event">true</p>
+		<p name="enableFreqPrioSwap">disabled</p>
+		<p name="hysA3Offset">1.0</p>
+		<p name="hysA6Offset">0.0</p>
+		<p name="maxNumScellSwaps">0</p>
+		<p name="sFreqPrio">1</p>
+		<p name="scellMeasThreshRsrp">-114</p>
+		<p name="scellMeasThreshRsrq">-16.0</p>
+		<p name="scellPdcchOlLa">enabledPcellBased</p>
+	</managedObject>
+	<managedObject class="CAPR" version="" operation="create" distName="PLMN-PLMN/MRBTS-560718/LNBTS-560718/LNCEL-41/CAPR-1">
+		<p name="a3Offset">-3.0</p>
+		<p name="a3TimeToTrigger">ms320</p>
+		<p name="a3TriggerQuantity">RSRP</p>
+		<p name="a6Offset">3.0</p>
+		<p name="a6ReportInterval">640ms</p>
+		<p name="a6TimeToTrigger">320ms</p>
+		<p name="earfcnDL">1501</p>
+		<p name="enableA3Event">true</p>
+		<p name="enableA6Event">true</p>
+		<p name="enableFreqPrioSwap">disabled</p>
+		<p name="hysA3Offset">1.0</p>
+		<p name="hysA6Offset">0.0</p>
+		<p name="maxNumScellSwaps">0</p>
+		<p name="sFreqPrio">1</p>
+		<p name="scellMeasThreshRsrp">-114</p>
+		<p name="scellMeasThreshRsrq">-16.0</p>
+		<p name="scellPdcchOlLa">enabledPcellBased</p>
+	</managedObject>
+	<managedObject class="CAPR" version="" operation="create" distName="PLMN-PLMN/MRBTS-560718/LNBTS-560718/LNCEL-42/CAPR-1">
+		<p name="a3Offset">-3.0</p>
+		<p name="a3TimeToTrigger">ms320</p>
+		<p name="a3TriggerQuantity">RSRP</p>
+		<p name="a6Offset">3.0</p>
+		<p name="a6ReportInterval">640ms</p>
+		<p name="a6TimeToTrigger">320ms</p>
+		<p name="earfcnDL">1501</p>
+		<p name="enableA3Event">true</p>
+		<p name="enableA6Event">true</p>
+		<p name="enableFreqPrioSwap">disabled</p>
+		<p name="hysA3Offset">1.0</p>
+		<p name="hysA6Offset">0.0</p>
+		<p name="maxNumScellSwaps">0</p>
+		<p name="sFreqPrio">1</p>
+		<p name="scellMeasThreshRsrp">-114</p>
+		<p name="scellMeasThreshRsrq">-16.0</p>
+		<p name="scellPdcchOlLa">enabledPcellBased</p>
+	</managedObject>
+	<managedObject class="CAPR" version="" operation="create" distName="PLMN-PLMN/MRBTS-560718/LNBTS-560718/LNCEL-43/CAPR-1">
+		<p name="a3Offset">-3.0</p>
+		<p name="a3TimeToTrigger">ms320</p>
+		<p name="a3TriggerQuantity">RSRP</p>
+		<p name="a6Offset">3.0</p>
+		<p name="a6ReportInterval">640ms</p>
+		<p name="a6TimeToTrigger">320ms</p>
+		<p name="earfcnDL">1501</p>
+		<p name="enableA3Event">true</p>
+		<p name="enableA6Event">true</p>
+		<p name="enableFreqPrioSwap">disabled</p>
+		<p name="hysA3Offset">1.0</p>
+		<p name="hysA6Offset">0.0</p>
+		<p name="maxNumScellSwaps">0</p>
+		<p name="sFreqPrio">1</p>
+		<p name="scellMeasThreshRsrp">-114</p>
+		<p name="scellMeasThreshRsrq">-16.0</p>
+		<p name="scellPdcchOlLa">enabledPcellBased</p>
+	</managedObject>
+	<managedObject class="CAPR" version="" operation="create" distName="PLMN-PLMN/MRBTS-521221/LNBTS-521221/LNCEL-42/CAPR-1">
+		<p name="a3Offset">-3.0</p>
+		<p name="a3TimeToTrigger">ms320</p>
+		<p name="a3TriggerQuantity">RSRP</p>
+		<p name="a6Offset">3.0</p>
+		<p name="a6ReportInterval">640ms</p>
+		<p name="a6TimeToTrigger">320ms</p>
+		<p name="earfcnDL">1501</p>
+		<p name="enableA3Event">true</p>
+		<p name="enableA6Event">true</p>
+		<p name="enableFreqPrioSwap">disabled</p>
+		<p name="hysA3Offset">1.0</p>
+		<p name="hysA6Offset">0.0</p>
+		<p name="maxNumScellSwaps">0</p>
+		<p name="sFreqPrio">1</p>
+		<p name="scellMeasThreshRsrp">-114</p>
+		<p name="scellMeasThreshRsrq">-16.0</p>
+		<p name="scellPdcchOlLa">enabledPcellBased</p>
+	</managedObject>
+	<managedObject class="CAPR" version="" operation="create" distName="PLMN-PLMN/MRBTS-521221/LNBTS-521221/LNCEL-43/CAPR-1">
+		<p name="a3Offset">-3.0</p>
+		<p name="a3TimeToTrigger">ms320</p>
+		<p name="a3TriggerQuantity">RSRP</p>
+		<p name="a6Offset">3.0</p>
+		<p name="a6ReportInterval">640ms</p>
+		<p name="a6TimeToTrigger">320ms</p>
+		<p name="earfcnDL">1501</p>
+		<p name="enableA3Event">true</p>
+		<p name="enableA6Event">true</p>
+		<p name="enableFreqPrioSwap">disabled</p>
+		<p name="hysA3Offset">1.0</p>
+		<p name="hysA6Offset">0.0</p>
+		<p name="maxNumScellSwaps">0</p>
+		<p name="sFreqPrio">1</p>
+		<p name="scellMeasThreshRsrp">-114</p>
+		<p name="scellMeasThreshRsrq">-16.0</p>
+		<p name="scellPdcchOlLa">enabledPcellBased</p>
+	</managedObject>
+	<managedObject class="CAPR" version="" operation="create" distName="PLMN-PLMN/MRBTS-520067/LNBTS-520067/LNCEL-11/CAPR-1">
+		<p name="a3Offset">-3.0</p>
+		<p name="a3TimeToTrigger">ms320</p>
+		<p name="a3TriggerQuantity">RSRP</p>
+		<p name="a6Offset">3.0</p>
+		<p name="a6ReportInterval">640ms</p>
+		<p name="a6TimeToTrigger">320ms</p>
+		<p name="earfcnDL">1874</p>
+		<p name="enableA3Event">true</p>
+		<p name="enableA6Event">true</p>
+		<p name="enableFreqPrioSwap">disabled</p>
+		<p name="hysA3Offset">1.0</p>
+		<p name="hysA6Offset">0.0</p>
+		<p name="maxNumScellSwaps">0</p>
+		<p name="sFreqPrio">1</p>
+		<p name="scellMeasThreshRsrp">-114</p>
+		<p name="scellMeasThreshRsrq">-16.0</p>
+		<p name="scellPdcchOlLa">enabledPcellBased</p>
+	</managedObject>
+	<managedObject class="CAPR" version="" operation="create" distName="PLMN-PLMN/MRBTS-520067/LNBTS-520067/LNCEL-12/CAPR-1">
+		<p name="a3Offset">-3.0</p>
+		<p name="a3TimeToTrigger">ms320</p>
+		<p name="a3TriggerQuantity">RSRP</p>
+		<p name="a6Offset">3.0</p>
+		<p name="a6ReportInterval">640ms</p>
+		<p name="a6TimeToTrigger">320ms</p>
+		<p name="earfcnDL">1874</p>
+		<p name="enableA3Event">true</p>
+		<p name="enableA6Event">true</p>
+		<p name="enableFreqPrioSwap">disabled</p>
+		<p name="hysA3Offset">1.0</p>
+		<p name="hysA6Offset">0.0</p>
+		<p name="maxNumScellSwaps">0</p>
+		<p name="sFreqPrio">1</p>
+		<p name="scellMeasThreshRsrp">-114</p>
+		<p name="scellMeasThreshRsrq">-16.0</p>
+		<p name="scellPdcchOlLa">enabledPcellBased</p>
+	</managedObject>
+	<managedObject class="CAPR" version="" operation="create" distName="PLMN-PLMN/MRBTS-520067/LNBTS-520067/LNCEL-13/CAPR-1">
+		<p name="a3Offset">-3.0</p>
+		<p name="a3TimeToTrigger">ms320</p>
+		<p name="a3TriggerQuantity">RSRP</p>
+		<p name="a6Offset">3.0</p>
+		<p name="a6ReportInterval">640ms</p>
+		<p name="a6TimeToTrigger">320ms</p>
+		<p name="earfcnDL">1874</p>
+		<p name="enableA3Event">true</p>
+		<p name="enableA6Event">true</p>
+		<p name="enableFreqPrioSwap">disabled</p>
+		<p name="hysA3Offset">1.0</p>
+		<p name="hysA6Offset">0.0</p>
+		<p name="maxNumScellSwaps">0</p>
+		<p name="sFreqPrio">1</p>
+		<p name="scellMeasThreshRsrp">-114</p>
+		<p name="scellMeasThreshRsrq">-16.0</p>
+		<p name="scellPdcchOlLa">enabledPcellBased</p>
+	</managedObject>
+	<managedObject class="CAPR" version="" operation="create" distName="PLMN-PLMN/MRBTS-553853/LNBTS-553853/LNCEL-11/CAPR-1">
+		<p name="a3Offset">-3.0</p>
+		<p name="a3TimeToTrigger">ms320</p>
+		<p name="a3TriggerQuantity">RSRP</p>
+		<p name="a6Offset">3.0</p>
+		<p name="a6ReportInterval">640ms</p>
+		<p name="a6TimeToTrigger">320ms</p>
+		<p name="earfcnDL">1874</p>
+		<p name="enableA3Event">true</p>
+		<p name="enableA6Event">true</p>
+		<p name="enableFreqPrioSwap">disabled</p>
+		<p name="hysA3Offset">1.0</p>
+		<p name="hysA6Offset">0.0</p>
+		<p name="maxNumScellSwaps">0</p>
+		<p name="sFreqPrio">1</p>
+		<p name="scellMeasThreshRsrp">-114</p>
+		<p name="scellMeasThreshRsrq">-16.0</p>
+		<p name="scellPdcchOlLa">enabledPcellBased</p>
+	</managedObject>
+	<managedObject class="CAPR" version="" operation="create" distName="PLMN-PLMN/MRBTS-553853/LNBTS-553853/LNCEL-12/CAPR-1">
+		<p name="a3Offset">-3.0</p>
+		<p name="a3TimeToTrigger">ms320</p>
+		<p name="a3TriggerQuantity">RSRP</p>
+		<p name="a6Offset">3.0</p>
+		<p name="a6ReportInterval">640ms</p>
+		<p name="a6TimeToTrigger">320ms</p>
+		<p name="earfcnDL">1874</p>
+		<p name="enableA3Event">true</p>
+		<p name="enableA6Event">true</p>
+		<p name="enableFreqPrioSwap">disabled</p>
+		<p name="hysA3Offset">1.0</p>
+		<p name="hysA6Offset">0.0</p>
+		<p name="maxNumScellSwaps">0</p>
+		<p name="sFreqPrio">1</p>
+		<p name="scellMeasThreshRsrp">-114</p>
+		<p name="scellMeasThreshRsrq">-16.0</p>
+		<p name="scellPdcchOlLa">enabledPcellBased</p>
+	</managedObject>
+	<managedObject class="CAPR" version="" operation="create" distName="PLMN-PLMN/MRBTS-553853/LNBTS-553853/LNCEL-13/CAPR-1">
+		<p name="a3Offset">-3.0</p>
+		<p name="a3TimeToTrigger">ms320</p>
+		<p name="a3TriggerQuantity">RSRP</p>
+		<p name="a6Offset">3.0</p>
+		<p name="a6ReportInterval">640ms</p>
+		<p name="a6TimeToTrigger">320ms</p>
+		<p name="earfcnDL">1874</p>
+		<p name="enableA3Event">true</p>
+		<p name="enableA6Event">true</p>
+		<p name="enableFreqPrioSwap">disabled</p>
+		<p name="hysA3Offset">1.0</p>
+		<p name="hysA6Offset">0.0</p>
+		<p name="maxNumScellSwaps">0</p>
+		<p name="sFreqPrio">1</p>
+		<p name="scellMeasThreshRsrp">-114</p>
+		<p name="scellMeasThreshRsrq">-16.0</p>
+		<p name="scellPdcchOlLa">enabledPcellBased</p>
+	</managedObject>
+	<managedObject class="CAPR" version="" operation="create" distName="PLMN-PLMN/MRBTS-553853/LNBTS-553853/LNCEL-43/CAPR-1">
+		<p name="a3Offset">-3.0</p>
+		<p name="a3TimeToTrigger">ms320</p>
+		<p name="a3TriggerQuantity">RSRP</p>
+		<p name="a6Offset">3.0</p>
+		<p name="a6ReportInterval">640ms</p>
+		<p name="a6TimeToTrigger">320ms</p>
+		<p name="earfcnDL">1501</p>
+		<p name="enableA3Event">true</p>
+		<p name="enableA6Event">true</p>
+		<p name="enableFreqPrioSwap">disabled</p>
+		<p name="hysA3Offset">1.0</p>
+		<p name="hysA6Offset">0.0</p>
+		<p name="maxNumScellSwaps">0</p>
+		<p name="sFreqPrio">1</p>
+		<p name="scellMeasThreshRsrp">-114</p>
+		<p name="scellMeasThreshRsrq">-16.0</p>
+		<p name="scellPdcchOlLa">enabledPcellBased</p>
+	</managedObject>
+	<managedObject class="CAPR" version="" operation="create" distName="PLMN-PLMN/MRBTS-560971/LNBTS-560971/LNCEL-41/CAPR-1">
+		<p name="a3Offset">-3.0</p>
+		<p name="a3TimeToTrigger">ms320</p>
+		<p name="a3TriggerQuantity">RSRP</p>
+		<p name="a6Offset">3.0</p>
+		<p name="a6ReportInterval">640ms</p>
+		<p name="a6TimeToTrigger">320ms</p>
+		<p name="earfcnDL">1501</p>
+		<p name="enableA3Event">true</p>
+		<p name="enableA6Event">true</p>
+		<p name="enableFreqPrioSwap">disabled</p>
+		<p name="hysA3Offset">1.0</p>
+		<p name="hysA6Offset">0.0</p>
+		<p name="maxNumScellSwaps">0</p>
+		<p name="sFreqPrio">1</p>
+		<p name="scellMeasThreshRsrp">-114</p>
+		<p name="scellMeasThreshRsrq">-16.0</p>
+		<p name="scellPdcchOlLa">enabledPcellBased</p>
+	</managedObject>
+	<managedObject class="CAPR" version="" operation="create" distName="PLMN-PLMN/MRBTS-560971/LNBTS-560971/LNCEL-43/CAPR-1">
+		<p name="a3Offset">-3.0</p>
+		<p name="a3TimeToTrigger">ms320</p>
+		<p name="a3TriggerQuantity">RSRP</p>
+		<p name="a6Offset">3.0</p>
+		<p name="a6ReportInterval">640ms</p>
+		<p name="a6TimeToTrigger">320ms</p>
+		<p name="earfcnDL">1501</p>
+		<p name="enableA3Event">true</p>
+		<p name="enableA6Event">true</p>
+		<p name="enableFreqPrioSwap">disabled</p>
+		<p name="hysA3Offset">1.0</p>
+		<p name="hysA6Offset">0.0</p>
+		<p name="maxNumScellSwaps">0</p>
+		<p name="sFreqPrio">1</p>
+		<p name="scellMeasThreshRsrp">-114</p>
+		<p name="scellMeasThreshRsrq">-16.0</p>
+		<p name="scellPdcchOlLa">enabledPcellBased</p>
+	</managedObject>
+	<managedObject class="CAPR" version="" operation="create" distName="PLMN-PLMN/MRBTS-521620/LNBTS-521620/LNCEL-11/CAPR-2">
+		<p name="a3Offset">-3.0</p>
+		<p name="a3TimeToTrigger">ms320</p>
+		<p name="a3TriggerQuantity">RSRP</p>
+		<p name="a6Offset">3.0</p>
+		<p name="a6ReportInterval">640ms</p>
+		<p name="a6TimeToTrigger">320ms</p>
+		<p name="earfcnDL">1874</p>
+		<p name="enableA3Event">true</p>
+		<p name="enableA6Event">true</p>
+		<p name="enableFreqPrioSwap">disabled</p>
+		<p name="hysA3Offset">1.0</p>
+		<p name="hysA6Offset">0.0</p>
+		<p name="maxNumScellSwaps">0</p>
+		<p name="sFreqPrio">1</p>
+		<p name="scellMeasThreshRsrp">-114</p>
+		<p name="scellMeasThreshRsrq">-16.0</p>
+		<p name="scellPdcchOlLa">enabledPcellBased</p>
+	</managedObject>
+	<managedObject class="CAPR" version="" operation="create" distName="PLMN-PLMN/MRBTS-521620/LNBTS-521620/LNCEL-12/CAPR-2">
+		<p name="a3Offset">-3.0</p>
+		<p name="a3TimeToTrigger">ms320</p>
+		<p name="a3TriggerQuantity">RSRP</p>
+		<p name="a6Offset">3.0</p>
+		<p name="a6ReportInterval">640ms</p>
+		<p name="a6TimeToTrigger">320ms</p>
+		<p name="earfcnDL">1874</p>
+		<p name="enableA3Event">true</p>
+		<p name="enableA6Event">true</p>
+		<p name="enableFreqPrioSwap">disabled</p>
+		<p name="hysA3Offset">1.0</p>
+		<p name="hysA6Offset">0.0</p>
+		<p name="maxNumScellSwaps">0</p>
+		<p name="sFreqPrio">1</p>
+		<p name="scellMeasThreshRsrp">-114</p>
+		<p name="scellMeasThreshRsrq">-16.0</p>
+		<p name="scellPdcchOlLa">enabledPcellBased</p>
+	</managedObject>
+	<managedObject class="CAPR" version="" operation="create" distName="PLMN-PLMN/MRBTS-521620/LNBTS-521620/LNCEL-13/CAPR-2">
+		<p name="a3Offset">-3.0</p>
+		<p name="a3TimeToTrigger">ms320</p>
+		<p name="a3TriggerQuantity">RSRP</p>
+		<p name="a6Offset">3.0</p>
+		<p name="a6ReportInterval">640ms</p>
+		<p name="a6TimeToTrigger">320ms</p>
+		<p name="earfcnDL">1874</p>
+		<p name="enableA3Event">true</p>
+		<p name="enableA6Event">true</p>
+		<p name="enableFreqPrioSwap">disabled</p>
+		<p name="hysA3Offset">1.0</p>
+		<p name="hysA6Offset">0.0</p>
+		<p name="maxNumScellSwaps">0</p>
+		<p name="sFreqPrio">1</p>
+		<p name="scellMeasThreshRsrp">-114</p>
+		<p name="scellMeasThreshRsrq">-16.0</p>
+		<p name="scellPdcchOlLa">enabledPcellBased</p>
+	</managedObject>
+	<managedObject class="CAPR" version="" operation="create" distName="PLMN-PLMN/MRBTS-521620/LNBTS-521620/LNCEL-41/CAPR-2">
+		<p name="a3Offset">-3.0</p>
+		<p name="a3TimeToTrigger">ms320</p>
+		<p name="a3TriggerQuantity">RSRP</p>
+		<p name="a6Offset">3.0</p>
+		<p name="a6ReportInterval">640ms</p>
+		<p name="a6TimeToTrigger">320ms</p>
+		<p name="earfcnDL">1501</p>
+		<p name="enableA3Event">true</p>
+		<p name="enableA6Event">true</p>
+		<p name="enableFreqPrioSwap">disabled</p>
+		<p name="hysA3Offset">1.0</p>
+		<p name="hysA6Offset">0.0</p>
+		<p name="maxNumScellSwaps">0</p>
+		<p name="sFreqPrio">1</p>
+		<p name="scellMeasThreshRsrp">-114</p>
+		<p name="scellMeasThreshRsrq">-16.0</p>
+		<p name="scellPdcchOlLa">enabledPcellBased</p>
+	</managedObject>
+	<managedObject class="CAPR" version="" operation="create" distName="PLMN-PLMN/MRBTS-521620/LNBTS-521620/LNCEL-42/CAPR-2">
+		<p name="a3Offset">-3.0</p>
+		<p name="a3TimeToTrigger">ms320</p>
+		<p name="a3TriggerQuantity">RSRP</p>
+		<p name="a6Offset">3.0</p>
+		<p name="a6ReportInterval">640ms</p>
+		<p name="a6TimeToTrigger">320ms</p>
+		<p name="earfcnDL">1501</p>
+		<p name="enableA3Event">true</p>
+		<p name="enableA6Event">true</p>
+		<p name="enableFreqPrioSwap">disabled</p>
+		<p name="hysA3Offset">1.0</p>
+		<p name="hysA6Offset">0.0</p>
+		<p name="maxNumScellSwaps">0</p>
+		<p name="sFreqPrio">1</p>
+		<p name="scellMeasThreshRsrp">-114</p>
+		<p name="scellMeasThreshRsrq">-16.0</p>
+		<p name="scellPdcchOlLa">enabledPcellBased</p>
+	</managedObject>
+	<managedObject class="CAPR" version="" operation="create" distName="PLMN-PLMN/MRBTS-560184/LNBTS-560184/LNCEL-11/CAPR-1">
+		<p name="a3Offset">-3.0</p>
+		<p name="a3TimeToTrigger">ms320</p>
+		<p name="a3TriggerQuantity">RSRP</p>
+		<p name="a6Offset">3.0</p>
+		<p name="a6ReportInterval">640ms</p>
+		<p name="a6TimeToTrigger">320ms</p>
+		<p name="earfcnDL">1874</p>
+		<p name="enableA3Event">true</p>
+		<p name="enableA6Event">true</p>
+		<p name="enableFreqPrioSwap">disabled</p>
+		<p name="hysA3Offset">1.0</p>
+		<p name="hysA6Offset">0.0</p>
+		<p name="maxNumScellSwaps">0</p>
+		<p name="sFreqPrio">1</p>
+		<p name="scellMeasThreshRsrp">-114</p>
+		<p name="scellMeasThreshRsrq">-16.0</p>
+		<p name="scellPdcchOlLa">enabledPcellBased</p>
+	</managedObject>
+	<managedObject class="CAPR" version="" operation="create" distName="PLMN-PLMN/MRBTS-560184/LNBTS-560184/LNCEL-12/CAPR-1">
+		<p name="a3Offset">-3.0</p>
+		<p name="a3TimeToTrigger">ms320</p>
+		<p name="a3TriggerQuantity">RSRP</p>
+		<p name="a6Offset">3.0</p>
+		<p name="a6ReportInterval">640ms</p>
+		<p name="a6TimeToTrigger">320ms</p>
+		<p name="earfcnDL">1874</p>
+		<p name="enableA3Event">true</p>
+		<p name="enableA6Event">true</p>
+		<p name="enableFreqPrioSwap">disabled</p>
+		<p name="hysA3Offset">1.0</p>
+		<p name="hysA6Offset">0.0</p>
+		<p name="maxNumScellSwaps">0</p>
+		<p name="sFreqPrio">1</p>
+		<p name="scellMeasThreshRsrp">-114</p>
+		<p name="scellMeasThreshRsrq">-16.0</p>
+		<p name="scellPdcchOlLa">enabledPcellBased</p>
+	</managedObject>
+	<managedObject class="CAPR" version="" operation="create" distName="PLMN-PLMN/MRBTS-560184/LNBTS-560184/LNCEL-13/CAPR-1">
+		<p name="a3Offset">-3.0</p>
+		<p name="a3TimeToTrigger">ms320</p>
+		<p name="a3TriggerQuantity">RSRP</p>
+		<p name="a6Offset">3.0</p>
+		<p name="a6ReportInterval">640ms</p>
+		<p name="a6TimeToTrigger">320ms</p>
+		<p name="earfcnDL">1874</p>
+		<p name="enableA3Event">true</p>
+		<p name="enableA6Event">true</p>
+		<p name="enableFreqPrioSwap">disabled</p>
+		<p name="hysA3Offset">1.0</p>
+		<p name="hysA6Offset">0.0</p>
+		<p name="maxNumScellSwaps">0</p>
+		<p name="sFreqPrio">1</p>
+		<p name="scellMeasThreshRsrp">-114</p>
+		<p name="scellMeasThreshRsrq">-16.0</p>
+		<p name="scellPdcchOlLa">enabledPcellBased</p>
+	</managedObject>
+	<managedObject class="CAPR" version="" operation="create" distName="PLMN-PLMN/MRBTS-560184/LNBTS-560184/LNCEL-42/CAPR-1">
+		<p name="a3Offset">-3.0</p>
+		<p name="a3TimeToTrigger">ms320</p>
+		<p name="a3TriggerQuantity">RSRP</p>
+		<p name="a6Offset">3.0</p>
+		<p name="a6ReportInterval">640ms</p>
+		<p name="a6TimeToTrigger">320ms</p>
+		<p name="earfcnDL">1501</p>
+		<p name="enableA3Event">true</p>
+		<p name="enableA6Event">true</p>
+		<p name="enableFreqPrioSwap">disabled</p>
+		<p name="hysA3Offset">1.0</p>
+		<p name="hysA6Offset">0.0</p>
+		<p name="maxNumScellSwaps">0</p>
+		<p name="sFreqPrio">1</p>
+		<p name="scellMeasThreshRsrp">-114</p>
+		<p name="scellMeasThreshRsrq">-16.0</p>
+		<p name="scellPdcchOlLa">enabledPcellBased</p>
+	</managedObject>
+	<managedObject class="CAPR" version="" operation="create" distName="PLMN-PLMN/MRBTS-521450/LNBTS-521450/LNCEL-11/CAPR-1">
+		<p name="a3Offset">-3.0</p>
+		<p name="a3TimeToTrigger">ms320</p>
+		<p name="a3TriggerQuantity">RSRP</p>
+		<p name="a6Offset">3.0</p>
+		<p name="a6ReportInterval">640ms</p>
+		<p name="a6TimeToTrigger">320ms</p>
+		<p name="earfcnDL">1874</p>
+		<p name="enableA3Event">true</p>
+		<p name="enableA6Event">true</p>
+		<p name="enableFreqPrioSwap">disabled</p>
+		<p name="hysA3Offset">1.0</p>
+		<p name="hysA6Offset">0.0</p>
+		<p name="maxNumScellSwaps">0</p>
+		<p name="sFreqPrio">1</p>
+		<p name="scellMeasThreshRsrp">-114</p>
+		<p name="scellMeasThreshRsrq">-16.0</p>
+		<p name="scellPdcchOlLa">enabledPcellBased</p>
+	</managedObject>
+	<managedObject class="CAPR" version="" operation="create" distName="PLMN-PLMN/MRBTS-521450/LNBTS-521450/LNCEL-12/CAPR-1">
+		<p name="a3Offset">-3.0</p>
+		<p name="a3TimeToTrigger">ms320</p>
+		<p name="a3TriggerQuantity">RSRP</p>
+		<p name="a6Offset">3.0</p>
+		<p name="a6ReportInterval">640ms</p>
+		<p name="a6TimeToTrigger">320ms</p>
+		<p name="earfcnDL">1874</p>
+		<p name="enableA3Event">true</p>
+		<p name="enableA6Event">true</p>
+		<p name="enableFreqPrioSwap">disabled</p>
+		<p name="hysA3Offset">1.0</p>
+		<p name="hysA6Offset">0.0</p>
+		<p name="maxNumScellSwaps">0</p>
+		<p name="sFreqPrio">1</p>
+		<p name="scellMeasThreshRsrp">-114</p>
+		<p name="scellMeasThreshRsrq">-16.0</p>
+		<p name="scellPdcchOlLa">enabledPcellBased</p>
+	</managedObject>
+	<managedObject class="CAPR" version="" operation="create" distName="PLMN-PLMN/MRBTS-521450/LNBTS-521450/LNCEL-13/CAPR-1">
+		<p name="a3Offset">-3.0</p>
+		<p name="a3TimeToTrigger">ms320</p>
+		<p name="a3TriggerQuantity">RSRP</p>
+		<p name="a6Offset">3.0</p>
+		<p name="a6ReportInterval">640ms</p>
+		<p name="a6TimeToTrigger">320ms</p>
+		<p name="earfcnDL">1874</p>
+		<p name="enableA3Event">true</p>
+		<p name="enableA6Event">true</p>
+		<p name="enableFreqPrioSwap">disabled</p>
+		<p name="hysA3Offset">1.0</p>
+		<p name="hysA6Offset">0.0</p>
+		<p name="maxNumScellSwaps">0</p>
+		<p name="sFreqPrio">1</p>
+		<p name="scellMeasThreshRsrp">-114</p>
+		<p name="scellMeasThreshRsrq">-16.0</p>
+		<p name="scellPdcchOlLa">enabledPcellBased</p>
+	</managedObject>
+	<managedObject class="CAPR" version="" operation="create" distName="PLMN-PLMN/MRBTS-521450/LNBTS-521450/LNCEL-15/CAPR-1">
+		<p name="a3Offset">-3.0</p>
+		<p name="a3TimeToTrigger">ms320</p>
+		<p name="a3TriggerQuantity">RSRP</p>
+		<p name="a6Offset">3.0</p>
+		<p name="a6ReportInterval">640ms</p>
+		<p name="a6TimeToTrigger">320ms</p>
+		<p name="earfcnDL">1874</p>
+		<p name="enableA3Event">true</p>
+		<p name="enableA6Event">true</p>
+		<p name="enableFreqPrioSwap">disabled</p>
+		<p name="hysA3Offset">1.0</p>
+		<p name="hysA6Offset">0.0</p>
+		<p name="maxNumScellSwaps">0</p>
+		<p name="sFreqPrio">1</p>
+		<p name="scellMeasThreshRsrp">-114</p>
+		<p name="scellMeasThreshRsrq">-16.0</p>
+		<p name="scellPdcchOlLa">enabledPcellBased</p>
+	</managedObject>
+	<managedObject class="CAPR" version="" operation="create" distName="PLMN-PLMN/MRBTS-520660/LNBTS-520660/LNCEL-11/CAPR-2">
+		<p name="a3Offset">-3.0</p>
+		<p name="a3TimeToTrigger">ms320</p>
+		<p name="a3TriggerQuantity">RSRP</p>
+		<p name="a6Offset">3.0</p>
+		<p name="a6ReportInterval">640ms</p>
+		<p name="a6TimeToTrigger">320ms</p>
+		<p name="earfcnDL">1874</p>
+		<p name="enableA3Event">true</p>
+		<p name="enableA6Event">true</p>
+		<p name="enableFreqPrioSwap">disabled</p>
+		<p name="hysA3Offset">1.0</p>
+		<p name="hysA6Offset">0.0</p>
+		<p name="maxNumScellSwaps">0</p>
+		<p name="sFreqPrio">1</p>
+		<p name="scellMeasThreshRsrp">-114</p>
+		<p name="scellMeasThreshRsrq">-16.0</p>
+		<p name="scellPdcchOlLa">enabledPcellBased</p>
+	</managedObject>
+	<managedObject class="CAPR" version="" operation="create" distName="PLMN-PLMN/MRBTS-520660/LNBTS-520660/LNCEL-12/CAPR-2">
+		<p name="a3Offset">-3.0</p>
+		<p name="a3TimeToTrigger">ms320</p>
+		<p name="a3TriggerQuantity">RSRP</p>
+		<p name="a6Offset">3.0</p>
+		<p name="a6ReportInterval">640ms</p>
+		<p name="a6TimeToTrigger">320ms</p>
+		<p name="earfcnDL">1874</p>
+		<p name="enableA3Event">true</p>
+		<p name="enableA6Event">true</p>
+		<p name="enableFreqPrioSwap">disabled</p>
+		<p name="hysA3Offset">1.0</p>
+		<p name="hysA6Offset">0.0</p>
+		<p name="maxNumScellSwaps">0</p>
+		<p name="sFreqPrio">1</p>
+		<p name="scellMeasThreshRsrp">-114</p>
+		<p name="scellMeasThreshRsrq">-16.0</p>
+		<p name="scellPdcchOlLa">enabledPcellBased</p>
+	</managedObject>
+	<managedObject class="CAPR" version="" operation="create" distName="PLMN-PLMN/MRBTS-520660/LNBTS-520660/LNCEL-13/CAPR-2">
+		<p name="a3Offset">-3.0</p>
+		<p name="a3TimeToTrigger">ms320</p>
+		<p name="a3TriggerQuantity">RSRP</p>
+		<p name="a6Offset">3.0</p>
+		<p name="a6ReportInterval">640ms</p>
+		<p name="a6TimeToTrigger">320ms</p>
+		<p name="earfcnDL">1874</p>
+		<p name="enableA3Event">true</p>
+		<p name="enableA6Event">true</p>
+		<p name="enableFreqPrioSwap">disabled</p>
+		<p name="hysA3Offset">1.0</p>
+		<p name="hysA6Offset">0.0</p>
+		<p name="maxNumScellSwaps">0</p>
+		<p name="sFreqPrio">1</p>
+		<p name="scellMeasThreshRsrp">-114</p>
+		<p name="scellMeasThreshRsrq">-16.0</p>
+		<p name="scellPdcchOlLa">enabledPcellBased</p>
+	</managedObject>
+	<managedObject class="CAPR" version="" operation="create" distName="PLMN-PLMN/MRBTS-520660/LNBTS-520660/LNCEL-16/CAPR-2">
+		<p name="a3Offset">-3.0</p>
+		<p name="a3TimeToTrigger">ms320</p>
+		<p name="a3TriggerQuantity">RSRP</p>
+		<p name="a6Offset">3.0</p>
+		<p name="a6ReportInterval">640ms</p>
+		<p name="a6TimeToTrigger">320ms</p>
+		<p name="earfcnDL">1874</p>
+		<p name="enableA3Event">true</p>
+		<p name="enableA6Event">true</p>
+		<p name="enableFreqPrioSwap">disabled</p>
+		<p name="hysA3Offset">1.0</p>
+		<p name="hysA6Offset">0.0</p>
+		<p name="maxNumScellSwaps">0</p>
+		<p name="sFreqPrio">1</p>
+		<p name="scellMeasThreshRsrp">-114</p>
+		<p name="scellMeasThreshRsrq">-16.0</p>
+		<p name="scellPdcchOlLa">enabledPcellBased</p>
+	</managedObject>
+	<managedObject class="CAPR" version="" operation="create" distName="PLMN-PLMN/MRBTS-520660/LNBTS-520660/LNCEL-17/CAPR-1">
+		<p name="a3Offset">-3.0</p>
+		<p name="a3TimeToTrigger">ms320</p>
+		<p name="a3TriggerQuantity">RSRP</p>
+		<p name="a6Offset">3.0</p>
+		<p name="a6ReportInterval">640ms</p>
+		<p name="a6TimeToTrigger">320ms</p>
+		<p name="earfcnDL">1874</p>
+		<p name="enableA3Event">true</p>
+		<p name="enableA6Event">true</p>
+		<p name="enableFreqPrioSwap">disabled</p>
+		<p name="hysA3Offset">1.0</p>
+		<p name="hysA6Offset">0.0</p>
+		<p name="maxNumScellSwaps">0</p>
+		<p name="sFreqPrio">1</p>
+		<p name="scellMeasThreshRsrp">-114</p>
+		<p name="scellMeasThreshRsrq">-16.0</p>
+		<p name="scellPdcchOlLa">enabledPcellBased</p>
+	</managedObject>
+	<managedObject class="CAPR" version="" operation="create" distName="PLMN-PLMN/MRBTS-520660/LNBTS-520660/LNCEL-18/CAPR-1">
+		<p name="a3Offset">-3.0</p>
+		<p name="a3TimeToTrigger">ms320</p>
+		<p name="a3TriggerQuantity">RSRP</p>
+		<p name="a6Offset">3.0</p>
+		<p name="a6ReportInterval">640ms</p>
+		<p name="a6TimeToTrigger">320ms</p>
+		<p name="earfcnDL">1874</p>
+		<p name="enableA3Event">true</p>
+		<p name="enableA6Event">true</p>
+		<p name="enableFreqPrioSwap">disabled</p>
+		<p name="hysA3Offset">1.0</p>
+		<p name="hysA6Offset">0.0</p>
+		<p name="maxNumScellSwaps">0</p>
+		<p name="sFreqPrio">1</p>
+		<p name="scellMeasThreshRsrp">-114</p>
+		<p name="scellMeasThreshRsrq">-16.0</p>
+		<p name="scellPdcchOlLa">enabledPcellBased</p>
+	</managedObject>
+	<managedObject class="CAPR" version="" operation="create" distName="PLMN-PLMN/MRBTS-520660/LNBTS-520660/LNCEL-19/CAPR-1">
+		<p name="a3Offset">-3.0</p>
+		<p name="a3TimeToTrigger">ms320</p>
+		<p name="a3TriggerQuantity">RSRP</p>
+		<p name="a6Offset">3.0</p>
+		<p name="a6ReportInterval">640ms</p>
+		<p name="a6TimeToTrigger">320ms</p>
+		<p name="earfcnDL">1874</p>
+		<p name="enableA3Event">true</p>
+		<p name="enableA6Event">true</p>
+		<p name="enableFreqPrioSwap">disabled</p>
+		<p name="hysA3Offset">1.0</p>
+		<p name="hysA6Offset">0.0</p>
+		<p name="maxNumScellSwaps">0</p>
+		<p name="sFreqPrio">1</p>
+		<p name="scellMeasThreshRsrp">-114</p>
+		<p name="scellMeasThreshRsrq">-16.0</p>
+		<p name="scellPdcchOlLa">enabledPcellBased</p>
+	</managedObject>
+	<managedObject class="CAPR" version="" operation="create" distName="PLMN-PLMN/MRBTS-520660/LNBTS-520660/LNCEL-42/CAPR-2">
+		<p name="a3Offset">-3.0</p>
+		<p name="a3TimeToTrigger">ms320</p>
+		<p name="a3TriggerQuantity">RSRP</p>
+		<p name="a6Offset">3.0</p>
+		<p name="a6ReportInterval">640ms</p>
+		<p name="a6TimeToTrigger">320ms</p>
+		<p name="earfcnDL">1501</p>
+		<p name="enableA3Event">true</p>
+		<p name="enableA6Event">true</p>
+		<p name="enableFreqPrioSwap">disabled</p>
+		<p name="hysA3Offset">1.0</p>
+		<p name="hysA6Offset">0.0</p>
+		<p name="maxNumScellSwaps">0</p>
+		<p name="sFreqPrio">1</p>
+		<p name="scellMeasThreshRsrp">-114</p>
+		<p name="scellMeasThreshRsrq">-16.0</p>
+		<p name="scellPdcchOlLa">enabledPcellBased</p>
+	</managedObject>
+	<managedObject class="CAPR" version="" operation="create" distName="PLMN-PLMN/MRBTS-520660/LNBTS-520660/LNCEL-46/CAPR-2">
+		<p name="a3Offset">-3.0</p>
+		<p name="a3TimeToTrigger">ms320</p>
+		<p name="a3TriggerQuantity">RSRP</p>
+		<p name="a6Offset">3.0</p>
+		<p name="a6ReportInterval">640ms</p>
+		<p name="a6TimeToTrigger">320ms</p>
+		<p name="earfcnDL">1501</p>
+		<p name="enableA3Event">true</p>
+		<p name="enableA6Event">true</p>
+		<p name="enableFreqPrioSwap">disabled</p>
+		<p name="hysA3Offset">1.0</p>
+		<p name="hysA6Offset">0.0</p>
+		<p name="maxNumScellSwaps">0</p>
+		<p name="sFreqPrio">1</p>
+		<p name="scellMeasThreshRsrp">-114</p>
+		<p name="scellMeasThreshRsrq">-16.0</p>
+		<p name="scellPdcchOlLa">enabledPcellBased</p>
+	</managedObject>
+	<managedObject class="CAPR" version="" operation="create" distName="PLMN-PLMN/MRBTS-521272/LNBTS-521272/LNCEL-42/CAPR-1">
+		<p name="a3Offset">-3.0</p>
+		<p name="a3TimeToTrigger">ms320</p>
+		<p name="a3TriggerQuantity">RSRP</p>
+		<p name="a6Offset">3.0</p>
+		<p name="a6ReportInterval">640ms</p>
+		<p name="a6TimeToTrigger">320ms</p>
+		<p name="earfcnDL">1501</p>
+		<p name="enableA3Event">true</p>
+		<p name="enableA6Event">true</p>
+		<p name="enableFreqPrioSwap">disabled</p>
+		<p name="hysA3Offset">1.0</p>
+		<p name="hysA6Offset">0.0</p>
+		<p name="maxNumScellSwaps">0</p>
+		<p name="sFreqPrio">1</p>
+		<p name="scellMeasThreshRsrp">-114</p>
+		<p name="scellMeasThreshRsrq">-16.0</p>
+		<p name="scellPdcchOlLa">enabledPcellBased</p>
+	</managedObject>
+	<managedObject class="CAPR" version="" operation="create" distName="PLMN-PLMN/MRBTS-521228/LNBTS-521228/LNCEL-11/CAPR-1">
+		<p name="a3Offset">-3.0</p>
+		<p name="a3TimeToTrigger">ms320</p>
+		<p name="a3TriggerQuantity">RSRP</p>
+		<p name="a6Offset">3.0</p>
+		<p name="a6ReportInterval">640ms</p>
+		<p name="a6TimeToTrigger">320ms</p>
+		<p name="earfcnDL">1874</p>
+		<p name="enableA3Event">true</p>
+		<p name="enableA6Event">true</p>
+		<p name="enableFreqPrioSwap">disabled</p>
+		<p name="hysA3Offset">1.0</p>
+		<p name="hysA6Offset">0.0</p>
+		<p name="maxNumScellSwaps">0</p>
+		<p name="sFreqPrio">1</p>
+		<p name="scellMeasThreshRsrp">-114</p>
+		<p name="scellMeasThreshRsrq">-16.0</p>
+		<p name="scellPdcchOlLa">enabledPcellBased</p>
+	</managedObject>
+	<managedObject class="CAPR" version="" operation="create" distName="PLMN-PLMN/MRBTS-521228/LNBTS-521228/LNCEL-12/CAPR-1">
+		<p name="a3Offset">-3.0</p>
+		<p name="a3TimeToTrigger">ms320</p>
+		<p name="a3TriggerQuantity">RSRP</p>
+		<p name="a6Offset">3.0</p>
+		<p name="a6ReportInterval">640ms</p>
+		<p name="a6TimeToTrigger">320ms</p>
+		<p name="earfcnDL">1874</p>
+		<p name="enableA3Event">true</p>
+		<p name="enableA6Event">true</p>
+		<p name="enableFreqPrioSwap">disabled</p>
+		<p name="hysA3Offset">1.0</p>
+		<p name="hysA6Offset">0.0</p>
+		<p name="maxNumScellSwaps">0</p>
+		<p name="sFreqPrio">1</p>
+		<p name="scellMeasThreshRsrp">-114</p>
+		<p name="scellMeasThreshRsrq">-16.0</p>
+		<p name="scellPdcchOlLa">enabledPcellBased</p>
+	</managedObject>
+	<managedObject class="CAPR" version="" operation="create" distName="PLMN-PLMN/MRBTS-521228/LNBTS-521228/LNCEL-13/CAPR-1">
+		<p name="a3Offset">-3.0</p>
+		<p name="a3TimeToTrigger">ms320</p>
+		<p name="a3TriggerQuantity">RSRP</p>
+		<p name="a6Offset">3.0</p>
+		<p name="a6ReportInterval">640ms</p>
+		<p name="a6TimeToTrigger">320ms</p>
+		<p name="earfcnDL">1874</p>
+		<p name="enableA3Event">true</p>
+		<p name="enableA6Event">true</p>
+		<p name="enableFreqPrioSwap">disabled</p>
+		<p name="hysA3Offset">1.0</p>
+		<p name="hysA6Offset">0.0</p>
+		<p name="maxNumScellSwaps">0</p>
+		<p name="sFreqPrio">1</p>
+		<p name="scellMeasThreshRsrp">-114</p>
+		<p name="scellMeasThreshRsrq">-16.0</p>
+		<p name="scellPdcchOlLa">enabledPcellBased</p>
+	</managedObject>
+	<managedObject class="CAPR" version="" operation="create" distName="PLMN-PLMN/MRBTS-521228/LNBTS-521228/LNCEL-43/CAPR-1">
+		<p name="a3Offset">-3.0</p>
+		<p name="a3TimeToTrigger">ms320</p>
+		<p name="a3TriggerQuantity">RSRP</p>
+		<p name="a6Offset">3.0</p>
+		<p name="a6ReportInterval">640ms</p>
+		<p name="a6TimeToTrigger">320ms</p>
+		<p name="earfcnDL">1501</p>
+		<p name="enableA3Event">true</p>
+		<p name="enableA6Event">true</p>
+		<p name="enableFreqPrioSwap">disabled</p>
+		<p name="hysA3Offset">1.0</p>
+		<p name="hysA6Offset">0.0</p>
+		<p name="maxNumScellSwaps">0</p>
+		<p name="sFreqPrio">1</p>
+		<p name="scellMeasThreshRsrp">-114</p>
+		<p name="scellMeasThreshRsrq">-16.0</p>
+		<p name="scellPdcchOlLa">enabledPcellBased</p>
+	</managedObject>
+	<managedObject class="CAPR" version="" operation="create" distName="PLMN-PLMN/MRBTS-520201/LNBTS-520201/LNCEL-11/CAPR-1">
+		<p name="a3Offset">-3.0</p>
+		<p name="a3TimeToTrigger">ms320</p>
+		<p name="a3TriggerQuantity">RSRP</p>
+		<p name="a6Offset">3.0</p>
+		<p name="a6ReportInterval">640ms</p>
+		<p name="a6TimeToTrigger">320ms</p>
+		<p name="earfcnDL">1874</p>
+		<p name="enableA3Event">true</p>
+		<p name="enableA6Event">true</p>
+		<p name="enableFreqPrioSwap">disabled</p>
+		<p name="hysA3Offset">1.0</p>
+		<p name="hysA6Offset">0.0</p>
+		<p name="maxNumScellSwaps">0</p>
+		<p name="sFreqPrio">1</p>
+		<p name="scellMeasThreshRsrp">-114</p>
+		<p name="scellMeasThreshRsrq">-16.0</p>
+		<p name="scellPdcchOlLa">enabledPcellBased</p>
+	</managedObject>
+	<managedObject class="CAPR" version="" operation="create" distName="PLMN-PLMN/MRBTS-520201/LNBTS-520201/LNCEL-12/CAPR-1">
+		<p name="a3Offset">-3.0</p>
+		<p name="a3TimeToTrigger">ms320</p>
+		<p name="a3TriggerQuantity">RSRP</p>
+		<p name="a6Offset">3.0</p>
+		<p name="a6ReportInterval">640ms</p>
+		<p name="a6TimeToTrigger">320ms</p>
+		<p name="earfcnDL">1874</p>
+		<p name="enableA3Event">true</p>
+		<p name="enableA6Event">true</p>
+		<p name="enableFreqPrioSwap">disabled</p>
+		<p name="hysA3Offset">1.0</p>
+		<p name="hysA6Offset">0.0</p>
+		<p name="maxNumScellSwaps">0</p>
+		<p name="sFreqPrio">1</p>
+		<p name="scellMeasThreshRsrp">-114</p>
+		<p name="scellMeasThreshRsrq">-16.0</p>
+		<p name="scellPdcchOlLa">enabledPcellBased</p>
+	</managedObject>
+	<managedObject class="CAPR" version="" operation="create" distName="PLMN-PLMN/MRBTS-520201/LNBTS-520201/LNCEL-13/CAPR-1">
+		<p name="a3Offset">-3.0</p>
+		<p name="a3TimeToTrigger">ms320</p>
+		<p name="a3TriggerQuantity">RSRP</p>
+		<p name="a6Offset">3.0</p>
+		<p name="a6ReportInterval">640ms</p>
+		<p name="a6TimeToTrigger">320ms</p>
+		<p name="earfcnDL">1874</p>
+		<p name="enableA3Event">true</p>
+		<p name="enableA6Event">true</p>
+		<p name="enableFreqPrioSwap">disabled</p>
+		<p name="hysA3Offset">1.0</p>
+		<p name="hysA6Offset">0.0</p>
+		<p name="maxNumScellSwaps">0</p>
+		<p name="sFreqPrio">1</p>
+		<p name="scellMeasThreshRsrp">-114</p>
+		<p name="scellMeasThreshRsrq">-16.0</p>
+		<p name="scellPdcchOlLa">enabledPcellBased</p>
+	</managedObject>
+	<managedObject class="CAPR" version="" operation="create" distName="PLMN-PLMN/MRBTS-570032/LNBTS-570032/LNCEL-11/CAPR-1">
+		<p name="a3Offset">-3.0</p>
+		<p name="a3TimeToTrigger">ms320</p>
+		<p name="a3TriggerQuantity">RSRP</p>
+		<p name="a6Offset">3.0</p>
+		<p name="a6ReportInterval">640ms</p>
+		<p name="a6TimeToTrigger">320ms</p>
+		<p name="earfcnDL">1874</p>
+		<p name="enableA3Event">true</p>
+		<p name="enableA6Event">true</p>
+		<p name="enableFreqPrioSwap">disabled</p>
+		<p name="hysA3Offset">1.0</p>
+		<p name="hysA6Offset">0.0</p>
+		<p name="maxNumScellSwaps">0</p>
+		<p name="sFreqPrio">1</p>
+		<p name="scellMeasThreshRsrp">-114</p>
+		<p name="scellMeasThreshRsrq">-16.0</p>
+		<p name="scellPdcchOlLa">enabledPcellBased</p>
+	</managedObject>
+	<managedObject class="CAPR" version="" operation="create" distName="PLMN-PLMN/MRBTS-570032/LNBTS-570032/LNCEL-12/CAPR-1">
+		<p name="a3Offset">-3.0</p>
+		<p name="a3TimeToTrigger">ms320</p>
+		<p name="a3TriggerQuantity">RSRP</p>
+		<p name="a6Offset">3.0</p>
+		<p name="a6ReportInterval">640ms</p>
+		<p name="a6TimeToTrigger">320ms</p>
+		<p name="earfcnDL">1874</p>
+		<p name="enableA3Event">true</p>
+		<p name="enableA6Event">true</p>
+		<p name="enableFreqPrioSwap">disabled</p>
+		<p name="hysA3Offset">1.0</p>
+		<p name="hysA6Offset">0.0</p>
+		<p name="maxNumScellSwaps">0</p>
+		<p name="sFreqPrio">1</p>
+		<p name="scellMeasThreshRsrp">-114</p>
+		<p name="scellMeasThreshRsrq">-16.0</p>
+		<p name="scellPdcchOlLa">enabledPcellBased</p>
+	</managedObject>
+	<managedObject class="CAPR" version="" operation="create" distName="PLMN-PLMN/MRBTS-570032/LNBTS-570032/LNCEL-13/CAPR-1">
+		<p name="a3Offset">-3.0</p>
+		<p name="a3TimeToTrigger">ms320</p>
+		<p name="a3TriggerQuantity">RSRP</p>
+		<p name="a6Offset">3.0</p>
+		<p name="a6ReportInterval">640ms</p>
+		<p name="a6TimeToTrigger">320ms</p>
+		<p name="earfcnDL">1874</p>
+		<p name="enableA3Event">true</p>
+		<p name="enableA6Event">true</p>
+		<p name="enableFreqPrioSwap">disabled</p>
+		<p name="hysA3Offset">1.0</p>
+		<p name="hysA6Offset">0.0</p>
+		<p name="maxNumScellSwaps">0</p>
+		<p name="sFreqPrio">1</p>
+		<p name="scellMeasThreshRsrp">-114</p>
+		<p name="scellMeasThreshRsrq">-16.0</p>
+		<p name="scellPdcchOlLa">enabledPcellBased</p>
+	</managedObject>
+	<managedObject class="CAPR" version="" operation="create" distName="PLMN-PLMN/MRBTS-570032/LNBTS-570032/LNCEL-43/CAPR-1">
+		<p name="a3Offset">-3.0</p>
+		<p name="a3TimeToTrigger">ms320</p>
+		<p name="a3TriggerQuantity">RSRP</p>
+		<p name="a6Offset">3.0</p>
+		<p name="a6ReportInterval">640ms</p>
+		<p name="a6TimeToTrigger">320ms</p>
+		<p name="earfcnDL">1501</p>
+		<p name="enableA3Event">true</p>
+		<p name="enableA6Event">true</p>
+		<p name="enableFreqPrioSwap">disabled</p>
+		<p name="hysA3Offset">1.0</p>
+		<p name="hysA6Offset">0.0</p>
+		<p name="maxNumScellSwaps">0</p>
+		<p name="sFreqPrio">1</p>
+		<p name="scellMeasThreshRsrp">-114</p>
+		<p name="scellMeasThreshRsrq">-16.0</p>
+		<p name="scellPdcchOlLa">enabledPcellBased</p>
+	</managedObject>
+	<managedObject class="CAPR" version="" operation="create" distName="PLMN-PLMN/MRBTS-553852/LNBTS-553852/LNCEL-11/CAPR-1">
+		<p name="a3Offset">-3.0</p>
+		<p name="a3TimeToTrigger">ms320</p>
+		<p name="a3TriggerQuantity">RSRP</p>
+		<p name="a6Offset">3.0</p>
+		<p name="a6ReportInterval">640ms</p>
+		<p name="a6TimeToTrigger">320ms</p>
+		<p name="earfcnDL">1874</p>
+		<p name="enableA3Event">true</p>
+		<p name="enableA6Event">true</p>
+		<p name="enableFreqPrioSwap">disabled</p>
+		<p name="hysA3Offset">1.0</p>
+		<p name="hysA6Offset">0.0</p>
+		<p name="maxNumScellSwaps">0</p>
+		<p name="sFreqPrio">1</p>
+		<p name="scellMeasThreshRsrp">-114</p>
+		<p name="scellMeasThreshRsrq">-16.0</p>
+		<p name="scellPdcchOlLa">enabledPcellBased</p>
+	</managedObject>
+	<managedObject class="CAPR" version="" operation="create" distName="PLMN-PLMN/MRBTS-553852/LNBTS-553852/LNCEL-12/CAPR-1">
+		<p name="a3Offset">-3.0</p>
+		<p name="a3TimeToTrigger">ms320</p>
+		<p name="a3TriggerQuantity">RSRP</p>
+		<p name="a6Offset">3.0</p>
+		<p name="a6ReportInterval">640ms</p>
+		<p name="a6TimeToTrigger">320ms</p>
+		<p name="earfcnDL">1874</p>
+		<p name="enableA3Event">true</p>
+		<p name="enableA6Event">true</p>
+		<p name="enableFreqPrioSwap">disabled</p>
+		<p name="hysA3Offset">1.0</p>
+		<p name="hysA6Offset">0.0</p>
+		<p name="maxNumScellSwaps">0</p>
+		<p name="sFreqPrio">1</p>
+		<p name="scellMeasThreshRsrp">-114</p>
+		<p name="scellMeasThreshRsrq">-16.0</p>
+		<p name="scellPdcchOlLa">enabledPcellBased</p>
+	</managedObject>
+	<managedObject class="CAPR" version="" operation="create" distName="PLMN-PLMN/MRBTS-553852/LNBTS-553852/LNCEL-13/CAPR-1">
+		<p name="a3Offset">-3.0</p>
+		<p name="a3TimeToTrigger">ms320</p>
+		<p name="a3TriggerQuantity">RSRP</p>
+		<p name="a6Offset">3.0</p>
+		<p name="a6ReportInterval">640ms</p>
+		<p name="a6TimeToTrigger">320ms</p>
+		<p name="earfcnDL">1874</p>
+		<p name="enableA3Event">true</p>
+		<p name="enableA6Event">true</p>
+		<p name="enableFreqPrioSwap">disabled</p>
+		<p name="hysA3Offset">1.0</p>
+		<p name="hysA6Offset">0.0</p>
+		<p name="maxNumScellSwaps">0</p>
+		<p name="sFreqPrio">1</p>
+		<p name="scellMeasThreshRsrp">-114</p>
+		<p name="scellMeasThreshRsrq">-16.0</p>
+		<p name="scellPdcchOlLa">enabledPcellBased</p>
+	</managedObject>
+	<managedObject class="CAPR" version="" operation="create" distName="PLMN-PLMN/MRBTS-553852/LNBTS-553852/LNCEL-43/CAPR-1">
+		<p name="a3Offset">-3.0</p>
+		<p name="a3TimeToTrigger">ms320</p>
+		<p name="a3TriggerQuantity">RSRP</p>
+		<p name="a6Offset">3.0</p>
+		<p name="a6ReportInterval">640ms</p>
+		<p name="a6TimeToTrigger">320ms</p>
+		<p name="earfcnDL">1501</p>
+		<p name="enableA3Event">true</p>
+		<p name="enableA6Event">true</p>
+		<p name="enableFreqPrioSwap">disabled</p>
+		<p name="hysA3Offset">1.0</p>
+		<p name="hysA6Offset">0.0</p>
+		<p name="maxNumScellSwaps">0</p>
+		<p name="sFreqPrio">1</p>
+		<p name="scellMeasThreshRsrp">-114</p>
+		<p name="scellMeasThreshRsrq">-16.0</p>
+		<p name="scellPdcchOlLa">enabledPcellBased</p>
+	</managedObject>
+	<managedObject class="CAPR" version="" operation="create" distName="PLMN-PLMN/MRBTS-553774/LNBTS-553774/LNCEL-11/CAPR-1">
+		<p name="a3Offset">-3.0</p>
+		<p name="a3TimeToTrigger">ms320</p>
+		<p name="a3TriggerQuantity">RSRP</p>
+		<p name="a6Offset">3.0</p>
+		<p name="a6ReportInterval">640ms</p>
+		<p name="a6TimeToTrigger">320ms</p>
+		<p name="earfcnDL">1874</p>
+		<p name="enableA3Event">true</p>
+		<p name="enableA6Event">true</p>
+		<p name="enableFreqPrioSwap">disabled</p>
+		<p name="hysA3Offset">1.0</p>
+		<p name="hysA6Offset">0.0</p>
+		<p name="maxNumScellSwaps">0</p>
+		<p name="sFreqPrio">1</p>
+		<p name="scellMeasThreshRsrp">-114</p>
+		<p name="scellMeasThreshRsrq">-16.0</p>
+		<p name="scellPdcchOlLa">enabledPcellBased</p>
+	</managedObject>
+	<managedObject class="CAPR" version="" operation="create" distName="PLMN-PLMN/MRBTS-553774/LNBTS-553774/LNCEL-12/CAPR-1">
+		<p name="a3Offset">-3.0</p>
+		<p name="a3TimeToTrigger">ms320</p>
+		<p name="a3TriggerQuantity">RSRP</p>
+		<p name="a6Offset">3.0</p>
+		<p name="a6ReportInterval">640ms</p>
+		<p name="a6TimeToTrigger">320ms</p>
+		<p name="earfcnDL">1874</p>
+		<p name="enableA3Event">true</p>
+		<p name="enableA6Event">true</p>
+		<p name="enableFreqPrioSwap">disabled</p>
+		<p name="hysA3Offset">1.0</p>
+		<p name="hysA6Offset">0.0</p>
+		<p name="maxNumScellSwaps">0</p>
+		<p name="sFreqPrio">1</p>
+		<p name="scellMeasThreshRsrp">-114</p>
+		<p name="scellMeasThreshRsrq">-16.0</p>
+		<p name="scellPdcchOlLa">enabledPcellBased</p>
+	</managedObject>
+	<managedObject class="CAPR" version="" operation="create" distName="PLMN-PLMN/MRBTS-553774/LNBTS-553774/LNCEL-13/CAPR-1">
+		<p name="a3Offset">-3.0</p>
+		<p name="a3TimeToTrigger">ms320</p>
+		<p name="a3TriggerQuantity">RSRP</p>
+		<p name="a6Offset">3.0</p>
+		<p name="a6ReportInterval">640ms</p>
+		<p name="a6TimeToTrigger">320ms</p>
+		<p name="earfcnDL">1874</p>
+		<p name="enableA3Event">true</p>
+		<p name="enableA6Event">true</p>
+		<p name="enableFreqPrioSwap">disabled</p>
+		<p name="hysA3Offset">1.0</p>
+		<p name="hysA6Offset">0.0</p>
+		<p name="maxNumScellSwaps">0</p>
+		<p name="sFreqPrio">1</p>
+		<p name="scellMeasThreshRsrp">-114</p>
+		<p name="scellMeasThreshRsrq">-16.0</p>
+		<p name="scellPdcchOlLa">enabledPcellBased</p>
+	</managedObject>
+	<managedObject class="CAPR" version="" operation="create" distName="PLMN-PLMN/MRBTS-553774/LNBTS-553774/LNCEL-41/CAPR-1">
+		<p name="a3Offset">-3.0</p>
+		<p name="a3TimeToTrigger">ms320</p>
+		<p name="a3TriggerQuantity">RSRP</p>
+		<p name="a6Offset">3.0</p>
+		<p name="a6ReportInterval">640ms</p>
+		<p name="a6TimeToTrigger">320ms</p>
+		<p name="earfcnDL">1501</p>
+		<p name="enableA3Event">true</p>
+		<p name="enableA6Event">true</p>
+		<p name="enableFreqPrioSwap">disabled</p>
+		<p name="hysA3Offset">1.0</p>
+		<p name="hysA6Offset">0.0</p>
+		<p name="maxNumScellSwaps">0</p>
+		<p name="sFreqPrio">1</p>
+		<p name="scellMeasThreshRsrp">-114</p>
+		<p name="scellMeasThreshRsrq">-16.0</p>
+		<p name="scellPdcchOlLa">enabledPcellBased</p>
+	</managedObject>
+	<managedObject class="CAPR" version="" operation="create" distName="PLMN-PLMN/MRBTS-553774/LNBTS-553774/LNCEL-43/CAPR-1">
+		<p name="a3Offset">-3.0</p>
+		<p name="a3TimeToTrigger">ms320</p>
+		<p name="a3TriggerQuantity">RSRP</p>
+		<p name="a6Offset">3.0</p>
+		<p name="a6ReportInterval">640ms</p>
+		<p name="a6TimeToTrigger">320ms</p>
+		<p name="earfcnDL">1501</p>
+		<p name="enableA3Event">true</p>
+		<p name="enableA6Event">true</p>
+		<p name="enableFreqPrioSwap">disabled</p>
+		<p name="hysA3Offset">1.0</p>
+		<p name="hysA6Offset">0.0</p>
+		<p name="maxNumScellSwaps">0</p>
+		<p name="sFreqPrio">1</p>
+		<p name="scellMeasThreshRsrp">-114</p>
+		<p name="scellMeasThreshRsrq">-16.0</p>
+		<p name="scellPdcchOlLa">enabledPcellBased</p>
+	</managedObject>
+	<managedObject class="CAPR" version="" operation="create" distName="PLMN-PLMN/MRBTS-521711/LNBTS-521711/LNCEL-15/CAPR-2">
+		<p name="a3Offset">-3.0</p>
+		<p name="a3TimeToTrigger">ms320</p>
+		<p name="a3TriggerQuantity">RSRP</p>
+		<p name="a6Offset">3.0</p>
+		<p name="a6ReportInterval">640ms</p>
+		<p name="a6TimeToTrigger">320ms</p>
+		<p name="earfcnDL">1874</p>
+		<p name="enableA3Event">true</p>
+		<p name="enableA6Event">true</p>
+		<p name="enableFreqPrioSwap">disabled</p>
+		<p name="hysA3Offset">1.0</p>
+		<p name="hysA6Offset">0.0</p>
+		<p name="maxNumScellSwaps">0</p>
+		<p name="sFreqPrio">1</p>
+		<p name="scellMeasThreshRsrp">-114</p>
+		<p name="scellMeasThreshRsrq">-16.0</p>
+		<p name="scellPdcchOlLa">enabledPcellBased</p>
+	</managedObject>
+	<managedObject class="CAPR" version="" operation="create" distName="PLMN-PLMN/MRBTS-520065/LNBTS-520065/LNCEL-11/CAPR-1">
+		<p name="a3Offset">-3.0</p>
+		<p name="a3TimeToTrigger">ms320</p>
+		<p name="a3TriggerQuantity">RSRP</p>
+		<p name="a6Offset">3.0</p>
+		<p name="a6ReportInterval">640ms</p>
+		<p name="a6TimeToTrigger">320ms</p>
+		<p name="earfcnDL">1874</p>
+		<p name="enableA3Event">true</p>
+		<p name="enableA6Event">true</p>
+		<p name="enableFreqPrioSwap">disabled</p>
+		<p name="hysA3Offset">1.0</p>
+		<p name="hysA6Offset">0.0</p>
+		<p name="maxNumScellSwaps">0</p>
+		<p name="sFreqPrio">1</p>
+		<p name="scellMeasThreshRsrp">-114</p>
+		<p name="scellMeasThreshRsrq">-16.0</p>
+		<p name="scellPdcchOlLa">enabledPcellBased</p>
+	</managedObject>
+	<managedObject class="CAPR" version="" operation="create" distName="PLMN-PLMN/MRBTS-520065/LNBTS-520065/LNCEL-12/CAPR-1">
+		<p name="a3Offset">-3.0</p>
+		<p name="a3TimeToTrigger">ms320</p>
+		<p name="a3TriggerQuantity">RSRP</p>
+		<p name="a6Offset">3.0</p>
+		<p name="a6ReportInterval">640ms</p>
+		<p name="a6TimeToTrigger">320ms</p>
+		<p name="earfcnDL">1874</p>
+		<p name="enableA3Event">true</p>
+		<p name="enableA6Event">true</p>
+		<p name="enableFreqPrioSwap">disabled</p>
+		<p name="hysA3Offset">1.0</p>
+		<p name="hysA6Offset">0.0</p>
+		<p name="maxNumScellSwaps">0</p>
+		<p name="sFreqPrio">1</p>
+		<p name="scellMeasThreshRsrp">-114</p>
+		<p name="scellMeasThreshRsrq">-16.0</p>
+		<p name="scellPdcchOlLa">enabledPcellBased</p>
+	</managedObject>
+	<managedObject class="CAPR" version="" operation="create" distName="PLMN-PLMN/MRBTS-520065/LNBTS-520065/LNCEL-13/CAPR-1">
+		<p name="a3Offset">-3.0</p>
+		<p name="a3TimeToTrigger">ms320</p>
+		<p name="a3TriggerQuantity">RSRP</p>
+		<p name="a6Offset">3.0</p>
+		<p name="a6ReportInterval">640ms</p>
+		<p name="a6TimeToTrigger">320ms</p>
+		<p name="earfcnDL">1874</p>
+		<p name="enableA3Event">true</p>
+		<p name="enableA6Event">true</p>
+		<p name="enableFreqPrioSwap">disabled</p>
+		<p name="hysA3Offset">1.0</p>
+		<p name="hysA6Offset">0.0</p>
+		<p name="maxNumScellSwaps">0</p>
+		<p name="sFreqPrio">1</p>
+		<p name="scellMeasThreshRsrp">-114</p>
+		<p name="scellMeasThreshRsrq">-16.0</p>
+		<p name="scellPdcchOlLa">enabledPcellBased</p>
+	</managedObject>
+	<managedObject class="CAPR" version="" operation="create" distName="PLMN-PLMN/MRBTS-520065/LNBTS-520065/LNCEL-42/CAPR-1">
+		<p name="a3Offset">-3.0</p>
+		<p name="a3TimeToTrigger">ms320</p>
+		<p name="a3TriggerQuantity">RSRP</p>
+		<p name="a6Offset">3.0</p>
+		<p name="a6ReportInterval">640ms</p>
+		<p name="a6TimeToTrigger">320ms</p>
+		<p name="earfcnDL">1501</p>
+		<p name="enableA3Event">true</p>
+		<p name="enableA6Event">true</p>
+		<p name="enableFreqPrioSwap">disabled</p>
+		<p name="hysA3Offset">1.0</p>
+		<p name="hysA6Offset">0.0</p>
+		<p name="maxNumScellSwaps">0</p>
+		<p name="sFreqPrio">1</p>
+		<p name="scellMeasThreshRsrp">-114</p>
+		<p name="scellMeasThreshRsrq">-16.0</p>
+		<p name="scellPdcchOlLa">enabledPcellBased</p>
+	</managedObject>
+	<managedObject class="CAPR" version="" operation="create" distName="PLMN-PLMN/MRBTS-520065/LNBTS-520065/LNCEL-43/CAPR-1">
+		<p name="a3Offset">-3.0</p>
+		<p name="a3TimeToTrigger">ms320</p>
+		<p name="a3TriggerQuantity">RSRP</p>
+		<p name="a6Offset">3.0</p>
+		<p name="a6ReportInterval">640ms</p>
+		<p name="a6TimeToTrigger">320ms</p>
+		<p name="earfcnDL">1501</p>
+		<p name="enableA3Event">true</p>
+		<p name="enableA6Event">true</p>
+		<p name="enableFreqPrioSwap">disabled</p>
+		<p name="hysA3Offset">1.0</p>
+		<p name="hysA6Offset">0.0</p>
+		<p name="maxNumScellSwaps">0</p>
+		<p name="sFreqPrio">1</p>
+		<p name="scellMeasThreshRsrp">-114</p>
+		<p name="scellMeasThreshRsrq">-16.0</p>
+		<p name="scellPdcchOlLa">enabledPcellBased</p>
+	</managedObject>
+	<managedObject class="CAPR" version="" operation="create" distName="PLMN-PLMN/MRBTS-553857/LNBTS-553857/LNCEL-11/CAPR-1">
+		<p name="a3Offset">-3.0</p>
+		<p name="a3TimeToTrigger">ms320</p>
+		<p name="a3TriggerQuantity">RSRP</p>
+		<p name="a6Offset">3.0</p>
+		<p name="a6ReportInterval">640ms</p>
+		<p name="a6TimeToTrigger">320ms</p>
+		<p name="earfcnDL">1874</p>
+		<p name="enableA3Event">true</p>
+		<p name="enableA6Event">true</p>
+		<p name="enableFreqPrioSwap">disabled</p>
+		<p name="hysA3Offset">1.0</p>
+		<p name="hysA6Offset">0.0</p>
+		<p name="maxNumScellSwaps">0</p>
+		<p name="sFreqPrio">1</p>
+		<p name="scellMeasThreshRsrp">-114</p>
+		<p name="scellMeasThreshRsrq">-16.0</p>
+		<p name="scellPdcchOlLa">enabledPcellBased</p>
+	</managedObject>
+	<managedObject class="CAPR" version="" operation="create" distName="PLMN-PLMN/MRBTS-553857/LNBTS-553857/LNCEL-12/CAPR-1">
+		<p name="a3Offset">-3.0</p>
+		<p name="a3TimeToTrigger">ms320</p>
+		<p name="a3TriggerQuantity">RSRP</p>
+		<p name="a6Offset">3.0</p>
+		<p name="a6ReportInterval">640ms</p>
+		<p name="a6TimeToTrigger">320ms</p>
+		<p name="earfcnDL">1874</p>
+		<p name="enableA3Event">true</p>
+		<p name="enableA6Event">true</p>
+		<p name="enableFreqPrioSwap">disabled</p>
+		<p name="hysA3Offset">1.0</p>
+		<p name="hysA6Offset">0.0</p>
+		<p name="maxNumScellSwaps">0</p>
+		<p name="sFreqPrio">1</p>
+		<p name="scellMeasThreshRsrp">-114</p>
+		<p name="scellMeasThreshRsrq">-16.0</p>
+		<p name="scellPdcchOlLa">enabledPcellBased</p>
+	</managedObject>
+	<managedObject class="CAPR" version="" operation="create" distName="PLMN-PLMN/MRBTS-553857/LNBTS-553857/LNCEL-13/CAPR-1">
+		<p name="a3Offset">-3.0</p>
+		<p name="a3TimeToTrigger">ms320</p>
+		<p name="a3TriggerQuantity">RSRP</p>
+		<p name="a6Offset">3.0</p>
+		<p name="a6ReportInterval">640ms</p>
+		<p name="a6TimeToTrigger">320ms</p>
+		<p name="earfcnDL">1874</p>
+		<p name="enableA3Event">true</p>
+		<p name="enableA6Event">true</p>
+		<p name="enableFreqPrioSwap">disabled</p>
+		<p name="hysA3Offset">1.0</p>
+		<p name="hysA6Offset">0.0</p>
+		<p name="maxNumScellSwaps">0</p>
+		<p name="sFreqPrio">1</p>
+		<p name="scellMeasThreshRsrp">-114</p>
+		<p name="scellMeasThreshRsrq">-16.0</p>
+		<p name="scellPdcchOlLa">enabledPcellBased</p>
+	</managedObject>
+	<managedObject class="CAPR" version="" operation="create" distName="PLMN-PLMN/MRBTS-553857/LNBTS-553857/LNCEL-41/CAPR-1">
+		<p name="a3Offset">-3.0</p>
+		<p name="a3TimeToTrigger">ms320</p>
+		<p name="a3TriggerQuantity">RSRP</p>
+		<p name="a6Offset">3.0</p>
+		<p name="a6ReportInterval">640ms</p>
+		<p name="a6TimeToTrigger">320ms</p>
+		<p name="earfcnDL">1501</p>
+		<p name="enableA3Event">true</p>
+		<p name="enableA6Event">true</p>
+		<p name="enableFreqPrioSwap">disabled</p>
+		<p name="hysA3Offset">1.0</p>
+		<p name="hysA6Offset">0.0</p>
+		<p name="maxNumScellSwaps">0</p>
+		<p name="sFreqPrio">1</p>
+		<p name="scellMeasThreshRsrp">-114</p>
+		<p name="scellMeasThreshRsrq">-16.0</p>
+		<p name="scellPdcchOlLa">enabledPcellBased</p>
+	</managedObject>
+	<managedObject class="CAPR" version="" operation="create" distName="PLMN-PLMN/MRBTS-521305/LNBTS-521305/LNCEL-41/CAPR-2">
+		<p name="a3Offset">-3.0</p>
+		<p name="a3TimeToTrigger">ms320</p>
+		<p name="a3TriggerQuantity">RSRP</p>
+		<p name="a6Offset">3.0</p>
+		<p name="a6ReportInterval">640ms</p>
+		<p name="a6TimeToTrigger">320ms</p>
+		<p name="earfcnDL">1501</p>
+		<p name="enableA3Event">true</p>
+		<p name="enableA6Event">true</p>
+		<p name="enableFreqPrioSwap">disabled</p>
+		<p name="hysA3Offset">1.0</p>
+		<p name="hysA6Offset">0.0</p>
+		<p name="maxNumScellSwaps">0</p>
+		<p name="sFreqPrio">1</p>
+		<p name="scellMeasThreshRsrp">-114</p>
+		<p name="scellMeasThreshRsrq">-16.0</p>
+		<p name="scellPdcchOlLa">enabledPcellBased</p>
+	</managedObject>
+	<managedObject class="CAPR" version="" operation="create" distName="PLMN-PLMN/MRBTS-521305/LNBTS-521305/LNCEL-43/CAPR-2">
+		<p name="a3Offset">-3.0</p>
+		<p name="a3TimeToTrigger">ms320</p>
+		<p name="a3TriggerQuantity">RSRP</p>
+		<p name="a6Offset">3.0</p>
+		<p name="a6ReportInterval">640ms</p>
+		<p name="a6TimeToTrigger">320ms</p>
+		<p name="earfcnDL">1501</p>
+		<p name="enableA3Event">true</p>
+		<p name="enableA6Event">true</p>
+		<p name="enableFreqPrioSwap">disabled</p>
+		<p name="hysA3Offset">1.0</p>
+		<p name="hysA6Offset">0.0</p>
+		<p name="maxNumScellSwaps">0</p>
+		<p name="sFreqPrio">1</p>
+		<p name="scellMeasThreshRsrp">-114</p>
+		<p name="scellMeasThreshRsrq">-16.0</p>
+		<p name="scellPdcchOlLa">enabledPcellBased</p>
+	</managedObject>
+	<managedObject class="CAPR" version="" operation="create" distName="PLMN-PLMN/MRBTS-520101/LNBTS-520101/LNCEL-11/CAPR-2">
+		<p name="a3Offset">-3.0</p>
+		<p name="a3TimeToTrigger">ms320</p>
+		<p name="a3TriggerQuantity">RSRP</p>
+		<p name="a6Offset">3.0</p>
+		<p name="a6ReportInterval">640ms</p>
+		<p name="a6TimeToTrigger">320ms</p>
+		<p name="earfcnDL">1874</p>
+		<p name="enableA3Event">true</p>
+		<p name="enableA6Event">true</p>
+		<p name="enableFreqPrioSwap">disabled</p>
+		<p name="hysA3Offset">1.0</p>
+		<p name="hysA6Offset">0.0</p>
+		<p name="maxNumScellSwaps">0</p>
+		<p name="sFreqPrio">1</p>
+		<p name="scellMeasThreshRsrp">-114</p>
+		<p name="scellMeasThreshRsrq">-16.0</p>
+		<p name="scellPdcchOlLa">enabledPcellBased</p>
+	</managedObject>
+	<managedObject class="CAPR" version="" operation="create" distName="PLMN-PLMN/MRBTS-520101/LNBTS-520101/LNCEL-12/CAPR-2">
+		<p name="a3Offset">-3.0</p>
+		<p name="a3TimeToTrigger">ms320</p>
+		<p name="a3TriggerQuantity">RSRP</p>
+		<p name="a6Offset">3.0</p>
+		<p name="a6ReportInterval">640ms</p>
+		<p name="a6TimeToTrigger">320ms</p>
+		<p name="earfcnDL">1874</p>
+		<p name="enableA3Event">true</p>
+		<p name="enableA6Event">true</p>
+		<p name="enableFreqPrioSwap">disabled</p>
+		<p name="hysA3Offset">1.0</p>
+		<p name="hysA6Offset">0.0</p>
+		<p name="maxNumScellSwaps">0</p>
+		<p name="sFreqPrio">1</p>
+		<p name="scellMeasThreshRsrp">-114</p>
+		<p name="scellMeasThreshRsrq">-16.0</p>
+		<p name="scellPdcchOlLa">enabledPcellBased</p>
+	</managedObject>
+	<managedObject class="CAPR" version="" operation="create" distName="PLMN-PLMN/MRBTS-520101/LNBTS-520101/LNCEL-13/CAPR-2">
+		<p name="a3Offset">-3.0</p>
+		<p name="a3TimeToTrigger">ms320</p>
+		<p name="a3TriggerQuantity">RSRP</p>
+		<p name="a6Offset">3.0</p>
+		<p name="a6ReportInterval">640ms</p>
+		<p name="a6TimeToTrigger">320ms</p>
+		<p name="earfcnDL">1874</p>
+		<p name="enableA3Event">true</p>
+		<p name="enableA6Event">true</p>
+		<p name="enableFreqPrioSwap">disabled</p>
+		<p name="hysA3Offset">1.0</p>
+		<p name="hysA6Offset">0.0</p>
+		<p name="maxNumScellSwaps">0</p>
+		<p name="sFreqPrio">1</p>
+		<p name="scellMeasThreshRsrp">-114</p>
+		<p name="scellMeasThreshRsrq">-16.0</p>
+		<p name="scellPdcchOlLa">enabledPcellBased</p>
+	</managedObject>
+	<managedObject class="CAPR" version="" operation="create" distName="PLMN-PLMN/MRBTS-520101/LNBTS-520101/LNCEL-14/CAPR-2">
+		<p name="a3Offset">-3.0</p>
+		<p name="a3TimeToTrigger">ms320</p>
+		<p name="a3TriggerQuantity">RSRP</p>
+		<p name="a6Offset">3.0</p>
+		<p name="a6ReportInterval">640ms</p>
+		<p name="a6TimeToTrigger">320ms</p>
+		<p name="earfcnDL">1501</p>
+		<p name="enableA3Event">true</p>
+		<p name="enableA6Event">true</p>
+		<p name="enableFreqPrioSwap">disabled</p>
+		<p name="hysA3Offset">1.0</p>
+		<p name="hysA6Offset">0.0</p>
+		<p name="maxNumScellSwaps">0</p>
+		<p name="sFreqPrio">1</p>
+		<p name="scellMeasThreshRsrp">-114</p>
+		<p name="scellMeasThreshRsrq">-16.0</p>
+		<p name="scellPdcchOlLa">enabledPcellBased</p>
+	</managedObject>
+	<managedObject class="CAPR" version="" operation="create" distName="PLMN-PLMN/MRBTS-520101/LNBTS-520101/LNCEL-15/CAPR-2">
+		<p name="a3Offset">-3.0</p>
+		<p name="a3TimeToTrigger">ms320</p>
+		<p name="a3TriggerQuantity">RSRP</p>
+		<p name="a6Offset">3.0</p>
+		<p name="a6ReportInterval">640ms</p>
+		<p name="a6TimeToTrigger">320ms</p>
+		<p name="earfcnDL">1501</p>
+		<p name="enableA3Event">true</p>
+		<p name="enableA6Event">true</p>
+		<p name="enableFreqPrioSwap">disabled</p>
+		<p name="hysA3Offset">1.0</p>
+		<p name="hysA6Offset">0.0</p>
+		<p name="maxNumScellSwaps">0</p>
+		<p name="sFreqPrio">1</p>
+		<p name="scellMeasThreshRsrp">-114</p>
+		<p name="scellMeasThreshRsrq">-16.0</p>
+		<p name="scellPdcchOlLa">enabledPcellBased</p>
+	</managedObject>
+	<managedObject class="CAPR" version="" operation="create" distName="PLMN-PLMN/MRBTS-520101/LNBTS-520101/LNCEL-16/CAPR-2">
+		<p name="a3Offset">-3.0</p>
+		<p name="a3TimeToTrigger">ms320</p>
+		<p name="a3TriggerQuantity">RSRP</p>
+		<p name="a6Offset">3.0</p>
+		<p name="a6ReportInterval">640ms</p>
+		<p name="a6TimeToTrigger">320ms</p>
+		<p name="earfcnDL">1501</p>
+		<p name="enableA3Event">true</p>
+		<p name="enableA6Event">true</p>
+		<p name="enableFreqPrioSwap">disabled</p>
+		<p name="hysA3Offset">1.0</p>
+		<p name="hysA6Offset">0.0</p>
+		<p name="maxNumScellSwaps">0</p>
+		<p name="sFreqPrio">1</p>
+		<p name="scellMeasThreshRsrp">-114</p>
+		<p name="scellMeasThreshRsrq">-16.0</p>
+		<p name="scellPdcchOlLa">enabledPcellBased</p>
+	</managedObject>
+	<managedObject class="CAPR" version="" operation="create" distName="PLMN-PLMN/MRBTS-521398/LNBTS-521398/LNCEL-11/CAPR-2">
+		<p name="a3Offset">-3.0</p>
+		<p name="a3TimeToTrigger">ms320</p>
+		<p name="a3TriggerQuantity">RSRP</p>
+		<p name="a6Offset">3.0</p>
+		<p name="a6ReportInterval">640ms</p>
+		<p name="a6TimeToTrigger">320ms</p>
+		<p name="earfcnDL">1874</p>
+		<p name="enableA3Event">true</p>
+		<p name="enableA6Event">true</p>
+		<p name="enableFreqPrioSwap">disabled</p>
+		<p name="hysA3Offset">1.0</p>
+		<p name="hysA6Offset">0.0</p>
+		<p name="maxNumScellSwaps">0</p>
+		<p name="sFreqPrio">1</p>
+		<p name="scellMeasThreshRsrp">-114</p>
+		<p name="scellMeasThreshRsrq">-16.0</p>
+		<p name="scellPdcchOlLa">enabledPcellBased</p>
+	</managedObject>
+	<managedObject class="CAPR" version="" operation="create" distName="PLMN-PLMN/MRBTS-521398/LNBTS-521398/LNCEL-12/CAPR-2">
+		<p name="a3Offset">-3.0</p>
+		<p name="a3TimeToTrigger">ms320</p>
+		<p name="a3TriggerQuantity">RSRP</p>
+		<p name="a6Offset">3.0</p>
+		<p name="a6ReportInterval">640ms</p>
+		<p name="a6TimeToTrigger">320ms</p>
+		<p name="earfcnDL">1874</p>
+		<p name="enableA3Event">true</p>
+		<p name="enableA6Event">true</p>
+		<p name="enableFreqPrioSwap">disabled</p>
+		<p name="hysA3Offset">1.0</p>
+		<p name="hysA6Offset">0.0</p>
+		<p name="maxNumScellSwaps">0</p>
+		<p name="sFreqPrio">1</p>
+		<p name="scellMeasThreshRsrp">-114</p>
+		<p name="scellMeasThreshRsrq">-16.0</p>
+		<p name="scellPdcchOlLa">enabledPcellBased</p>
+	</managedObject>
+	<managedObject class="CAPR" version="" operation="create" distName="PLMN-PLMN/MRBTS-521398/LNBTS-521398/LNCEL-13/CAPR-2">
+		<p name="a3Offset">-3.0</p>
+		<p name="a3TimeToTrigger">ms320</p>
+		<p name="a3TriggerQuantity">RSRP</p>
+		<p name="a6Offset">3.0</p>
+		<p name="a6ReportInterval">640ms</p>
+		<p name="a6TimeToTrigger">320ms</p>
+		<p name="earfcnDL">1874</p>
+		<p name="enableA3Event">true</p>
+		<p name="enableA6Event">true</p>
+		<p name="enableFreqPrioSwap">disabled</p>
+		<p name="hysA3Offset">1.0</p>
+		<p name="hysA6Offset">0.0</p>
+		<p name="maxNumScellSwaps">0</p>
+		<p name="sFreqPrio">1</p>
+		<p name="scellMeasThreshRsrp">-114</p>
+		<p name="scellMeasThreshRsrq">-16.0</p>
+		<p name="scellPdcchOlLa">enabledPcellBased</p>
+	</managedObject>
+	<managedObject class="CAPR" version="" operation="create" distName="PLMN-PLMN/MRBTS-521398/LNBTS-521398/LNCEL-17/CAPR-1">
+		<p name="a3Offset">-3.0</p>
+		<p name="a3TimeToTrigger">ms320</p>
+		<p name="a3TriggerQuantity">RSRP</p>
+		<p name="a6Offset">3.0</p>
+		<p name="a6ReportInterval">640ms</p>
+		<p name="a6TimeToTrigger">320ms</p>
+		<p name="earfcnDL">1874</p>
+		<p name="enableA3Event">true</p>
+		<p name="enableA6Event">true</p>
+		<p name="enableFreqPrioSwap">disabled</p>
+		<p name="hysA3Offset">1.0</p>
+		<p name="hysA6Offset">0.0</p>
+		<p name="maxNumScellSwaps">0</p>
+		<p name="sFreqPrio">1</p>
+		<p name="scellMeasThreshRsrp">-114</p>
+		<p name="scellMeasThreshRsrq">-16.0</p>
+		<p name="scellPdcchOlLa">enabledPcellBased</p>
+	</managedObject>
+	<managedObject class="CAPR" version="" operation="create" distName="PLMN-PLMN/MRBTS-521398/LNBTS-521398/LNCEL-18/CAPR-1">
+		<p name="a3Offset">-3.0</p>
+		<p name="a3TimeToTrigger">ms320</p>
+		<p name="a3TriggerQuantity">RSRP</p>
+		<p name="a6Offset">3.0</p>
+		<p name="a6ReportInterval">640ms</p>
+		<p name="a6TimeToTrigger">320ms</p>
+		<p name="earfcnDL">1874</p>
+		<p name="enableA3Event">true</p>
+		<p name="enableA6Event">true</p>
+		<p name="enableFreqPrioSwap">disabled</p>
+		<p name="hysA3Offset">1.0</p>
+		<p name="hysA6Offset">0.0</p>
+		<p name="maxNumScellSwaps">0</p>
+		<p name="sFreqPrio">1</p>
+		<p name="scellMeasThreshRsrp">-114</p>
+		<p name="scellMeasThreshRsrq">-16.0</p>
+		<p name="scellPdcchOlLa">enabledPcellBased</p>
+	</managedObject>
+	<managedObject class="CAPR" version="" operation="create" distName="PLMN-PLMN/MRBTS-521398/LNBTS-521398/LNCEL-19/CAPR-1">
+		<p name="a3Offset">-3.0</p>
+		<p name="a3TimeToTrigger">ms320</p>
+		<p name="a3TriggerQuantity">RSRP</p>
+		<p name="a6Offset">3.0</p>
+		<p name="a6ReportInterval">640ms</p>
+		<p name="a6TimeToTrigger">320ms</p>
+		<p name="earfcnDL">1874</p>
+		<p name="enableA3Event">true</p>
+		<p name="enableA6Event">true</p>
+		<p name="enableFreqPrioSwap">disabled</p>
+		<p name="hysA3Offset">1.0</p>
+		<p name="hysA6Offset">0.0</p>
+		<p name="maxNumScellSwaps">0</p>
+		<p name="sFreqPrio">1</p>
+		<p name="scellMeasThreshRsrp">-114</p>
+		<p name="scellMeasThreshRsrq">-16.0</p>
+		<p name="scellPdcchOlLa">enabledPcellBased</p>
+	</managedObject>
+	<managedObject class="CAPR" version="" operation="create" distName="PLMN-PLMN/MRBTS-521398/LNBTS-521398/LNCEL-41/CAPR-2">
+		<p name="a3Offset">-3.0</p>
+		<p name="a3TimeToTrigger">ms320</p>
+		<p name="a3TriggerQuantity">RSRP</p>
+		<p name="a6Offset">3.0</p>
+		<p name="a6ReportInterval">640ms</p>
+		<p name="a6TimeToTrigger">320ms</p>
+		<p name="earfcnDL">1501</p>
+		<p name="enableA3Event">true</p>
+		<p name="enableA6Event">true</p>
+		<p name="enableFreqPrioSwap">disabled</p>
+		<p name="hysA3Offset">1.0</p>
+		<p name="hysA6Offset">0.0</p>
+		<p name="maxNumScellSwaps">0</p>
+		<p name="sFreqPrio">1</p>
+		<p name="scellMeasThreshRsrp">-114</p>
+		<p name="scellMeasThreshRsrq">-16.0</p>
+		<p name="scellPdcchOlLa">enabledPcellBased</p>
+	</managedObject>
+	<managedObject class="CAPR" version="" operation="create" distName="PLMN-PLMN/MRBTS-521398/LNBTS-521398/LNCEL-43/CAPR-2">
+		<p name="a3Offset">-3.0</p>
+		<p name="a3TimeToTrigger">ms320</p>
+		<p name="a3TriggerQuantity">RSRP</p>
+		<p name="a6Offset">3.0</p>
+		<p name="a6ReportInterval">640ms</p>
+		<p name="a6TimeToTrigger">320ms</p>
+		<p name="earfcnDL">1501</p>
+		<p name="enableA3Event">true</p>
+		<p name="enableA6Event">true</p>
+		<p name="enableFreqPrioSwap">disabled</p>
+		<p name="hysA3Offset">1.0</p>
+		<p name="hysA6Offset">0.0</p>
+		<p name="maxNumScellSwaps">0</p>
+		<p name="sFreqPrio">1</p>
+		<p name="scellMeasThreshRsrp">-114</p>
+		<p name="scellMeasThreshRsrq">-16.0</p>
+		<p name="scellPdcchOlLa">enabledPcellBased</p>
+	</managedObject>
+	<managedObject class="CAPR" version="" operation="create" distName="PLMN-PLMN/MRBTS-520085/LNBTS-520085/LNCEL-11/CAPR-1">
+		<p name="a3Offset">-3.0</p>
+		<p name="a3TimeToTrigger">ms320</p>
+		<p name="a3TriggerQuantity">RSRP</p>
+		<p name="a6Offset">3.0</p>
+		<p name="a6ReportInterval">640ms</p>
+		<p name="a6TimeToTrigger">320ms</p>
+		<p name="earfcnDL">1874</p>
+		<p name="enableA3Event">true</p>
+		<p name="enableA6Event">true</p>
+		<p name="enableFreqPrioSwap">disabled</p>
+		<p name="hysA3Offset">1.0</p>
+		<p name="hysA6Offset">0.0</p>
+		<p name="maxNumScellSwaps">0</p>
+		<p name="sFreqPrio">1</p>
+		<p name="scellMeasThreshRsrp">-114</p>
+		<p name="scellMeasThreshRsrq">-16.0</p>
+		<p name="scellPdcchOlLa">enabledPcellBased</p>
+	</managedObject>
+	<managedObject class="CAPR" version="" operation="create" distName="PLMN-PLMN/MRBTS-520085/LNBTS-520085/LNCEL-12/CAPR-1">
+		<p name="a3Offset">-3.0</p>
+		<p name="a3TimeToTrigger">ms320</p>
+		<p name="a3TriggerQuantity">RSRP</p>
+		<p name="a6Offset">3.0</p>
+		<p name="a6ReportInterval">640ms</p>
+		<p name="a6TimeToTrigger">320ms</p>
+		<p name="earfcnDL">1874</p>
+		<p name="enableA3Event">true</p>
+		<p name="enableA6Event">true</p>
+		<p name="enableFreqPrioSwap">disabled</p>
+		<p name="hysA3Offset">1.0</p>
+		<p name="hysA6Offset">0.0</p>
+		<p name="maxNumScellSwaps">0</p>
+		<p name="sFreqPrio">1</p>
+		<p name="scellMeasThreshRsrp">-114</p>
+		<p name="scellMeasThreshRsrq">-16.0</p>
+		<p name="scellPdcchOlLa">enabledPcellBased</p>
+	</managedObject>
+	<managedObject class="CAPR" version="" operation="create" distName="PLMN-PLMN/MRBTS-520085/LNBTS-520085/LNCEL-13/CAPR-1">
+		<p name="a3Offset">-3.0</p>
+		<p name="a3TimeToTrigger">ms320</p>
+		<p name="a3TriggerQuantity">RSRP</p>
+		<p name="a6Offset">3.0</p>
+		<p name="a6ReportInterval">640ms</p>
+		<p name="a6TimeToTrigger">320ms</p>
+		<p name="earfcnDL">1874</p>
+		<p name="enableA3Event">true</p>
+		<p name="enableA6Event">true</p>
+		<p name="enableFreqPrioSwap">disabled</p>
+		<p name="hysA3Offset">1.0</p>
+		<p name="hysA6Offset">0.0</p>
+		<p name="maxNumScellSwaps">0</p>
+		<p name="sFreqPrio">1</p>
+		<p name="scellMeasThreshRsrp">-114</p>
+		<p name="scellMeasThreshRsrq">-16.0</p>
+		<p name="scellPdcchOlLa">enabledPcellBased</p>
+	</managedObject>
+	<managedObject class="CAPR" version="" operation="create" distName="PLMN-PLMN/MRBTS-521393/LNBTS-521393/LNCEL-11/CAPR-2">
+		<p name="a3Offset">-3.0</p>
+		<p name="a3TimeToTrigger">ms320</p>
+		<p name="a3TriggerQuantity">RSRP</p>
+		<p name="a6Offset">3.0</p>
+		<p name="a6ReportInterval">640ms</p>
+		<p name="a6TimeToTrigger">320ms</p>
+		<p name="earfcnDL">1874</p>
+		<p name="enableA3Event">true</p>
+		<p name="enableA6Event">true</p>
+		<p name="enableFreqPrioSwap">disabled</p>
+		<p name="hysA3Offset">1.0</p>
+		<p name="hysA6Offset">0.0</p>
+		<p name="maxNumScellSwaps">0</p>
+		<p name="sFreqPrio">1</p>
+		<p name="scellMeasThreshRsrp">-114</p>
+		<p name="scellMeasThreshRsrq">-16.0</p>
+		<p name="scellPdcchOlLa">enabledPcellBased</p>
+	</managedObject>
+	<managedObject class="CAPR" version="" operation="create" distName="PLMN-PLMN/MRBTS-521393/LNBTS-521393/LNCEL-12/CAPR-2">
+		<p name="a3Offset">-3.0</p>
+		<p name="a3TimeToTrigger">ms320</p>
+		<p name="a3TriggerQuantity">RSRP</p>
+		<p name="a6Offset">3.0</p>
+		<p name="a6ReportInterval">640ms</p>
+		<p name="a6TimeToTrigger">320ms</p>
+		<p name="earfcnDL">1874</p>
+		<p name="enableA3Event">true</p>
+		<p name="enableA6Event">true</p>
+		<p name="enableFreqPrioSwap">disabled</p>
+		<p name="hysA3Offset">1.0</p>
+		<p name="hysA6Offset">0.0</p>
+		<p name="maxNumScellSwaps">0</p>
+		<p name="sFreqPrio">1</p>
+		<p name="scellMeasThreshRsrp">-114</p>
+		<p name="scellMeasThreshRsrq">-16.0</p>
+		<p name="scellPdcchOlLa">enabledPcellBased</p>
+	</managedObject>
+	<managedObject class="CAPR" version="" operation="create" distName="PLMN-PLMN/MRBTS-521393/LNBTS-521393/LNCEL-13/CAPR-2">
+		<p name="a3Offset">-3.0</p>
+		<p name="a3TimeToTrigger">ms320</p>
+		<p name="a3TriggerQuantity">RSRP</p>
+		<p name="a6Offset">3.0</p>
+		<p name="a6ReportInterval">640ms</p>
+		<p name="a6TimeToTrigger">320ms</p>
+		<p name="earfcnDL">1874</p>
+		<p name="enableA3Event">true</p>
+		<p name="enableA6Event">true</p>
+		<p name="enableFreqPrioSwap">disabled</p>
+		<p name="hysA3Offset">1.0</p>
+		<p name="hysA6Offset">0.0</p>
+		<p name="maxNumScellSwaps">0</p>
+		<p name="sFreqPrio">1</p>
+		<p name="scellMeasThreshRsrp">-114</p>
+		<p name="scellMeasThreshRsrq">-16.0</p>
+		<p name="scellPdcchOlLa">enabledPcellBased</p>
+	</managedObject>
+	<managedObject class="CAPR" version="" operation="create" distName="PLMN-PLMN/MRBTS-521393/LNBTS-521393/LNCEL-16/CAPR-2">
+		<p name="a3Offset">-3.0</p>
+		<p name="a3TimeToTrigger">ms320</p>
+		<p name="a3TriggerQuantity">RSRP</p>
+		<p name="a6Offset">3.0</p>
+		<p name="a6ReportInterval">640ms</p>
+		<p name="a6TimeToTrigger">320ms</p>
+		<p name="earfcnDL">1874</p>
+		<p name="enableA3Event">true</p>
+		<p name="enableA6Event">true</p>
+		<p name="enableFreqPrioSwap">disabled</p>
+		<p name="hysA3Offset">1.0</p>
+		<p name="hysA6Offset">0.0</p>
+		<p name="maxNumScellSwaps">0</p>
+		<p name="sFreqPrio">1</p>
+		<p name="scellMeasThreshRsrp">-114</p>
+		<p name="scellMeasThreshRsrq">-16.0</p>
+		<p name="scellPdcchOlLa">enabledPcellBased</p>
+	</managedObject>
+	<managedObject class="CAPR" version="" operation="create" distName="PLMN-PLMN/MRBTS-521393/LNBTS-521393/LNCEL-17/CAPR-1">
+		<p name="a3Offset">-3.0</p>
+		<p name="a3TimeToTrigger">ms320</p>
+		<p name="a3TriggerQuantity">RSRP</p>
+		<p name="a6Offset">3.0</p>
+		<p name="a6ReportInterval">640ms</p>
+		<p name="a6TimeToTrigger">320ms</p>
+		<p name="earfcnDL">1874</p>
+		<p name="enableA3Event">true</p>
+		<p name="enableA6Event">true</p>
+		<p name="enableFreqPrioSwap">disabled</p>
+		<p name="hysA3Offset">1.0</p>
+		<p name="hysA6Offset">0.0</p>
+		<p name="maxNumScellSwaps">0</p>
+		<p name="sFreqPrio">1</p>
+		<p name="scellMeasThreshRsrp">-114</p>
+		<p name="scellMeasThreshRsrq">-16.0</p>
+		<p name="scellPdcchOlLa">enabledPcellBased</p>
+	</managedObject>
+	<managedObject class="CAPR" version="" operation="create" distName="PLMN-PLMN/MRBTS-521393/LNBTS-521393/LNCEL-18/CAPR-1">
+		<p name="a3Offset">-3.0</p>
+		<p name="a3TimeToTrigger">ms320</p>
+		<p name="a3TriggerQuantity">RSRP</p>
+		<p name="a6Offset">3.0</p>
+		<p name="a6ReportInterval">640ms</p>
+		<p name="a6TimeToTrigger">320ms</p>
+		<p name="earfcnDL">1874</p>
+		<p name="enableA3Event">true</p>
+		<p name="enableA6Event">true</p>
+		<p name="enableFreqPrioSwap">disabled</p>
+		<p name="hysA3Offset">1.0</p>
+		<p name="hysA6Offset">0.0</p>
+		<p name="maxNumScellSwaps">0</p>
+		<p name="sFreqPrio">1</p>
+		<p name="scellMeasThreshRsrp">-114</p>
+		<p name="scellMeasThreshRsrq">-16.0</p>
+		<p name="scellPdcchOlLa">enabledPcellBased</p>
+	</managedObject>
+	<managedObject class="CAPR" version="" operation="create" distName="PLMN-PLMN/MRBTS-521393/LNBTS-521393/LNCEL-19/CAPR-1">
+		<p name="a3Offset">-3.0</p>
+		<p name="a3TimeToTrigger">ms320</p>
+		<p name="a3TriggerQuantity">RSRP</p>
+		<p name="a6Offset">3.0</p>
+		<p name="a6ReportInterval">640ms</p>
+		<p name="a6TimeToTrigger">320ms</p>
+		<p name="earfcnDL">1874</p>
+		<p name="enableA3Event">true</p>
+		<p name="enableA6Event">true</p>
+		<p name="enableFreqPrioSwap">disabled</p>
+		<p name="hysA3Offset">1.0</p>
+		<p name="hysA6Offset">0.0</p>
+		<p name="maxNumScellSwaps">0</p>
+		<p name="sFreqPrio">1</p>
+		<p name="scellMeasThreshRsrp">-114</p>
+		<p name="scellMeasThreshRsrq">-16.0</p>
+		<p name="scellPdcchOlLa">enabledPcellBased</p>
+	</managedObject>
+	<managedObject class="CAPR" version="" operation="create" distName="PLMN-PLMN/MRBTS-521315/LNBTS-521315/LNCEL-11/CAPR-1">
+		<p name="a3Offset">-3.0</p>
+		<p name="a3TimeToTrigger">ms320</p>
+		<p name="a3TriggerQuantity">RSRP</p>
+		<p name="a6Offset">3.0</p>
+		<p name="a6ReportInterval">640ms</p>
+		<p name="a6TimeToTrigger">320ms</p>
+		<p name="earfcnDL">1874</p>
+		<p name="enableA3Event">true</p>
+		<p name="enableA6Event">true</p>
+		<p name="enableFreqPrioSwap">disabled</p>
+		<p name="hysA3Offset">1.0</p>
+		<p name="hysA6Offset">0.0</p>
+		<p name="maxNumScellSwaps">0</p>
+		<p name="sFreqPrio">1</p>
+		<p name="scellMeasThreshRsrp">-114</p>
+		<p name="scellMeasThreshRsrq">-16.0</p>
+		<p name="scellPdcchOlLa">enabledPcellBased</p>
+	</managedObject>
+	<managedObject class="CAPR" version="" operation="create" distName="PLMN-PLMN/MRBTS-521315/LNBTS-521315/LNCEL-12/CAPR-1">
+		<p name="a3Offset">-3.0</p>
+		<p name="a3TimeToTrigger">ms320</p>
+		<p name="a3TriggerQuantity">RSRP</p>
+		<p name="a6Offset">3.0</p>
+		<p name="a6ReportInterval">640ms</p>
+		<p name="a6TimeToTrigger">320ms</p>
+		<p name="earfcnDL">1874</p>
+		<p name="enableA3Event">true</p>
+		<p name="enableA6Event">true</p>
+		<p name="enableFreqPrioSwap">disabled</p>
+		<p name="hysA3Offset">1.0</p>
+		<p name="hysA6Offset">0.0</p>
+		<p name="maxNumScellSwaps">0</p>
+		<p name="sFreqPrio">1</p>
+		<p name="scellMeasThreshRsrp">-114</p>
+		<p name="scellMeasThreshRsrq">-16.0</p>
+		<p name="scellPdcchOlLa">enabledPcellBased</p>
+	</managedObject>
+	<managedObject class="CAPR" version="" operation="create" distName="PLMN-PLMN/MRBTS-521315/LNBTS-521315/LNCEL-13/CAPR-1">
+		<p name="a3Offset">-3.0</p>
+		<p name="a3TimeToTrigger">ms320</p>
+		<p name="a3TriggerQuantity">RSRP</p>
+		<p name="a6Offset">3.0</p>
+		<p name="a6ReportInterval">640ms</p>
+		<p name="a6TimeToTrigger">320ms</p>
+		<p name="earfcnDL">1874</p>
+		<p name="enableA3Event">true</p>
+		<p name="enableA6Event">true</p>
+		<p name="enableFreqPrioSwap">disabled</p>
+		<p name="hysA3Offset">1.0</p>
+		<p name="hysA6Offset">0.0</p>
+		<p name="maxNumScellSwaps">0</p>
+		<p name="sFreqPrio">1</p>
+		<p name="scellMeasThreshRsrp">-114</p>
+		<p name="scellMeasThreshRsrq">-16.0</p>
+		<p name="scellPdcchOlLa">enabledPcellBased</p>
+	</managedObject>
+	<managedObject class="CAPR" version="" operation="create" distName="PLMN-PLMN/MRBTS-521315/LNBTS-521315/LNCEL-43/CAPR-1">
+		<p name="a3Offset">-3.0</p>
+		<p name="a3TimeToTrigger">ms320</p>
+		<p name="a3TriggerQuantity">RSRP</p>
+		<p name="a6Offset">3.0</p>
+		<p name="a6ReportInterval">640ms</p>
+		<p name="a6TimeToTrigger">320ms</p>
+		<p name="earfcnDL">1501</p>
+		<p name="enableA3Event">true</p>
+		<p name="enableA6Event">true</p>
+		<p name="enableFreqPrioSwap">disabled</p>
+		<p name="hysA3Offset">1.0</p>
+		<p name="hysA6Offset">0.0</p>
+		<p name="maxNumScellSwaps">0</p>
+		<p name="sFreqPrio">1</p>
+		<p name="scellMeasThreshRsrp">-114</p>
+		<p name="scellMeasThreshRsrq">-16.0</p>
+		<p name="scellPdcchOlLa">enabledPcellBased</p>
+	</managedObject>
+	<managedObject class="CAPR" version="" operation="create" distName="PLMN-PLMN/MRBTS-563224/LNBTS-563224/LNCEL-11/CAPR-1">
+		<p name="a3Offset">-3.0</p>
+		<p name="a3TimeToTrigger">ms320</p>
+		<p name="a3TriggerQuantity">RSRP</p>
+		<p name="a6Offset">3.0</p>
+		<p name="a6ReportInterval">640ms</p>
+		<p name="a6TimeToTrigger">320ms</p>
+		<p name="earfcnDL">1874</p>
+		<p name="enableA3Event">true</p>
+		<p name="enableA6Event">true</p>
+		<p name="enableFreqPrioSwap">disabled</p>
+		<p name="hysA3Offset">1.0</p>
+		<p name="hysA6Offset">0.0</p>
+		<p name="maxNumScellSwaps">0</p>
+		<p name="sFreqPrio">1</p>
+		<p name="scellMeasThreshRsrp">-114</p>
+		<p name="scellMeasThreshRsrq">-16.0</p>
+		<p name="scellPdcchOlLa">enabledPcellBased</p>
+	</managedObject>
+	<managedObject class="CAPR" version="" operation="create" distName="PLMN-PLMN/MRBTS-563224/LNBTS-563224/LNCEL-12/CAPR-1">
+		<p name="a3Offset">-3.0</p>
+		<p name="a3TimeToTrigger">ms320</p>
+		<p name="a3TriggerQuantity">RSRP</p>
+		<p name="a6Offset">3.0</p>
+		<p name="a6ReportInterval">640ms</p>
+		<p name="a6TimeToTrigger">320ms</p>
+		<p name="earfcnDL">1874</p>
+		<p name="enableA3Event">true</p>
+		<p name="enableA6Event">true</p>
+		<p name="enableFreqPrioSwap">disabled</p>
+		<p name="hysA3Offset">1.0</p>
+		<p name="hysA6Offset">0.0</p>
+		<p name="maxNumScellSwaps">0</p>
+		<p name="sFreqPrio">1</p>
+		<p name="scellMeasThreshRsrp">-114</p>
+		<p name="scellMeasThreshRsrq">-16.0</p>
+		<p name="scellPdcchOlLa">enabledPcellBased</p>
+	</managedObject>
+	<managedObject class="CAPR" version="" operation="create" distName="PLMN-PLMN/MRBTS-563224/LNBTS-563224/LNCEL-13/CAPR-1">
+		<p name="a3Offset">-3.0</p>
+		<p name="a3TimeToTrigger">ms320</p>
+		<p name="a3TriggerQuantity">RSRP</p>
+		<p name="a6Offset">3.0</p>
+		<p name="a6ReportInterval">640ms</p>
+		<p name="a6TimeToTrigger">320ms</p>
+		<p name="earfcnDL">1874</p>
+		<p name="enableA3Event">true</p>
+		<p name="enableA6Event">true</p>
+		<p name="enableFreqPrioSwap">disabled</p>
+		<p name="hysA3Offset">1.0</p>
+		<p name="hysA6Offset">0.0</p>
+		<p name="maxNumScellSwaps">0</p>
+		<p name="sFreqPrio">1</p>
+		<p name="scellMeasThreshRsrp">-114</p>
+		<p name="scellMeasThreshRsrq">-16.0</p>
+		<p name="scellPdcchOlLa">enabledPcellBased</p>
+	</managedObject>
+	<managedObject class="CAPR" version="" operation="create" distName="PLMN-PLMN/MRBTS-563224/LNBTS-563224/LNCEL-43/CAPR-1">
+		<p name="a3Offset">-3.0</p>
+		<p name="a3TimeToTrigger">ms320</p>
+		<p name="a3TriggerQuantity">RSRP</p>
+		<p name="a6Offset">3.0</p>
+		<p name="a6ReportInterval">640ms</p>
+		<p name="a6TimeToTrigger">320ms</p>
+		<p name="earfcnDL">1501</p>
+		<p name="enableA3Event">true</p>
+		<p name="enableA6Event">true</p>
+		<p name="enableFreqPrioSwap">disabled</p>
+		<p name="hysA3Offset">1.0</p>
+		<p name="hysA6Offset">0.0</p>
+		<p name="maxNumScellSwaps">0</p>
+		<p name="sFreqPrio">1</p>
+		<p name="scellMeasThreshRsrp">-114</p>
+		<p name="scellMeasThreshRsrq">-16.0</p>
+		<p name="scellPdcchOlLa">enabledPcellBased</p>
+	</managedObject>
+	<managedObject class="CAPR" version="" operation="create" distName="PLMN-PLMN/MRBTS-560182/LNBTS-560182/LNCEL-11/CAPR-1">
+		<p name="a3Offset">-3.0</p>
+		<p name="a3TimeToTrigger">ms320</p>
+		<p name="a3TriggerQuantity">RSRP</p>
+		<p name="a6Offset">3.0</p>
+		<p name="a6ReportInterval">640ms</p>
+		<p name="a6TimeToTrigger">320ms</p>
+		<p name="earfcnDL">1874</p>
+		<p name="enableA3Event">true</p>
+		<p name="enableA6Event">true</p>
+		<p name="enableFreqPrioSwap">disabled</p>
+		<p name="hysA3Offset">1.0</p>
+		<p name="hysA6Offset">0.0</p>
+		<p name="maxNumScellSwaps">0</p>
+		<p name="sFreqPrio">1</p>
+		<p name="scellMeasThreshRsrp">-114</p>
+		<p name="scellMeasThreshRsrq">-16.0</p>
+		<p name="scellPdcchOlLa">enabledPcellBased</p>
+	</managedObject>
+	<managedObject class="CAPR" version="" operation="create" distName="PLMN-PLMN/MRBTS-560182/LNBTS-560182/LNCEL-12/CAPR-1">
+		<p name="a3Offset">-3.0</p>
+		<p name="a3TimeToTrigger">ms320</p>
+		<p name="a3TriggerQuantity">RSRP</p>
+		<p name="a6Offset">3.0</p>
+		<p name="a6ReportInterval">640ms</p>
+		<p name="a6TimeToTrigger">320ms</p>
+		<p name="earfcnDL">1874</p>
+		<p name="enableA3Event">true</p>
+		<p name="enableA6Event">true</p>
+		<p name="enableFreqPrioSwap">disabled</p>
+		<p name="hysA3Offset">1.0</p>
+		<p name="hysA6Offset">0.0</p>
+		<p name="maxNumScellSwaps">0</p>
+		<p name="sFreqPrio">1</p>
+		<p name="scellMeasThreshRsrp">-114</p>
+		<p name="scellMeasThreshRsrq">-16.0</p>
+		<p name="scellPdcchOlLa">enabledPcellBased</p>
+	</managedObject>
+	<managedObject class="CAPR" version="" operation="create" distName="PLMN-PLMN/MRBTS-560182/LNBTS-560182/LNCEL-13/CAPR-1">
+		<p name="a3Offset">-3.0</p>
+		<p name="a3TimeToTrigger">ms320</p>
+		<p name="a3TriggerQuantity">RSRP</p>
+		<p name="a6Offset">3.0</p>
+		<p name="a6ReportInterval">640ms</p>
+		<p name="a6TimeToTrigger">320ms</p>
+		<p name="earfcnDL">1874</p>
+		<p name="enableA3Event">true</p>
+		<p name="enableA6Event">true</p>
+		<p name="enableFreqPrioSwap">disabled</p>
+		<p name="hysA3Offset">1.0</p>
+		<p name="hysA6Offset">0.0</p>
+		<p name="maxNumScellSwaps">0</p>
+		<p name="sFreqPrio">1</p>
+		<p name="scellMeasThreshRsrp">-114</p>
+		<p name="scellMeasThreshRsrq">-16.0</p>
+		<p name="scellPdcchOlLa">enabledPcellBased</p>
+	</managedObject>
+	<managedObject class="CAPR" version="" operation="create" distName="PLMN-PLMN/MRBTS-560182/LNBTS-560182/LNCEL-41/CAPR-1">
+		<p name="a3Offset">-3.0</p>
+		<p name="a3TimeToTrigger">ms320</p>
+		<p name="a3TriggerQuantity">RSRP</p>
+		<p name="a6Offset">3.0</p>
+		<p name="a6ReportInterval">640ms</p>
+		<p name="a6TimeToTrigger">320ms</p>
+		<p name="earfcnDL">1501</p>
+		<p name="enableA3Event">true</p>
+		<p name="enableA6Event">true</p>
+		<p name="enableFreqPrioSwap">disabled</p>
+		<p name="hysA3Offset">1.0</p>
+		<p name="hysA6Offset">0.0</p>
+		<p name="maxNumScellSwaps">0</p>
+		<p name="sFreqPrio">1</p>
+		<p name="scellMeasThreshRsrp">-114</p>
+		<p name="scellMeasThreshRsrq">-16.0</p>
+		<p name="scellPdcchOlLa">enabledPcellBased</p>
+	</managedObject>
+	<managedObject class="CAPR" version="" operation="create" distName="PLMN-PLMN/MRBTS-563120/LNBTS-563120/LNCEL-41/CAPR-2">
+		<p name="a3Offset">-3.0</p>
+		<p name="a3TimeToTrigger">ms320</p>
+		<p name="a3TriggerQuantity">RSRP</p>
+		<p name="a6Offset">3.0</p>
+		<p name="a6ReportInterval">640ms</p>
+		<p name="a6TimeToTrigger">320ms</p>
+		<p name="earfcnDL">1501</p>
+		<p name="enableA3Event">true</p>
+		<p name="enableA6Event">true</p>
+		<p name="enableFreqPrioSwap">disabled</p>
+		<p name="hysA3Offset">1.0</p>
+		<p name="hysA6Offset">0.0</p>
+		<p name="maxNumScellSwaps">0</p>
+		<p name="sFreqPrio">1</p>
+		<p name="scellMeasThreshRsrp">-114</p>
+		<p name="scellMeasThreshRsrq">-16.0</p>
+		<p name="scellPdcchOlLa">enabledPcellBased</p>
+	</managedObject>
+	<managedObject class="CAPR" version="" operation="create" distName="PLMN-PLMN/MRBTS-563120/LNBTS-563120/LNCEL-42/CAPR-2">
+		<p name="a3Offset">-3.0</p>
+		<p name="a3TimeToTrigger">ms320</p>
+		<p name="a3TriggerQuantity">RSRP</p>
+		<p name="a6Offset">3.0</p>
+		<p name="a6ReportInterval">640ms</p>
+		<p name="a6TimeToTrigger">320ms</p>
+		<p name="earfcnDL">1501</p>
+		<p name="enableA3Event">true</p>
+		<p name="enableA6Event">true</p>
+		<p name="enableFreqPrioSwap">disabled</p>
+		<p name="hysA3Offset">1.0</p>
+		<p name="hysA6Offset">0.0</p>
+		<p name="maxNumScellSwaps">0</p>
+		<p name="sFreqPrio">1</p>
+		<p name="scellMeasThreshRsrp">-114</p>
+		<p name="scellMeasThreshRsrq">-16.0</p>
+		<p name="scellPdcchOlLa">enabledPcellBased</p>
+	</managedObject>
+	<managedObject class="CAPR" version="" operation="create" distName="PLMN-PLMN/MRBTS-563120/LNBTS-563120/LNCEL-43/CAPR-2">
+		<p name="a3Offset">-3.0</p>
+		<p name="a3TimeToTrigger">ms320</p>
+		<p name="a3TriggerQuantity">RSRP</p>
+		<p name="a6Offset">3.0</p>
+		<p name="a6ReportInterval">640ms</p>
+		<p name="a6TimeToTrigger">320ms</p>
+		<p name="earfcnDL">1501</p>
+		<p name="enableA3Event">true</p>
+		<p name="enableA6Event">true</p>
+		<p name="enableFreqPrioSwap">disabled</p>
+		<p name="hysA3Offset">1.0</p>
+		<p name="hysA6Offset">0.0</p>
+		<p name="maxNumScellSwaps">0</p>
+		<p name="sFreqPrio">1</p>
+		<p name="scellMeasThreshRsrp">-114</p>
+		<p name="scellMeasThreshRsrq">-16.0</p>
+		<p name="scellPdcchOlLa">enabledPcellBased</p>
+	</managedObject>
+	<managedObject class="CAPR" version="" operation="create" distName="PLMN-PLMN/MRBTS-520206/LNBTS-520206/LNCEL-11/CAPR-1">
+		<p name="a3Offset">-3.0</p>
+		<p name="a3TimeToTrigger">ms320</p>
+		<p name="a3TriggerQuantity">RSRP</p>
+		<p name="a6Offset">3.0</p>
+		<p name="a6ReportInterval">640ms</p>
+		<p name="a6TimeToTrigger">320ms</p>
+		<p name="earfcnDL">1874</p>
+		<p name="enableA3Event">true</p>
+		<p name="enableA6Event">true</p>
+		<p name="enableFreqPrioSwap">disabled</p>
+		<p name="hysA3Offset">1.0</p>
+		<p name="hysA6Offset">0.0</p>
+		<p name="maxNumScellSwaps">0</p>
+		<p name="sFreqPrio">1</p>
+		<p name="scellMeasThreshRsrp">-114</p>
+		<p name="scellMeasThreshRsrq">-16.0</p>
+		<p name="scellPdcchOlLa">enabledPcellBased</p>
+	</managedObject>
+	<managedObject class="CAPR" version="" operation="create" distName="PLMN-PLMN/MRBTS-520206/LNBTS-520206/LNCEL-12/CAPR-1">
+		<p name="a3Offset">-3.0</p>
+		<p name="a3TimeToTrigger">ms320</p>
+		<p name="a3TriggerQuantity">RSRP</p>
+		<p name="a6Offset">3.0</p>
+		<p name="a6ReportInterval">640ms</p>
+		<p name="a6TimeToTrigger">320ms</p>
+		<p name="earfcnDL">1874</p>
+		<p name="enableA3Event">true</p>
+		<p name="enableA6Event">true</p>
+		<p name="enableFreqPrioSwap">disabled</p>
+		<p name="hysA3Offset">1.0</p>
+		<p name="hysA6Offset">0.0</p>
+		<p name="maxNumScellSwaps">0</p>
+		<p name="sFreqPrio">1</p>
+		<p name="scellMeasThreshRsrp">-114</p>
+		<p name="scellMeasThreshRsrq">-16.0</p>
+		<p name="scellPdcchOlLa">enabledPcellBased</p>
+	</managedObject>
+	<managedObject class="CAPR" version="" operation="create" distName="PLMN-PLMN/MRBTS-520206/LNBTS-520206/LNCEL-13/CAPR-1">
+		<p name="a3Offset">-3.0</p>
+		<p name="a3TimeToTrigger">ms320</p>
+		<p name="a3TriggerQuantity">RSRP</p>
+		<p name="a6Offset">3.0</p>
+		<p name="a6ReportInterval">640ms</p>
+		<p name="a6TimeToTrigger">320ms</p>
+		<p name="earfcnDL">1874</p>
+		<p name="enableA3Event">true</p>
+		<p name="enableA6Event">true</p>
+		<p name="enableFreqPrioSwap">disabled</p>
+		<p name="hysA3Offset">1.0</p>
+		<p name="hysA6Offset">0.0</p>
+		<p name="maxNumScellSwaps">0</p>
+		<p name="sFreqPrio">1</p>
+		<p name="scellMeasThreshRsrp">-114</p>
+		<p name="scellMeasThreshRsrq">-16.0</p>
+		<p name="scellPdcchOlLa">enabledPcellBased</p>
+	</managedObject>
+	<managedObject class="CAPR" version="" operation="create" distName="PLMN-PLMN/MRBTS-520206/LNBTS-520206/LNCEL-43/CAPR-1">
+		<p name="a3Offset">-3.0</p>
+		<p name="a3TimeToTrigger">ms320</p>
+		<p name="a3TriggerQuantity">RSRP</p>
+		<p name="a6Offset">3.0</p>
+		<p name="a6ReportInterval">640ms</p>
+		<p name="a6TimeToTrigger">320ms</p>
+		<p name="earfcnDL">1501</p>
+		<p name="enableA3Event">true</p>
+		<p name="enableA6Event">true</p>
+		<p name="enableFreqPrioSwap">disabled</p>
+		<p name="hysA3Offset">1.0</p>
+		<p name="hysA6Offset">0.0</p>
+		<p name="maxNumScellSwaps">0</p>
+		<p name="sFreqPrio">1</p>
+		<p name="scellMeasThreshRsrp">-114</p>
+		<p name="scellMeasThreshRsrq">-16.0</p>
+		<p name="scellPdcchOlLa">enabledPcellBased</p>
+	</managedObject>
+	<managedObject class="CAPR" version="" operation="create" distName="PLMN-PLMN/MRBTS-521200/LNBTS-521200/LNCEL-11/CAPR-1">
+		<p name="a3Offset">-3.0</p>
+		<p name="a3TimeToTrigger">ms320</p>
+		<p name="a3TriggerQuantity">RSRP</p>
+		<p name="a6Offset">3.0</p>
+		<p name="a6ReportInterval">640ms</p>
+		<p name="a6TimeToTrigger">320ms</p>
+		<p name="earfcnDL">1874</p>
+		<p name="enableA3Event">true</p>
+		<p name="enableA6Event">true</p>
+		<p name="enableFreqPrioSwap">disabled</p>
+		<p name="hysA3Offset">1.0</p>
+		<p name="hysA6Offset">0.0</p>
+		<p name="maxNumScellSwaps">0</p>
+		<p name="sFreqPrio">1</p>
+		<p name="scellMeasThreshRsrp">-114</p>
+		<p name="scellMeasThreshRsrq">-16.0</p>
+		<p name="scellPdcchOlLa">enabledPcellBased</p>
+	</managedObject>
+	<managedObject class="CAPR" version="" operation="create" distName="PLMN-PLMN/MRBTS-521200/LNBTS-521200/LNCEL-12/CAPR-1">
+		<p name="a3Offset">-3.0</p>
+		<p name="a3TimeToTrigger">ms320</p>
+		<p name="a3TriggerQuantity">RSRP</p>
+		<p name="a6Offset">3.0</p>
+		<p name="a6ReportInterval">640ms</p>
+		<p name="a6TimeToTrigger">320ms</p>
+		<p name="earfcnDL">1874</p>
+		<p name="enableA3Event">true</p>
+		<p name="enableA6Event">true</p>
+		<p name="enableFreqPrioSwap">disabled</p>
+		<p name="hysA3Offset">1.0</p>
+		<p name="hysA6Offset">0.0</p>
+		<p name="maxNumScellSwaps">0</p>
+		<p name="sFreqPrio">1</p>
+		<p name="scellMeasThreshRsrp">-114</p>
+		<p name="scellMeasThreshRsrq">-16.0</p>
+		<p name="scellPdcchOlLa">enabledPcellBased</p>
+	</managedObject>
+	<managedObject class="CAPR" version="" operation="create" distName="PLMN-PLMN/MRBTS-521200/LNBTS-521200/LNCEL-13/CAPR-1">
+		<p name="a3Offset">-3.0</p>
+		<p name="a3TimeToTrigger">ms320</p>
+		<p name="a3TriggerQuantity">RSRP</p>
+		<p name="a6Offset">3.0</p>
+		<p name="a6ReportInterval">640ms</p>
+		<p name="a6TimeToTrigger">320ms</p>
+		<p name="earfcnDL">1874</p>
+		<p name="enableA3Event">true</p>
+		<p name="enableA6Event">true</p>
+		<p name="enableFreqPrioSwap">disabled</p>
+		<p name="hysA3Offset">1.0</p>
+		<p name="hysA6Offset">0.0</p>
+		<p name="maxNumScellSwaps">0</p>
+		<p name="sFreqPrio">1</p>
+		<p name="scellMeasThreshRsrp">-114</p>
+		<p name="scellMeasThreshRsrq">-16.0</p>
+		<p name="scellPdcchOlLa">enabledPcellBased</p>
+	</managedObject>
+	<managedObject class="CAPR" version="" operation="create" distName="PLMN-PLMN/MRBTS-521200/LNBTS-521200/LNCEL-21/CAPR-1">
+		<p name="a3Offset">-3.0</p>
+		<p name="a3TimeToTrigger">ms320</p>
+		<p name="a3TriggerQuantity">RSRP</p>
+		<p name="a6Offset">3.0</p>
+		<p name="a6ReportInterval">640ms</p>
+		<p name="a6TimeToTrigger">320ms</p>
+		<p name="earfcnDL">1874</p>
+		<p name="enableA3Event">true</p>
+		<p name="enableA6Event">true</p>
+		<p name="enableFreqPrioSwap">disabled</p>
+		<p name="hysA3Offset">1.0</p>
+		<p name="hysA6Offset">0.0</p>
+		<p name="maxNumScellSwaps">0</p>
+		<p name="sFreqPrio">1</p>
+		<p name="scellMeasThreshRsrp">-114</p>
+		<p name="scellMeasThreshRsrq">-16.0</p>
+		<p name="scellPdcchOlLa">enabledPcellBased</p>
+	</managedObject>
+	<managedObject class="CAPR" version="" operation="create" distName="PLMN-PLMN/MRBTS-521200/LNBTS-521200/LNCEL-22/CAPR-1">
+		<p name="a3Offset">-3.0</p>
+		<p name="a3TimeToTrigger">ms320</p>
+		<p name="a3TriggerQuantity">RSRP</p>
+		<p name="a6Offset">3.0</p>
+		<p name="a6ReportInterval">640ms</p>
+		<p name="a6TimeToTrigger">320ms</p>
+		<p name="earfcnDL">1874</p>
+		<p name="enableA3Event">true</p>
+		<p name="enableA6Event">true</p>
+		<p name="enableFreqPrioSwap">disabled</p>
+		<p name="hysA3Offset">1.0</p>
+		<p name="hysA6Offset">0.0</p>
+		<p name="maxNumScellSwaps">0</p>
+		<p name="sFreqPrio">1</p>
+		<p name="scellMeasThreshRsrp">-114</p>
+		<p name="scellMeasThreshRsrq">-16.0</p>
+		<p name="scellPdcchOlLa">enabledPcellBased</p>
+	</managedObject>
+	<managedObject class="CAPR" version="" operation="create" distName="PLMN-PLMN/MRBTS-521200/LNBTS-521200/LNCEL-23/CAPR-1">
+		<p name="a3Offset">-3.0</p>
+		<p name="a3TimeToTrigger">ms320</p>
+		<p name="a3TriggerQuantity">RSRP</p>
+		<p name="a6Offset">3.0</p>
+		<p name="a6ReportInterval">640ms</p>
+		<p name="a6TimeToTrigger">320ms</p>
+		<p name="earfcnDL">1874</p>
+		<p name="enableA3Event">true</p>
+		<p name="enableA6Event">true</p>
+		<p name="enableFreqPrioSwap">disabled</p>
+		<p name="hysA3Offset">1.0</p>
+		<p name="hysA6Offset">0.0</p>
+		<p name="maxNumScellSwaps">0</p>
+		<p name="sFreqPrio">1</p>
+		<p name="scellMeasThreshRsrp">-114</p>
+		<p name="scellMeasThreshRsrq">-16.0</p>
+		<p name="scellPdcchOlLa">enabledPcellBased</p>
+	</managedObject>
+	<managedObject class="CAPR" version="" operation="create" distName="PLMN-PLMN/MRBTS-521200/LNBTS-521200/LNCEL-42/CAPR-1">
+		<p name="a3Offset">-3.0</p>
+		<p name="a3TimeToTrigger">ms320</p>
+		<p name="a3TriggerQuantity">RSRP</p>
+		<p name="a6Offset">3.0</p>
+		<p name="a6ReportInterval">640ms</p>
+		<p name="a6TimeToTrigger">320ms</p>
+		<p name="earfcnDL">1501</p>
+		<p name="enableA3Event">true</p>
+		<p name="enableA6Event">true</p>
+		<p name="enableFreqPrioSwap">disabled</p>
+		<p name="hysA3Offset">1.0</p>
+		<p name="hysA6Offset">0.0</p>
+		<p name="maxNumScellSwaps">0</p>
+		<p name="sFreqPrio">1</p>
+		<p name="scellMeasThreshRsrp">-114</p>
+		<p name="scellMeasThreshRsrq">-16.0</p>
+		<p name="scellPdcchOlLa">enabledPcellBased</p>
+	</managedObject>
+	<managedObject class="CAPR" version="" operation="create" distName="PLMN-PLMN/MRBTS-520207/LNBTS-520207/LNCEL-11/CAPR-1">
+		<p name="a3Offset">-3.0</p>
+		<p name="a3TimeToTrigger">ms320</p>
+		<p name="a3TriggerQuantity">RSRP</p>
+		<p name="a6Offset">3.0</p>
+		<p name="a6ReportInterval">640ms</p>
+		<p name="a6TimeToTrigger">320ms</p>
+		<p name="earfcnDL">1874</p>
+		<p name="enableA3Event">true</p>
+		<p name="enableA6Event">true</p>
+		<p name="enableFreqPrioSwap">disabled</p>
+		<p name="hysA3Offset">1.0</p>
+		<p name="hysA6Offset">0.0</p>
+		<p name="maxNumScellSwaps">0</p>
+		<p name="sFreqPrio">1</p>
+		<p name="scellMeasThreshRsrp">-114</p>
+		<p name="scellMeasThreshRsrq">-16.0</p>
+		<p name="scellPdcchOlLa">enabledPcellBased</p>
+	</managedObject>
+	<managedObject class="CAPR" version="" operation="create" distName="PLMN-PLMN/MRBTS-520207/LNBTS-520207/LNCEL-21/CAPR-1">
+		<p name="a3Offset">-3.0</p>
+		<p name="a3TimeToTrigger">ms320</p>
+		<p name="a3TriggerQuantity">RSRP</p>
+		<p name="a6Offset">3.0</p>
+		<p name="a6ReportInterval">640ms</p>
+		<p name="a6TimeToTrigger">320ms</p>
+		<p name="earfcnDL">1874</p>
+		<p name="enableA3Event">true</p>
+		<p name="enableA6Event">true</p>
+		<p name="enableFreqPrioSwap">disabled</p>
+		<p name="hysA3Offset">1.0</p>
+		<p name="hysA6Offset">0.0</p>
+		<p name="maxNumScellSwaps">0</p>
+		<p name="sFreqPrio">1</p>
+		<p name="scellMeasThreshRsrp">-114</p>
+		<p name="scellMeasThreshRsrq">-16.0</p>
+		<p name="scellPdcchOlLa">enabledPcellBased</p>
+	</managedObject>
+	<managedObject class="CAPR" version="" operation="create" distName="PLMN-PLMN/MRBTS-520207/LNBTS-520207/LNCEL-22/CAPR-1">
+		<p name="a3Offset">-3.0</p>
+		<p name="a3TimeToTrigger">ms320</p>
+		<p name="a3TriggerQuantity">RSRP</p>
+		<p name="a6Offset">3.0</p>
+		<p name="a6ReportInterval">640ms</p>
+		<p name="a6TimeToTrigger">320ms</p>
+		<p name="earfcnDL">1874</p>
+		<p name="enableA3Event">true</p>
+		<p name="enableA6Event">true</p>
+		<p name="enableFreqPrioSwap">disabled</p>
+		<p name="hysA3Offset">1.0</p>
+		<p name="hysA6Offset">0.0</p>
+		<p name="maxNumScellSwaps">0</p>
+		<p name="sFreqPrio">1</p>
+		<p name="scellMeasThreshRsrp">-114</p>
+		<p name="scellMeasThreshRsrq">-16.0</p>
+		<p name="scellPdcchOlLa">enabledPcellBased</p>
+	</managedObject>
+	<managedObject class="CAPR" version="" operation="create" distName="PLMN-PLMN/MRBTS-520207/LNBTS-520207/LNCEL-23/CAPR-1">
+		<p name="a3Offset">-3.0</p>
+		<p name="a3TimeToTrigger">ms320</p>
+		<p name="a3TriggerQuantity">RSRP</p>
+		<p name="a6Offset">3.0</p>
+		<p name="a6ReportInterval">640ms</p>
+		<p name="a6TimeToTrigger">320ms</p>
+		<p name="earfcnDL">1874</p>
+		<p name="enableA3Event">true</p>
+		<p name="enableA6Event">true</p>
+		<p name="enableFreqPrioSwap">disabled</p>
+		<p name="hysA3Offset">1.0</p>
+		<p name="hysA6Offset">0.0</p>
+		<p name="maxNumScellSwaps">0</p>
+		<p name="sFreqPrio">1</p>
+		<p name="scellMeasThreshRsrp">-114</p>
+		<p name="scellMeasThreshRsrq">-16.0</p>
+		<p name="scellPdcchOlLa">enabledPcellBased</p>
+	</managedObject>
+	<managedObject class="CAPR" version="" operation="create" distName="PLMN-PLMN/MRBTS-520207/LNBTS-520207/LNCEL-41/CAPR-1">
+		<p name="a3Offset">-3.0</p>
+		<p name="a3TimeToTrigger">ms320</p>
+		<p name="a3TriggerQuantity">RSRP</p>
+		<p name="a6Offset">3.0</p>
+		<p name="a6ReportInterval">640ms</p>
+		<p name="a6TimeToTrigger">320ms</p>
+		<p name="earfcnDL">1501</p>
+		<p name="enableA3Event">true</p>
+		<p name="enableA6Event">true</p>
+		<p name="enableFreqPrioSwap">disabled</p>
+		<p name="hysA3Offset">1.0</p>
+		<p name="hysA6Offset">0.0</p>
+		<p name="maxNumScellSwaps">0</p>
+		<p name="sFreqPrio">1</p>
+		<p name="scellMeasThreshRsrp">-114</p>
+		<p name="scellMeasThreshRsrq">-16.0</p>
+		<p name="scellPdcchOlLa">enabledPcellBased</p>
+	</managedObject>
+	<managedObject class="CAPR" version="" operation="create" distName="PLMN-PLMN/MRBTS-520207/LNBTS-520207/LNCEL-43/CAPR-1">
+		<p name="a3Offset">-3.0</p>
+		<p name="a3TimeToTrigger">ms320</p>
+		<p name="a3TriggerQuantity">RSRP</p>
+		<p name="a6Offset">3.0</p>
+		<p name="a6ReportInterval">640ms</p>
+		<p name="a6TimeToTrigger">320ms</p>
+		<p name="earfcnDL">1501</p>
+		<p name="enableA3Event">true</p>
+		<p name="enableA6Event">true</p>
+		<p name="enableFreqPrioSwap">disabled</p>
+		<p name="hysA3Offset">1.0</p>
+		<p name="hysA6Offset">0.0</p>
+		<p name="maxNumScellSwaps">0</p>
+		<p name="sFreqPrio">1</p>
+		<p name="scellMeasThreshRsrp">-114</p>
+		<p name="scellMeasThreshRsrq">-16.0</p>
+		<p name="scellPdcchOlLa">enabledPcellBased</p>
+	</managedObject>
+	<managedObject class="CAPR" version="" operation="create" distName="PLMN-PLMN/MRBTS-553973/LNBTS-553973/LNCEL-11/CAPR-1">
+		<p name="a3Offset">-3.0</p>
+		<p name="a3TimeToTrigger">ms320</p>
+		<p name="a3TriggerQuantity">RSRP</p>
+		<p name="a6Offset">3.0</p>
+		<p name="a6ReportInterval">640ms</p>
+		<p name="a6TimeToTrigger">320ms</p>
+		<p name="earfcnDL">1874</p>
+		<p name="enableA3Event">true</p>
+		<p name="enableA6Event">true</p>
+		<p name="enableFreqPrioSwap">disabled</p>
+		<p name="hysA3Offset">1.0</p>
+		<p name="hysA6Offset">0.0</p>
+		<p name="maxNumScellSwaps">0</p>
+		<p name="sFreqPrio">1</p>
+		<p name="scellMeasThreshRsrp">-114</p>
+		<p name="scellMeasThreshRsrq">-16.0</p>
+		<p name="scellPdcchOlLa">enabledPcellBased</p>
+	</managedObject>
+	<managedObject class="CAPR" version="" operation="create" distName="PLMN-PLMN/MRBTS-553973/LNBTS-553973/LNCEL-12/CAPR-1">
+		<p name="a3Offset">-3.0</p>
+		<p name="a3TimeToTrigger">ms320</p>
+		<p name="a3TriggerQuantity">RSRP</p>
+		<p name="a6Offset">3.0</p>
+		<p name="a6ReportInterval">640ms</p>
+		<p name="a6TimeToTrigger">320ms</p>
+		<p name="earfcnDL">1874</p>
+		<p name="enableA3Event">true</p>
+		<p name="enableA6Event">true</p>
+		<p name="enableFreqPrioSwap">disabled</p>
+		<p name="hysA3Offset">1.0</p>
+		<p name="hysA6Offset">0.0</p>
+		<p name="maxNumScellSwaps">0</p>
+		<p name="sFreqPrio">1</p>
+		<p name="scellMeasThreshRsrp">-114</p>
+		<p name="scellMeasThreshRsrq">-16.0</p>
+		<p name="scellPdcchOlLa">enabledPcellBased</p>
+	</managedObject>
+	<managedObject class="CAPR" version="" operation="create" distName="PLMN-PLMN/MRBTS-553973/LNBTS-553973/LNCEL-13/CAPR-1">
+		<p name="a3Offset">-3.0</p>
+		<p name="a3TimeToTrigger">ms320</p>
+		<p name="a3TriggerQuantity">RSRP</p>
+		<p name="a6Offset">3.0</p>
+		<p name="a6ReportInterval">640ms</p>
+		<p name="a6TimeToTrigger">320ms</p>
+		<p name="earfcnDL">1874</p>
+		<p name="enableA3Event">true</p>
+		<p name="enableA6Event">true</p>
+		<p name="enableFreqPrioSwap">disabled</p>
+		<p name="hysA3Offset">1.0</p>
+		<p name="hysA6Offset">0.0</p>
+		<p name="maxNumScellSwaps">0</p>
+		<p name="sFreqPrio">1</p>
+		<p name="scellMeasThreshRsrp">-114</p>
+		<p name="scellMeasThreshRsrq">-16.0</p>
+		<p name="scellPdcchOlLa">enabledPcellBased</p>
+	</managedObject>
+	<managedObject class="CAPR" version="" operation="create" distName="PLMN-PLMN/MRBTS-553973/LNBTS-553973/LNCEL-43/CAPR-1">
+		<p name="a3Offset">-3.0</p>
+		<p name="a3TimeToTrigger">ms320</p>
+		<p name="a3TriggerQuantity">RSRP</p>
+		<p name="a6Offset">3.0</p>
+		<p name="a6ReportInterval">640ms</p>
+		<p name="a6TimeToTrigger">320ms</p>
+		<p name="earfcnDL">1501</p>
+		<p name="enableA3Event">true</p>
+		<p name="enableA6Event">true</p>
+		<p name="enableFreqPrioSwap">disabled</p>
+		<p name="hysA3Offset">1.0</p>
+		<p name="hysA6Offset">0.0</p>
+		<p name="maxNumScellSwaps">0</p>
+		<p name="sFreqPrio">1</p>
+		<p name="scellMeasThreshRsrp">-114</p>
+		<p name="scellMeasThreshRsrq">-16.0</p>
+		<p name="scellPdcchOlLa">enabledPcellBased</p>
+	</managedObject>
+	<managedObject class="CAPR" version="" operation="create" distName="PLMN-PLMN/MRBTS-571567/LNBTS-571567/LNCEL-11/CAPR-1">
+		<p name="a3Offset">-3.0</p>
+		<p name="a3TimeToTrigger">ms320</p>
+		<p name="a3TriggerQuantity">RSRP</p>
+		<p name="a6Offset">3.0</p>
+		<p name="a6ReportInterval">640ms</p>
+		<p name="a6TimeToTrigger">320ms</p>
+		<p name="earfcnDL">1874</p>
+		<p name="enableA3Event">true</p>
+		<p name="enableA6Event">true</p>
+		<p name="enableFreqPrioSwap">disabled</p>
+		<p name="hysA3Offset">1.0</p>
+		<p name="hysA6Offset">0.0</p>
+		<p name="maxNumScellSwaps">0</p>
+		<p name="sFreqPrio">1</p>
+		<p name="scellMeasThreshRsrp">-114</p>
+		<p name="scellMeasThreshRsrq">-16.0</p>
+		<p name="scellPdcchOlLa">enabledPcellBased</p>
+	</managedObject>
+	<managedObject class="CAPR" version="" operation="create" distName="PLMN-PLMN/MRBTS-571567/LNBTS-571567/LNCEL-12/CAPR-1">
+		<p name="a3Offset">-3.0</p>
+		<p name="a3TimeToTrigger">ms320</p>
+		<p name="a3TriggerQuantity">RSRP</p>
+		<p name="a6Offset">3.0</p>
+		<p name="a6ReportInterval">640ms</p>
+		<p name="a6TimeToTrigger">320ms</p>
+		<p name="earfcnDL">1874</p>
+		<p name="enableA3Event">true</p>
+		<p name="enableA6Event">true</p>
+		<p name="enableFreqPrioSwap">disabled</p>
+		<p name="hysA3Offset">1.0</p>
+		<p name="hysA6Offset">0.0</p>
+		<p name="maxNumScellSwaps">0</p>
+		<p name="sFreqPrio">1</p>
+		<p name="scellMeasThreshRsrp">-114</p>
+		<p name="scellMeasThreshRsrq">-16.0</p>
+		<p name="scellPdcchOlLa">enabledPcellBased</p>
+	</managedObject>
+	<managedObject class="CAPR" version="" operation="create" distName="PLMN-PLMN/MRBTS-571567/LNBTS-571567/LNCEL-13/CAPR-1">
+		<p name="a3Offset">-3.0</p>
+		<p name="a3TimeToTrigger">ms320</p>
+		<p name="a3TriggerQuantity">RSRP</p>
+		<p name="a6Offset">3.0</p>
+		<p name="a6ReportInterval">640ms</p>
+		<p name="a6TimeToTrigger">320ms</p>
+		<p name="earfcnDL">1874</p>
+		<p name="enableA3Event">true</p>
+		<p name="enableA6Event">true</p>
+		<p name="enableFreqPrioSwap">disabled</p>
+		<p name="hysA3Offset">1.0</p>
+		<p name="hysA6Offset">0.0</p>
+		<p name="maxNumScellSwaps">0</p>
+		<p name="sFreqPrio">1</p>
+		<p name="scellMeasThreshRsrp">-114</p>
+		<p name="scellMeasThreshRsrq">-16.0</p>
+		<p name="scellPdcchOlLa">enabledPcellBased</p>
+	</managedObject>
+	<managedObject class="CAPR" version="" operation="create" distName="PLMN-PLMN/MRBTS-571567/LNBTS-571567/LNCEL-42/CAPR-1">
+		<p name="a3Offset">-3.0</p>
+		<p name="a3TimeToTrigger">ms320</p>
+		<p name="a3TriggerQuantity">RSRP</p>
+		<p name="a6Offset">3.0</p>
+		<p name="a6ReportInterval">640ms</p>
+		<p name="a6TimeToTrigger">320ms</p>
+		<p name="earfcnDL">1501</p>
+		<p name="enableA3Event">true</p>
+		<p name="enableA6Event">true</p>
+		<p name="enableFreqPrioSwap">disabled</p>
+		<p name="hysA3Offset">1.0</p>
+		<p name="hysA6Offset">0.0</p>
+		<p name="maxNumScellSwaps">0</p>
+		<p name="sFreqPrio">1</p>
+		<p name="scellMeasThreshRsrp">-114</p>
+		<p name="scellMeasThreshRsrq">-16.0</p>
+		<p name="scellPdcchOlLa">enabledPcellBased</p>
+	</managedObject>
+	<managedObject class="CAPR" version="" operation="create" distName="PLMN-PLMN/MRBTS-574212/LNBTS-574212/LNCEL-11/CAPR-1">
+		<p name="a3Offset">-3.0</p>
+		<p name="a3TimeToTrigger">ms320</p>
+		<p name="a3TriggerQuantity">RSRP</p>
+		<p name="a6Offset">3.0</p>
+		<p name="a6ReportInterval">640ms</p>
+		<p name="a6TimeToTrigger">320ms</p>
+		<p name="earfcnDL">1874</p>
+		<p name="enableA3Event">true</p>
+		<p name="enableA6Event">true</p>
+		<p name="enableFreqPrioSwap">disabled</p>
+		<p name="hysA3Offset">1.0</p>
+		<p name="hysA6Offset">0.0</p>
+		<p name="maxNumScellSwaps">0</p>
+		<p name="sFreqPrio">1</p>
+		<p name="scellMeasThreshRsrp">-114</p>
+		<p name="scellMeasThreshRsrq">-16.0</p>
+		<p name="scellPdcchOlLa">enabledPcellBased</p>
+	</managedObject>
+	<managedObject class="CAPR" version="" operation="create" distName="PLMN-PLMN/MRBTS-574212/LNBTS-574212/LNCEL-12/CAPR-1">
+		<p name="a3Offset">-3.0</p>
+		<p name="a3TimeToTrigger">ms320</p>
+		<p name="a3TriggerQuantity">RSRP</p>
+		<p name="a6Offset">3.0</p>
+		<p name="a6ReportInterval">640ms</p>
+		<p name="a6TimeToTrigger">320ms</p>
+		<p name="earfcnDL">1874</p>
+		<p name="enableA3Event">true</p>
+		<p name="enableA6Event">true</p>
+		<p name="enableFreqPrioSwap">disabled</p>
+		<p name="hysA3Offset">1.0</p>
+		<p name="hysA6Offset">0.0</p>
+		<p name="maxNumScellSwaps">0</p>
+		<p name="sFreqPrio">1</p>
+		<p name="scellMeasThreshRsrp">-114</p>
+		<p name="scellMeasThreshRsrq">-16.0</p>
+		<p name="scellPdcchOlLa">enabledPcellBased</p>
+	</managedObject>
+	<managedObject class="CAPR" version="" operation="create" distName="PLMN-PLMN/MRBTS-574212/LNBTS-574212/LNCEL-13/CAPR-1">
+		<p name="a3Offset">-3.0</p>
+		<p name="a3TimeToTrigger">ms320</p>
+		<p name="a3TriggerQuantity">RSRP</p>
+		<p name="a6Offset">3.0</p>
+		<p name="a6ReportInterval">640ms</p>
+		<p name="a6TimeToTrigger">320ms</p>
+		<p name="earfcnDL">1874</p>
+		<p name="enableA3Event">true</p>
+		<p name="enableA6Event">true</p>
+		<p name="enableFreqPrioSwap">disabled</p>
+		<p name="hysA3Offset">1.0</p>
+		<p name="hysA6Offset">0.0</p>
+		<p name="maxNumScellSwaps">0</p>
+		<p name="sFreqPrio">1</p>
+		<p name="scellMeasThreshRsrp">-114</p>
+		<p name="scellMeasThreshRsrq">-16.0</p>
+		<p name="scellPdcchOlLa">enabledPcellBased</p>
+	</managedObject>
+	<managedObject class="CAPR" version="" operation="create" distName="PLMN-PLMN/MRBTS-574212/LNBTS-574212/LNCEL-41/CAPR-1">
+		<p name="a3Offset">-3.0</p>
+		<p name="a3TimeToTrigger">ms320</p>
+		<p name="a3TriggerQuantity">RSRP</p>
+		<p name="a6Offset">3.0</p>
+		<p name="a6ReportInterval">640ms</p>
+		<p name="a6TimeToTrigger">320ms</p>
+		<p name="earfcnDL">1501</p>
+		<p name="enableA3Event">true</p>
+		<p name="enableA6Event">true</p>
+		<p name="enableFreqPrioSwap">disabled</p>
+		<p name="hysA3Offset">1.0</p>
+		<p name="hysA6Offset">0.0</p>
+		<p name="maxNumScellSwaps">0</p>
+		<p name="sFreqPrio">1</p>
+		<p name="scellMeasThreshRsrp">-114</p>
+		<p name="scellMeasThreshRsrq">-16.0</p>
+		<p name="scellPdcchOlLa">enabledPcellBased</p>
+	</managedObject>
+	<managedObject class="CAPR" version="" operation="create" distName="PLMN-PLMN/MRBTS-571569/LNBTS-571569/LNCEL-11/CAPR-1">
+		<p name="a3Offset">-3.0</p>
+		<p name="a3TimeToTrigger">ms320</p>
+		<p name="a3TriggerQuantity">RSRP</p>
+		<p name="a6Offset">3.0</p>
+		<p name="a6ReportInterval">640ms</p>
+		<p name="a6TimeToTrigger">320ms</p>
+		<p name="earfcnDL">1874</p>
+		<p name="enableA3Event">true</p>
+		<p name="enableA6Event">true</p>
+		<p name="enableFreqPrioSwap">disabled</p>
+		<p name="hysA3Offset">1.0</p>
+		<p name="hysA6Offset">0.0</p>
+		<p name="maxNumScellSwaps">0</p>
+		<p name="sFreqPrio">1</p>
+		<p name="scellMeasThreshRsrp">-114</p>
+		<p name="scellMeasThreshRsrq">-16.0</p>
+		<p name="scellPdcchOlLa">enabledPcellBased</p>
+	</managedObject>
+	<managedObject class="CAPR" version="" operation="create" distName="PLMN-PLMN/MRBTS-571569/LNBTS-571569/LNCEL-12/CAPR-1">
+		<p name="a3Offset">-3.0</p>
+		<p name="a3TimeToTrigger">ms320</p>
+		<p name="a3TriggerQuantity">RSRP</p>
+		<p name="a6Offset">3.0</p>
+		<p name="a6ReportInterval">640ms</p>
+		<p name="a6TimeToTrigger">320ms</p>
+		<p name="earfcnDL">1874</p>
+		<p name="enableA3Event">true</p>
+		<p name="enableA6Event">true</p>
+		<p name="enableFreqPrioSwap">disabled</p>
+		<p name="hysA3Offset">1.0</p>
+		<p name="hysA6Offset">0.0</p>
+		<p name="maxNumScellSwaps">0</p>
+		<p name="sFreqPrio">1</p>
+		<p name="scellMeasThreshRsrp">-114</p>
+		<p name="scellMeasThreshRsrq">-16.0</p>
+		<p name="scellPdcchOlLa">enabledPcellBased</p>
+	</managedObject>
+	<managedObject class="CAPR" version="" operation="create" distName="PLMN-PLMN/MRBTS-571569/LNBTS-571569/LNCEL-13/CAPR-1">
+		<p name="a3Offset">-3.0</p>
+		<p name="a3TimeToTrigger">ms320</p>
+		<p name="a3TriggerQuantity">RSRP</p>
+		<p name="a6Offset">3.0</p>
+		<p name="a6ReportInterval">640ms</p>
+		<p name="a6TimeToTrigger">320ms</p>
+		<p name="earfcnDL">1874</p>
+		<p name="enableA3Event">true</p>
+		<p name="enableA6Event">true</p>
+		<p name="enableFreqPrioSwap">disabled</p>
+		<p name="hysA3Offset">1.0</p>
+		<p name="hysA6Offset">0.0</p>
+		<p name="maxNumScellSwaps">0</p>
+		<p name="sFreqPrio">1</p>
+		<p name="scellMeasThreshRsrp">-114</p>
+		<p name="scellMeasThreshRsrq">-16.0</p>
+		<p name="scellPdcchOlLa">enabledPcellBased</p>
+	</managedObject>
+	<managedObject class="CAPR" version="" operation="create" distName="PLMN-PLMN/MRBTS-571569/LNBTS-571569/LNCEL-41/CAPR-1">
+		<p name="a3Offset">-3.0</p>
+		<p name="a3TimeToTrigger">ms320</p>
+		<p name="a3TriggerQuantity">RSRP</p>
+		<p name="a6Offset">3.0</p>
+		<p name="a6ReportInterval">640ms</p>
+		<p name="a6TimeToTrigger">320ms</p>
+		<p name="earfcnDL">1501</p>
+		<p name="enableA3Event">true</p>
+		<p name="enableA6Event">true</p>
+		<p name="enableFreqPrioSwap">disabled</p>
+		<p name="hysA3Offset">1.0</p>
+		<p name="hysA6Offset">0.0</p>
+		<p name="maxNumScellSwaps">0</p>
+		<p name="sFreqPrio">1</p>
+		<p name="scellMeasThreshRsrp">-114</p>
+		<p name="scellMeasThreshRsrq">-16.0</p>
+		<p name="scellPdcchOlLa">enabledPcellBased</p>
+	</managedObject>
+	<managedObject class="CAPR" version="" operation="create" distName="PLMN-PLMN/MRBTS-595001/LNBTS-595001/LNCEL-43/CAPR-1">
+		<p name="a3Offset">-3.0</p>
+		<p name="a3TimeToTrigger">ms320</p>
+		<p name="a3TriggerQuantity">RSRP</p>
+		<p name="a6Offset">3.0</p>
+		<p name="a6ReportInterval">640ms</p>
+		<p name="a6TimeToTrigger">320ms</p>
+		<p name="earfcnDL">1501</p>
+		<p name="enableA3Event">true</p>
+		<p name="enableA6Event">true</p>
+		<p name="enableFreqPrioSwap">disabled</p>
+		<p name="hysA3Offset">1.0</p>
+		<p name="hysA6Offset">0.0</p>
+		<p name="maxNumScellSwaps">0</p>
+		<p name="sFreqPrio">1</p>
+		<p name="scellMeasThreshRsrp">-114</p>
+		<p name="scellMeasThreshRsrq">-16.0</p>
+		<p name="scellPdcchOlLa">enabledPcellBased</p>
+	</managedObject>
+	<managedObject class="CAPR" version="" operation="create" distName="PLMN-PLMN/MRBTS-573555/LNBTS-573555/LNCEL-11/CAPR-1">
+		<p name="a3Offset">-3.0</p>
+		<p name="a3TimeToTrigger">ms320</p>
+		<p name="a3TriggerQuantity">RSRP</p>
+		<p name="a6Offset">3.0</p>
+		<p name="a6ReportInterval">640ms</p>
+		<p name="a6TimeToTrigger">320ms</p>
+		<p name="earfcnDL">3150</p>
+		<p name="enableA3Event">true</p>
+		<p name="enableA6Event">true</p>
+		<p name="enableFreqPrioSwap">disabled</p>
+		<p name="hysA3Offset">1.0</p>
+		<p name="hysA6Offset">0.0</p>
+		<p name="maxNumScellSwaps">0</p>
+		<p name="sFreqPrio">1</p>
+		<p name="scellMeasThreshRsrp">-114</p>
+		<p name="scellMeasThreshRsrq">-16.0</p>
+		<p name="scellPdcchOlLa">enabledPcellBased</p>
+	</managedObject>
+	<managedObject class="CAPR" version="" operation="create" distName="PLMN-PLMN/MRBTS-573555/LNBTS-573555/LNCEL-12/CAPR-1">
+		<p name="a3Offset">-3.0</p>
+		<p name="a3TimeToTrigger">ms320</p>
+		<p name="a3TriggerQuantity">RSRP</p>
+		<p name="a6Offset">3.0</p>
+		<p name="a6ReportInterval">640ms</p>
+		<p name="a6TimeToTrigger">320ms</p>
+		<p name="earfcnDL">3150</p>
+		<p name="enableA3Event">true</p>
+		<p name="enableA6Event">true</p>
+		<p name="enableFreqPrioSwap">disabled</p>
+		<p name="hysA3Offset">1.0</p>
+		<p name="hysA6Offset">0.0</p>
+		<p name="maxNumScellSwaps">0</p>
+		<p name="sFreqPrio">1</p>
+		<p name="scellMeasThreshRsrp">-114</p>
+		<p name="scellMeasThreshRsrq">-16.0</p>
+		<p name="scellPdcchOlLa">enabledPcellBased</p>
+	</managedObject>
+	<managedObject class="CAPR" version="" operation="create" distName="PLMN-PLMN/MRBTS-573555/LNBTS-573555/LNCEL-13/CAPR-1">
+		<p name="a3Offset">-3.0</p>
+		<p name="a3TimeToTrigger">ms320</p>
+		<p name="a3TriggerQuantity">RSRP</p>
+		<p name="a6Offset">3.0</p>
+		<p name="a6ReportInterval">640ms</p>
+		<p name="a6TimeToTrigger">320ms</p>
+		<p name="earfcnDL">3150</p>
+		<p name="enableA3Event">true</p>
+		<p name="enableA6Event">true</p>
+		<p name="enableFreqPrioSwap">disabled</p>
+		<p name="hysA3Offset">1.0</p>
+		<p name="hysA6Offset">0.0</p>
+		<p name="maxNumScellSwaps">0</p>
+		<p name="sFreqPrio">1</p>
+		<p name="scellMeasThreshRsrp">-114</p>
+		<p name="scellMeasThreshRsrq">-16.0</p>
+		<p name="scellPdcchOlLa">enabledPcellBased</p>
+	</managedObject>
+	<managedObject class="CAPR" version="" operation="create" distName="PLMN-PLMN/MRBTS-573555/LNBTS-573555/LNCEL-14/CAPR-1">
+		<p name="a3Offset">-3.0</p>
+		<p name="a3TimeToTrigger">ms320</p>
+		<p name="a3TriggerQuantity">RSRP</p>
+		<p name="a6Offset">3.0</p>
+		<p name="a6ReportInterval">640ms</p>
+		<p name="a6TimeToTrigger">320ms</p>
+		<p name="earfcnDL">3150</p>
+		<p name="enableA3Event">true</p>
+		<p name="enableA6Event">true</p>
+		<p name="enableFreqPrioSwap">disabled</p>
+		<p name="hysA3Offset">1.0</p>
+		<p name="hysA6Offset">0.0</p>
+		<p name="maxNumScellSwaps">0</p>
+		<p name="sFreqPrio">1</p>
+		<p name="scellMeasThreshRsrp">-114</p>
+		<p name="scellMeasThreshRsrq">-16.0</p>
+		<p name="scellPdcchOlLa">enabledPcellBased</p>
+	</managedObject>
+	<managedObject class="CAPR" version="" operation="create" distName="PLMN-PLMN/MRBTS-573555/LNBTS-573555/LNCEL-14/CAPR-2">
+		<p name="a3Offset">-3.0</p>
+		<p name="a3TimeToTrigger">ms320</p>
+		<p name="a3TriggerQuantity">RSRP</p>
+		<p name="a6Offset">3.0</p>
+		<p name="a6ReportInterval">640ms</p>
+		<p name="a6TimeToTrigger">320ms</p>
+		<p name="earfcnDL">1874</p>
+		<p name="enableA3Event">true</p>
+		<p name="enableA6Event">true</p>
+		<p name="enableFreqPrioSwap">disabled</p>
+		<p name="hysA3Offset">1.0</p>
+		<p name="hysA6Offset">0.0</p>
+		<p name="maxNumScellSwaps">0</p>
+		<p name="sFreqPrio">1</p>
+		<p name="scellMeasThreshRsrp">-114</p>
+		<p name="scellMeasThreshRsrq">-16.0</p>
+		<p name="scellPdcchOlLa">enabledPcellBased</p>
+	</managedObject>
+	<managedObject class="CAPR" version="" operation="create" distName="PLMN-PLMN/MRBTS-573555/LNBTS-573555/LNCEL-16/CAPR-1">
+		<p name="a3Offset">-3.0</p>
+		<p name="a3TimeToTrigger">ms320</p>
+		<p name="a3TriggerQuantity">RSRP</p>
+		<p name="a6Offset">3.0</p>
+		<p name="a6ReportInterval">640ms</p>
+		<p name="a6TimeToTrigger">320ms</p>
+		<p name="earfcnDL">3150</p>
+		<p name="enableA3Event">true</p>
+		<p name="enableA6Event">true</p>
+		<p name="enableFreqPrioSwap">disabled</p>
+		<p name="hysA3Offset">1.0</p>
+		<p name="hysA6Offset">0.0</p>
+		<p name="maxNumScellSwaps">0</p>
+		<p name="sFreqPrio">1</p>
+		<p name="scellMeasThreshRsrp">-114</p>
+		<p name="scellMeasThreshRsrq">-16.0</p>
+		<p name="scellPdcchOlLa">enabledPcellBased</p>
+	</managedObject>
+	<managedObject class="CAPR" version="" operation="create" distName="PLMN-PLMN/MRBTS-573555/LNBTS-573555/LNCEL-16/CAPR-2">
+		<p name="a3Offset">-3.0</p>
+		<p name="a3TimeToTrigger">ms320</p>
+		<p name="a3TriggerQuantity">RSRP</p>
+		<p name="a6Offset">3.0</p>
+		<p name="a6ReportInterval">640ms</p>
+		<p name="a6TimeToTrigger">320ms</p>
+		<p name="earfcnDL">1874</p>
+		<p name="enableA3Event">true</p>
+		<p name="enableA6Event">true</p>
+		<p name="enableFreqPrioSwap">disabled</p>
+		<p name="hysA3Offset">1.0</p>
+		<p name="hysA6Offset">0.0</p>
+		<p name="maxNumScellSwaps">0</p>
+		<p name="sFreqPrio">1</p>
+		<p name="scellMeasThreshRsrp">-114</p>
+		<p name="scellMeasThreshRsrq">-16.0</p>
+		<p name="scellPdcchOlLa">enabledPcellBased</p>
+	</managedObject>
+	<managedObject class="CAPR" version="" operation="create" distName="PLMN-PLMN/MRBTS-573555/LNBTS-573555/LNCEL-21/CAPR-1">
+		<p name="a3Offset">-3.0</p>
+		<p name="a3TimeToTrigger">ms320</p>
+		<p name="a3TriggerQuantity">RSRP</p>
+		<p name="a6Offset">3.0</p>
+		<p name="a6ReportInterval">640ms</p>
+		<p name="a6TimeToTrigger">320ms</p>
+		<p name="earfcnDL">1501</p>
+		<p name="enableA3Event">true</p>
+		<p name="enableA6Event">true</p>
+		<p name="enableFreqPrioSwap">disabled</p>
+		<p name="hysA3Offset">1.0</p>
+		<p name="hysA6Offset">0.0</p>
+		<p name="maxNumScellSwaps">0</p>
+		<p name="sFreqPrio">1</p>
+		<p name="scellMeasThreshRsrp">-114</p>
+		<p name="scellMeasThreshRsrq">-16.0</p>
+		<p name="scellPdcchOlLa">enabledPcellBased</p>
+	</managedObject>
+	<managedObject class="CAPR" version="" operation="create" distName="PLMN-PLMN/MRBTS-573555/LNBTS-573555/LNCEL-22/CAPR-1">
+		<p name="a3Offset">-3.0</p>
+		<p name="a3TimeToTrigger">ms320</p>
+		<p name="a3TriggerQuantity">RSRP</p>
+		<p name="a6Offset">3.0</p>
+		<p name="a6ReportInterval">640ms</p>
+		<p name="a6TimeToTrigger">320ms</p>
+		<p name="earfcnDL">1501</p>
+		<p name="enableA3Event">true</p>
+		<p name="enableA6Event">true</p>
+		<p name="enableFreqPrioSwap">disabled</p>
+		<p name="hysA3Offset">1.0</p>
+		<p name="hysA6Offset">0.0</p>
+		<p name="maxNumScellSwaps">0</p>
+		<p name="sFreqPrio">1</p>
+		<p name="scellMeasThreshRsrp">-114</p>
+		<p name="scellMeasThreshRsrq">-16.0</p>
+		<p name="scellPdcchOlLa">enabledPcellBased</p>
+	</managedObject>
+	<managedObject class="CAPR" version="" operation="create" distName="PLMN-PLMN/MRBTS-573555/LNBTS-573555/LNCEL-23/CAPR-1">
+		<p name="a3Offset">-3.0</p>
+		<p name="a3TimeToTrigger">ms320</p>
+		<p name="a3TriggerQuantity">RSRP</p>
+		<p name="a6Offset">3.0</p>
+		<p name="a6ReportInterval">640ms</p>
+		<p name="a6TimeToTrigger">320ms</p>
+		<p name="earfcnDL">1501</p>
+		<p name="enableA3Event">true</p>
+		<p name="enableA6Event">true</p>
+		<p name="enableFreqPrioSwap">disabled</p>
+		<p name="hysA3Offset">1.0</p>
+		<p name="hysA6Offset">0.0</p>
+		<p name="maxNumScellSwaps">0</p>
+		<p name="sFreqPrio">1</p>
+		<p name="scellMeasThreshRsrp">-114</p>
+		<p name="scellMeasThreshRsrq">-16.0</p>
+		<p name="scellPdcchOlLa">enabledPcellBased</p>
+	</managedObject>
+	<managedObject class="CAPR" version="" operation="create" distName="PLMN-PLMN/MRBTS-573555/LNBTS-573555/LNCEL-42/CAPR-2">
+		<p name="a3Offset">-3.0</p>
+		<p name="a3TimeToTrigger">ms320</p>
+		<p name="a3TriggerQuantity">RSRP</p>
+		<p name="a6Offset">3.0</p>
+		<p name="a6ReportInterval">640ms</p>
+		<p name="a6TimeToTrigger">320ms</p>
+		<p name="earfcnDL">3150</p>
+		<p name="enableA3Event">true</p>
+		<p name="enableA6Event">true</p>
+		<p name="enableFreqPrioSwap">disabled</p>
+		<p name="hysA3Offset">1.0</p>
+		<p name="hysA6Offset">0.0</p>
+		<p name="maxNumScellSwaps">0</p>
+		<p name="sFreqPrio">1</p>
+		<p name="scellMeasThreshRsrp">-114</p>
+		<p name="scellMeasThreshRsrq">-16.0</p>
+		<p name="scellPdcchOlLa">enabledPcellBased</p>
+	</managedObject>
+	<managedObject class="CAPR" version="" operation="create" distName="PLMN-PLMN/MRBTS-570063/LNBTS-570063/LNCEL-11/CAPR-1">
+		<p name="a3Offset">-3.0</p>
+		<p name="a3TimeToTrigger">ms320</p>
+		<p name="a3TriggerQuantity">RSRP</p>
+		<p name="a6Offset">3.0</p>
+		<p name="a6ReportInterval">640ms</p>
+		<p name="a6TimeToTrigger">320ms</p>
+		<p name="earfcnDL">1874</p>
+		<p name="enableA3Event">true</p>
+		<p name="enableA6Event">true</p>
+		<p name="enableFreqPrioSwap">disabled</p>
+		<p name="hysA3Offset">1.0</p>
+		<p name="hysA6Offset">0.0</p>
+		<p name="maxNumScellSwaps">0</p>
+		<p name="sFreqPrio">1</p>
+		<p name="scellMeasThreshRsrp">-114</p>
+		<p name="scellMeasThreshRsrq">-16.0</p>
+		<p name="scellPdcchOlLa">enabledPcellBased</p>
+	</managedObject>
+	<managedObject class="CAPR" version="" operation="create" distName="PLMN-PLMN/MRBTS-570063/LNBTS-570063/LNCEL-12/CAPR-1">
+		<p name="a3Offset">-3.0</p>
+		<p name="a3TimeToTrigger">ms320</p>
+		<p name="a3TriggerQuantity">RSRP</p>
+		<p name="a6Offset">3.0</p>
+		<p name="a6ReportInterval">640ms</p>
+		<p name="a6TimeToTrigger">320ms</p>
+		<p name="earfcnDL">1874</p>
+		<p name="enableA3Event">true</p>
+		<p name="enableA6Event">true</p>
+		<p name="enableFreqPrioSwap">disabled</p>
+		<p name="hysA3Offset">1.0</p>
+		<p name="hysA6Offset">0.0</p>
+		<p name="maxNumScellSwaps">0</p>
+		<p name="sFreqPrio">1</p>
+		<p name="scellMeasThreshRsrp">-114</p>
+		<p name="scellMeasThreshRsrq">-16.0</p>
+		<p name="scellPdcchOlLa">enabledPcellBased</p>
+	</managedObject>
+	<managedObject class="CAPR" version="" operation="create" distName="PLMN-PLMN/MRBTS-570063/LNBTS-570063/LNCEL-13/CAPR-1">
+		<p name="a3Offset">-3.0</p>
+		<p name="a3TimeToTrigger">ms320</p>
+		<p name="a3TriggerQuantity">RSRP</p>
+		<p name="a6Offset">3.0</p>
+		<p name="a6ReportInterval">640ms</p>
+		<p name="a6TimeToTrigger">320ms</p>
+		<p name="earfcnDL">1874</p>
+		<p name="enableA3Event">true</p>
+		<p name="enableA6Event">true</p>
+		<p name="enableFreqPrioSwap">disabled</p>
+		<p name="hysA3Offset">1.0</p>
+		<p name="hysA6Offset">0.0</p>
+		<p name="maxNumScellSwaps">0</p>
+		<p name="sFreqPrio">1</p>
+		<p name="scellMeasThreshRsrp">-114</p>
+		<p name="scellMeasThreshRsrq">-16.0</p>
+		<p name="scellPdcchOlLa">enabledPcellBased</p>
+	</managedObject>
+	<managedObject class="CAPR" version="" operation="create" distName="PLMN-PLMN/MRBTS-570063/LNBTS-570063/LNCEL-43/CAPR-1">
+		<p name="a3Offset">-3.0</p>
+		<p name="a3TimeToTrigger">ms320</p>
+		<p name="a3TriggerQuantity">RSRP</p>
+		<p name="a6Offset">3.0</p>
+		<p name="a6ReportInterval">640ms</p>
+		<p name="a6TimeToTrigger">320ms</p>
+		<p name="earfcnDL">1501</p>
+		<p name="enableA3Event">true</p>
+		<p name="enableA6Event">true</p>
+		<p name="enableFreqPrioSwap">disabled</p>
+		<p name="hysA3Offset">1.0</p>
+		<p name="hysA6Offset">0.0</p>
+		<p name="maxNumScellSwaps">0</p>
+		<p name="sFreqPrio">1</p>
+		<p name="scellMeasThreshRsrp">-114</p>
+		<p name="scellMeasThreshRsrq">-16.0</p>
+		<p name="scellPdcchOlLa">enabledPcellBased</p>
+	</managedObject>
+	<managedObject class="CAPR" version="" operation="create" distName="PLMN-PLMN/MRBTS-573559/LNBTS-573559/LNCEL-15/CAPR-1">
+		<p name="a3Offset">-3.0</p>
+		<p name="a3TimeToTrigger">ms320</p>
+		<p name="a3TriggerQuantity">RSRP</p>
+		<p name="a6Offset">3.0</p>
+		<p name="a6ReportInterval">640ms</p>
+		<p name="a6TimeToTrigger">320ms</p>
+		<p name="earfcnDL">1874</p>
+		<p name="enableA3Event">true</p>
+		<p name="enableA6Event">true</p>
+		<p name="enableFreqPrioSwap">disabled</p>
+		<p name="hysA3Offset">1.0</p>
+		<p name="hysA6Offset">0.0</p>
+		<p name="maxNumScellSwaps">0</p>
+		<p name="sFreqPrio">1</p>
+		<p name="scellMeasThreshRsrp">-114</p>
+		<p name="scellMeasThreshRsrq">-16.0</p>
+		<p name="scellPdcchOlLa">enabledPcellBased</p>
+	</managedObject>
+	<managedObject class="CAPR" version="" operation="create" distName="PLMN-PLMN/MRBTS-573559/LNBTS-573559/LNCEL-43/CAPR-1">
+		<p name="a3Offset">-3.0</p>
+		<p name="a3TimeToTrigger">ms320</p>
+		<p name="a3TriggerQuantity">RSRP</p>
+		<p name="a6Offset">3.0</p>
+		<p name="a6ReportInterval">640ms</p>
+		<p name="a6TimeToTrigger">320ms</p>
+		<p name="earfcnDL">1501</p>
+		<p name="enableA3Event">true</p>
+		<p name="enableA6Event">true</p>
+		<p name="enableFreqPrioSwap">disabled</p>
+		<p name="hysA3Offset">1.0</p>
+		<p name="hysA6Offset">0.0</p>
+		<p name="maxNumScellSwaps">0</p>
+		<p name="sFreqPrio">1</p>
+		<p name="scellMeasThreshRsrp">-114</p>
+		<p name="scellMeasThreshRsrq">-16.0</p>
+		<p name="scellPdcchOlLa">enabledPcellBased</p>
+	</managedObject>
+</cmData>
+</raml>
